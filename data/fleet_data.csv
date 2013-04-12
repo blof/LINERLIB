@@ -1,0 +1,7 @@
+Vessel class	Capacity FFE	TC rate daily (fixed Cost)	draft	minSpeed	maxSpeed	designSpeed	Bunker ton per day at designSpeed	Idle Consumption ton/day	panamaFee	suezFee
+Feeder_450	450	5000	8	10	14	12	18.8	2.4	64800	175769
+Feeder_800	800	8000	9.5	10	17	14	23.7	2.5	115200	218445
+Panamax_1200	1200	11000	12	12	19	18	52.5	4	172800	267217
+Panamax_2400	2400	21000	11	12	22	16	57.4	5.3	345600	413533
+Post_panamax	4200	35000	13	12	23	16.5	82.2	7.4		633007
+Super_panamax	7500	55000	12.5	12	22	17	126.9	10		1035376
