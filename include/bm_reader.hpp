@@ -16,7 +16,7 @@
     with this program; if not, write to the Free Software Foundation, Inc.,
     51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 
-*/
+ */
 
 #include "../include/BM_Graph.hpp"
 #include "../include/bm_data.hpp"
@@ -38,89 +38,89 @@ typedef std::map < std::pair<graph_traits<BM::Graph>::vertex_descriptor, graph_t
 typedef std::map < std::pair<int, int> , boost::tuple<double, double, double> > demand_idx_map_t;
 // typedef std::tr1::unordered_map<std::pair<int, int>, boost::tuple<double, bool, bool> > data_map_t;
 // typedef std::tr1::unordered_map<int, string> port_map_t;
-typedef std::map<std::pair<int, int>,boost::tuple<double, bool, bool> > data_map_t;
+typedef std::multimap<std::pair<int, int>,boost::tuple<double, bool, bool> > data_map_t;
 typedef std::map<int, string> port_map_t;
 
 
 namespace BM
-  {
-  class reader
-    {
-    public:
-      reader ( cl_parameters );
-      ~reader();
+{
+class reader
+{
+public:
+	reader ( cl_parameters );
+	~reader();
 
-      BM::data parse_instance();
-      void parse_ports_to_vertices();
-      void parse_distances_to_edges();
-      void parse_demands();
-      void parse_vessel_classes();
-      void retrieve_instance_data();
-      void make_port_call_costs();
-      void make_vessel_class_bunker_consumption();
-      const Graph get_graph()
-      {
-        return m_graph;
-      }
+	BM::data parse_instance();
+	void parse_ports_to_vertices();
+	void parse_distances_to_edges();
+	void parse_demands();
+	void parse_vessel_classes();
+	void retrieve_instance_data();
+	void make_port_call_costs();
+	void make_vessel_class_bunker_consumption();
+	const Graph get_graph()
+	{
+		return m_graph;
+	}
 
-      const Graph get_instance_graph()
-      {
-        return m_instance_graph;
-      }
+	const Graph get_instance_graph()
+	{
+		return m_instance_graph;
+	}
 
-      vector<vesselclass> get_fleet()
-      {
-        return m_fleet;
-      }
+	vector<vesselclass> get_fleet()
+    		  {
+		return m_fleet;
+    		  }
 
-      const demand_map_t get_demands()
-      {
-        return m_demand_map;
-      }
+	const demand_map_t get_demands()
+	{
+		return m_demand_map;
+	}
 
-      const demand_idx_map_t get_demands_by_id()
-      {
-        return m_instance_dem;
-      }
+	const demand_idx_map_t get_demands_by_id()
+	{
+		return m_instance_dem;
+	}
 
-      const data_map_t get_distances_by_id()
-      {
-        return m_instance_dist;
-      }
+	const data_map_t get_distances_by_id()
+	{
+		return m_instance_dist;
+	}
 
-      const map<string, vertex_descriptor> get_UNLOCODE_to_vertex()
-      {
-        return m_UNLOCODE_to_vertex;
-      }
+	const map<string, vertex_descriptor> get_UNLOCODE_to_vertex()
+    		  {
+		return m_UNLOCODE_to_vertex;
+    		  }
 
-      const cl_parameters get_file_names()
-      {
-        return m_file_names;
-      }
+	const cl_parameters get_file_names()
+	{
+		return m_file_names;
+	}
 
 
-      port_map_t get_ports()
-      {
-        return m_instance_ports;
-      }
+	port_map_t get_ports()
+	{
+		return m_instance_ports;
+	}
 
-    private:
-      cl_parameters m_file_names;
-      Graph m_graph; //a graph representation of the vertices
-      demand_map_t m_demand_map;
-      vector<vesselclass> m_fleet;
-      map<string, vertex_descriptor> m_UNLOCODE_to_vertex;
-      data_map_t m_instance_dist;
-      demand_idx_map_t m_instance_dem;
-      port_map_t m_instance_ports;
-      Graph m_instance_graph;
+private:
+	cl_parameters m_file_names;
+	Graph m_graph; //a graph representation of the vertices
+	demand_map_t m_demand_map;
+	vector<vesselclass> m_fleet;
+	map<string, vertex_descriptor> m_UNLOCODE_to_vertex;
+	data_map_t m_instance_dist;
+	demand_idx_map_t m_instance_dem;
+	port_map_t m_instance_ports;
+	Graph m_instance_graph;
 
-      vertex_descriptor UNLOCODE_to_vertex ( string UNLOCODE );
-      void test_bundled_properties();
-      
-      pair<double, double> m_suez;
-      
-      pair<double, double> m_panama;
-    };
+	vertex_descriptor UNLOCODE_to_vertex ( string UNLOCODE );
+	void test_bundled_properties();
+
+	pair<double, double> m_suez;
+
+	pair<double, double> m_panama;
+};
 }
 #endif

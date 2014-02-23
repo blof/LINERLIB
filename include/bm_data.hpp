@@ -59,7 +59,7 @@ typedef std::map < std::pair<int, int> , boost::tuple<double, double, double> > 
 //typedef std::tr1::unordered_map<std::pair<int, int>,boost::tuple<double, bool, bool> > data_map_t;
 //typedef std::tr1::unordered_map<std::pair<int, int>, std::string> iistrmap_t;
 //typedef std::tr1::unordered_map<int, string> port_map_t;
-typedef std::map<std::pair<int, int>,boost::tuple<double, bool, bool> > data_map_t;
+typedef std::multimap<std::pair<int, int>,boost::tuple<double, bool, bool> > data_map_t;
 typedef std::map<int, string> port_map_t;
 
 typedef std::map<std::pair<int, int>, std::string> iistrmap_t;
