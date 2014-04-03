@@ -39,11 +39,11 @@ It is possible to generate 3 instances (high, medium and low) related to differe
 To generate the high and low instances TC rates and quantity of vessels are adjusted according to the fleet_data.csv and fleet_$INSTANCE$.csv according to the following rules:
 
 To generate a HIGH capacity case you need to:
-Multiply TC Rates by 0.8
+Multiply TC Rates by 0.8 and round to nearest thousand.
 Multiply Quantity by 1.2 and round to nearest integer.
 
 To generate a LOW capacity case you need to:
-Multiply TC Rates by 1.4
+Multiply TC Rates by 1.4 and round to nearest thousand.
 Multiply Quantity by 0.8 and round to nearest integer.
 
 for more information on each cost parameter and data creation and source please consult the technical report.
@@ -61,4 +61,12 @@ National Imagery and Mapping Agency for providing data to construct the benchmar
 
 This project was supported in part by The Danish Strategical Research Council under the ENERPLAN project.
 
+
+HISTORY:
+Version 1.0 released August 16. 2013
+
+Version 1.1 released April  2014
+**Duplicate entries of RULED removed**
+**All move related costs in ports.csv rounded of to nearest integer**
+**readme clarifies rounding of TC rates to nearest thousand as explained in the article**
 
