@@ -68,5 +68,5 @@ Version 1.0 released August 16. 2013
 Version 1.1 released April  2014
 **Duplicate entries of RULED removed**
 **All move related costs in ports.csv rounded of to nearest integer**
-**readme clarifies rounding of TC rates to nearest thousand as explained in the article**
+**readme files clarifies rounding of TC rates to nearest thousand as explained in the original article**
 
