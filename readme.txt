@@ -50,6 +50,9 @@ for more information on each cost parameter and data creation and source please 
 
 We strongly urge you to stay informed about the LINERLIB project by following us on GitHub.
 
+MISMATCH BETWEEN ARTICLE AND DATA:
+WAF instance has 20 ports and 37 demands, and not 19 ports and 38 demands as declared in the article.
+
 Acknowledgements:
 We would like to thank Maersk Line, Network and Product for valuable insights and access to real
 life data for the creation of the benchmark suite. In particular we would like to thank Niels Madsen
@@ -70,3 +73,6 @@ Version 1.1 released April  2014
 ** lifting and port call cost in ports.csv rounded of to nearest integer**
 **readme files clarifies rounding of TC rates to nearest thousand as explained in the original article**
 
+version 1.2. released September 2015
+** NEW transittimes for WAF, MED, Pacific, WorldSmall, Europeasia as some transit times were to tight.**** 
+**WAF has 20 ports and 37 demands - not 19 ports and 38 demands as described in the article.*********'
