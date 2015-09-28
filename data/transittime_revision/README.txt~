@@ -1,0 +1,5 @@
+The demand files in this folder are a consequence of revising transit
+times in an era, where slowsteaming is much more common. It is also a
+result of liner shipping network design models operating with an
+average speed and hence not being able to set individual voyage speeds
+on a service in order to meet critical transittimes. The origin-destination pairs, quantity and revenue is identical to the orginal demand files. For most of the origin-destination pairs the transit time is also identical, but for some the transit time has been revised.

@@ -1,0 +1,1105 @@
+*********************Best found solution********************************
+service 0 service id 0
+capacity 800
+ # vessels 4
+ Butterfly rotation 
+10	MACAS	Casablanca
+0	MAAGA	Agadir
+39	ESVGO	Vigo
+18	PTLEI	Leixoes
+26	MAPTM	Tangier
+2	ESALG	Algeciras
+20	ESAGP	Malaga
+9	DZBJA	Bejaia
+36	TNTUN	Tunis
+12	ITGOA	Genoa
+32	ESTAR	Tarragona
+20	ESAGP	Malaga
+
+ speed 11.388
+ voyage distance nautical miles 4373
+ voyage duration in weeks 4
+ Port call cost 153594
+ Bunker idle burn in Ton 30
+ Bunker fuel burn in Ton 204.093
+ Total bunker cost at 600 USD for one round trip 140456
+ Total TC cost 224000
+service 1 service id 1
+capacity 800
+ # vessels 1
+ Butterfly rotation 
+17	SYLTK	Latakia
+14	ILHFA	Haifa
+11	EGDAM	Damietta
+25	EGPSD	Port Said
+1	EGALY	Alexandria
+25	EGPSD	Port Said
+6	ILASH	Ashdod
+21	TRMER	Mersin
+
+ speed 10
+ voyage distance nautical miles 1246
+ voyage duration in weeks 1.88452
+ Port call cost 259231
+ Bunker idle burn in Ton 20
+ Bunker fuel burn in Ton 44.8406
+ Total bunker cost at 600 USD for one round trip 38904.3
+ Total TC cost 56000
+service 2 service id 2
+capacity 450
+ # vessels 3
+20	ESAGP	Malaga
+3	DZALG	Algiers
+30	DZSKI	Skikda
+15	TRIZM	Izmir
+28	ITSAL	Salerno
+12	ITGOA	Genoa
+2	ESALG	Algeciras
+
+ speed 11.2173
+ voyage distance nautical miles 3769
+ voyage duration in weeks 3
+ Port call cost 67110
+ Bunker idle burn in Ton 16.8
+ Bunker fuel burn in Ton 214.982
+ Total bunker cost at 600 USD for one round trip 139069
+ Total TC cost 105000
+service 3 service id 3
+capacity 800
+ # vessels 3
+36	TNTUN	Tunis
+13	ITGIT	Gioia Tauro
+35	ITTRS	Trieste
+24	GRPIR	Piraeus
+4	TRAMB	Ambarli
+19	CYLMS	Limassol
+25	EGPSD	Port Said
+
+ speed 13.2232
+ voyage distance nautical miles 4443
+ voyage duration in weeks 3
+ Port call cost 98241
+ Bunker idle burn in Ton 17.5
+ Bunker fuel burn in Ton 279.578
+ Total bunker cost at 600 USD for one round trip 178247
+ Total TC cost 168000
+service 4 service id 4
+capacity 1200
+ # vessels 4
+8	LBBEY	Beirut
+25	EGPSD	Port Said
+13	ITGIT	Gioia Tauro
+37	ESVLC	Valencia
+2	ESALG	Algeciras
+20	ESAGP	Malaga
+26	MAPTM	Tangier
+16	ESLPA	Las Palmas
+7	ESBCN	Barcelona
+12	ITGOA	Genoa
+
+ speed 14.7593
+ voyage distance nautical miles 6376
+ voyage duration in weeks 4
+ Port call cost 167503
+ Bunker idle burn in Ton 40
+ Bunker fuel burn in Ton 520.964
+ Total bunker cost at 600 USD for one round trip 336579
+ Total TC cost 308000
+service 5 service id 5
+capacity 450
+ # vessels 1
+10	MACAS	Casablanca
+2	ESALG	Algeciras
+23	DZORN	Oran
+
+ speed 10
+ voyage distance nautical miles 838
+ voyage duration in weeks 0.927381
+ Port call cost 23974
+ Bunker idle burn in Ton 7.2
+ Bunker fuel burn in Ton 37.988
+ Total bunker cost at 600 USD for one round trip 27112.8
+ Total TC cost 35000
+service 6 service id 6
+capacity 450
+ # vessels 4
+25	EGPSD	Port Said
+6	ILASH	Ashdod
+13	ITGIT	Gioia Tauro
+12	ITGOA	Genoa
+27	GEPTI	Poti
+22	UAODS	Odessa
+38	BGVAR	Varna
+
+ speed 10.5675
+ voyage distance nautical miles 5326
+ voyage duration in weeks 4
+ Port call cost 185306
+ Bunker idle burn in Ton 16.8
+ Bunker fuel burn in Ton 269.616
+ Total bunker cost at 600 USD for one round trip 171849
+ Total TC cost 140000
+ ------------------Flow Solution ---------------------- 
+ID:0 MAAGA->ESALG Transported 70, trans in %: 100
+ Path MAAGA_0->ESALG_0
+ID:1 MAAGA->ITGOA Transported 6, trans in %: 100
+ Path MAAGA_0->ITGOA_0
+ID:2 MAAGA->ITGIT Transported 10, trans in %: 100
+ Path MAAGA_0->TNTUN_0
+TNTUN_3->ITGIT_3
+ID:3 MAAGA->ESAGP Transported 15, trans in %: 100
+ Path MAAGA_0->ESAGP_0
+ID:4 MAAGA->GRPIR Transported 5, trans in %: 100
+ Path MAAGA_0->TNTUN_0
+TNTUN_3->GRPIR_3
+ID:6 MAAGA->MAPTM Transported 4, trans in %: 100
+ Path MAAGA_0->MAPTM_0
+ID:8 MAAGA->ESVGO Transported 17, trans in %: 100
+ Path MAAGA_0->ESVGO_0
+ID:9 EGALY->ESALG Transported 22, trans in %: 100
+ Path EGALY_1->EGPSD_1
+EGPSD_4->ESALG_4
+ID:10 EGALY->ILASH Transported 9, trans in %: 100
+ Path EGALY_1->ILASH_1
+ID:11 EGALY->LBBEY Transported 45, trans in %: 100
+ Path EGALY_1->EGPSD_1
+EGPSD_4->LBBEY_4
+ID:12 EGALY->MACAS Transported 25, trans in %: 100
+ Path EGALY_1->EGPSD_1
+EGPSD_3->TNTUN_3
+TNTUN_0->MACAS_0
+ID:13 EGALY->ITGIT Transported 20, trans in %: 100
+ Path EGALY_1->EGPSD_1
+EGPSD_4->ITGIT_4
+ID:14 EGALY->SYLTK Transported 4, trans in %: 100
+ Path EGALY_1->SYLTK_1
+ID:15 EGALY->PTLEI Transported 9, trans in %: 100
+ Path EGALY_1->EGPSD_1
+EGPSD_3->TNTUN_3
+TNTUN_0->PTLEI_0
+ID:17 EGALY->EGPSD Transported 37, trans in %: 100
+ Path EGALY_1->EGPSD_1
+ID:20 EGALY->TNTUN Transported 2, trans in %: 100
+ Path EGALY_1->EGPSD_1
+EGPSD_3->TNTUN_3
+ID:21 EGALY->ESVLC Transported 1, trans in %: 100
+ Path EGALY_1->EGPSD_1
+EGPSD_4->ESVLC_4
+ID:24 ESALG->DZALG Transported 33, trans in %: 100
+ Path ESALG_2->DZALG_2
+ID:25 ESALG->TRAMB Transported 266, trans in %: 100
+ Path ESALG_0->TNTUN_0
+TNTUN_3->TRAMB_3
+ID:28 ESALG->LBBEY Transported 37, trans in %: 100
+ Path ESALG_4->LBBEY_4
+ID:29 ESALG->DZBJA Transported 8, trans in %: 100
+ Path ESALG_0->DZBJA_0
+ID:30 ESALG->MACAS Transported 180, trans in %: 100
+ Path ESALG_5->MACAS_5
+ID:33 ESALG->TRIZM Transported 37, trans in %: 100
+ Path ESALG_2->TRIZM_2
+ID:34 ESALG->ESLPA Transported 21, trans in %: 100
+ Path ESALG_4->ESLPA_4
+ID:37 ESALG->CYLMS Transported 4, trans in %: 100
+ Path ESALG_0->TNTUN_0
+TNTUN_3->CYLMS_3
+ID:40 ESALG->DZORN Transported 35, trans in %: 100
+ Path ESALG_5->DZORN_5
+ID:41 ESALG->GRPIR Transported 76, trans in %: 100
+ Path ESALG_0->TNTUN_0
+TNTUN_3->GRPIR_3
+ID:43 ESALG->ITSAL Transported 1, trans in %: 100
+ Path ESALG_2->ITSAL_2
+ID:45 ESALG->DZSKI Transported 11, trans in %: 100
+ Path ESALG_2->DZSKI_2
+ID:48 ESALG->ITTRS Transported 7, trans in %: 100
+ Path ESALG_0->TNTUN_0
+TNTUN_3->ITTRS_3
+ID:49 ESALG->TNTUN Transported 49, trans in %: 100
+ Path ESALG_0->TNTUN_0
+ID:50 ESALG->ESVLC Transported 9, trans in %: 100
+ Path ESALG_4->ESVLC_4
+ID:52 DZALG->PTLEI Transported 1, trans in %: 100
+ Path DZALG_2->ITGOA_2
+ITGOA_0->PTLEI_0
+ID:53 DZALG->ESAGP Transported 7, trans in %: 100
+ Path DZALG_2->ESAGP_2
+ID:54 DZALG->EGPSD Transported 2, trans in %: 100
+ Path DZALG_2->ITGOA_2
+ITGOA_4->EGPSD_4
+ID:55 TRAMB->EGALY Transported 13, trans in %: 100
+ Path TRAMB_3->EGPSD_3
+EGPSD_1->EGALY_1
+ID:57 TRAMB->ILASH Transported 1, trans in %: 100
+ Path TRAMB_3->EGPSD_3
+EGPSD_6->ILASH_6
+ID:58 TRAMB->ESBCN Transported 6, trans in %: 100
+ Path TRAMB_3->EGPSD_3
+EGPSD_4->ESBCN_4
+ID:60 TRAMB->MACAS Transported 13, trans in %: 100
+ Path TRAMB_3->TNTUN_3
+TNTUN_0->MACAS_0
+ID:61 TRAMB->ILHFA Transported 61, trans in %: 100
+ Path TRAMB_3->EGPSD_3
+EGPSD_1->ILHFA_1
+ID:62 TRAMB->SYLTK Transported 19, trans in %: 100
+ Path TRAMB_3->EGPSD_3
+EGPSD_1->SYLTK_1
+ID:63 TRAMB->PTLEI Transported 21, trans in %: 100
+ Path TRAMB_3->TNTUN_3
+TNTUN_0->PTLEI_0
+ID:65 TRAMB->EGPSD Transported 71, trans in %: 100
+ Path TRAMB_3->EGPSD_3
+ID:66 TRAMB->MAPTM Transported 21, trans in %: 56.7568
+ Path TRAMB_3->TNTUN_3
+TNTUN_0->MAPTM_0
+ID:67 TRAMB->TNTUN Transported 7, trans in %: 100
+ Path TRAMB_3->TNTUN_3
+ID:68 ILASH->MAAGA Transported 25, trans in %: 100
+ Path ILASH_1->EGPSD_1
+EGPSD_3->TNTUN_3
+TNTUN_0->MAAGA_0
+ID:69 ILASH->ESALG Transported 18, trans in %: 100
+ Path ILASH_1->EGPSD_1
+EGPSD_4->ESALG_4
+ID:70 ILASH->ESBCN Transported 23, trans in %: 100
+ Path ILASH_1->EGPSD_1
+EGPSD_4->ESBCN_4
+ID:71 ILASH->ITGIT Transported 16, trans in %: 100
+ Path ILASH_6->ITGIT_6
+ID:72 ILASH->ESAGP Transported 9, trans in %: 100
+ Path ILASH_1->EGPSD_1
+EGPSD_4->ESAGP_4
+ID:73 ILASH->EGPSD Transported 23, trans in %: 100
+ Path ILASH_1->EGPSD_1
+ID:74 ILASH->MAPTM Transported 25, trans in %: 100
+ Path ILASH_1->EGPSD_1
+EGPSD_4->MAPTM_4
+ID:75 ILASH->BGVAR Transported 51, trans in %: 100
+ Path ILASH_6->BGVAR_6
+ID:77 ESBCN->ESALG Transported 2, trans in %: 4.16667
+ Path ESBCN_4->ESALG_4
+ID:79 ESBCN->SYLTK Transported 17, trans in %: 100
+ Path ESBCN_4->EGPSD_4
+EGPSD_1->SYLTK_1
+ID:80 ESBCN->ESAGP Transported 16, trans in %: 100
+ Path ESBCN_4->ESAGP_4
+ID:81 ESBCN->EGPSD Transported 30, trans in %: 100
+ Path ESBCN_4->EGPSD_4
+ID:82 ESBCN->MAPTM Transported 5, trans in %: 100
+ Path ESBCN_4->MAPTM_4
+ID:85 LBBEY->ESALG Transported 2, trans in %: 100
+ Path LBBEY_4->ESALG_4
+ID:86 LBBEY->CYLMS Transported 28, trans in %: 100
+ Path LBBEY_4->EGPSD_4
+EGPSD_3->CYLMS_3
+ID:87 LBBEY->ESAGP Transported 28, trans in %: 100
+ Path LBBEY_4->ESAGP_4
+ID:88 LBBEY->UAODS Transported 16, trans in %: 100
+ Path LBBEY_4->EGPSD_4
+EGPSD_6->UAODS_6
+ID:89 LBBEY->EGPSD Transported 99, trans in %: 100
+ Path LBBEY_4->EGPSD_4
+ID:90 LBBEY->MAPTM Transported 2, trans in %: 100
+ Path LBBEY_4->MAPTM_4
+ID:91 DZBJA->PTLEI Transported 1, trans in %: 100
+ Path DZBJA_0->PTLEI_0
+ID:93 MACAS->ESALG Transported 15, trans in %: 100
+ Path MACAS_5->ESALG_5
+ID:96 MACAS->DZBJA Transported 32, trans in %: 100
+ Path MACAS_0->DZBJA_0
+ID:97 MACAS->ITGOA Transported 27, trans in %: 100
+ Path MACAS_0->ITGOA_0
+ID:98 MACAS->ESAGP Transported 22, trans in %: 100
+ Path MACAS_0->ESAGP_0
+ID:99 MACAS->DZORN Transported 13, trans in %: 100
+ Path MACAS_5->DZORN_5
+ID:100 MACAS->EGPSD Transported 3, trans in %: 21.4286
+ Path MACAS_0->TNTUN_0
+TNTUN_3->EGPSD_3
+ID:101 MACAS->MAPTM Transported 1, trans in %: 100
+ Path MACAS_0->MAPTM_0
+ID:102 EGDAM->EGPSD Transported 8, trans in %: 100
+ Path EGDAM_1->EGPSD_1
+ID:103 ITGOA->MAAGA Transported 12, trans in %: 100
+ Path ITGOA_0->MAAGA_0
+ID:104 ITGOA->ESALG Transported 51, trans in %: 100
+ Path ITGOA_2->ESALG_2
+ID:105 ITGOA->DZALG Transported 20, trans in %: 100
+ Path ITGOA_2->DZALG_2
+ID:106 ITGOA->MACAS Transported 3, trans in %: 100
+ Path ITGOA_0->MACAS_0
+ID:107 ITGOA->PTLEI Transported 8, trans in %: 100
+ Path ITGOA_0->PTLEI_0
+ID:109 ITGOA->UAODS Transported 11, trans in %: 100
+ Path ITGOA_6->UAODS_6
+ID:110 ITGOA->EGPSD Transported 125, trans in %: 100
+ Path ITGOA_4->EGPSD_4
+ID:112 ITGOA->GEPTI Transported 62, trans in %: 100
+ Path ITGOA_6->GEPTI_6
+ID:113 ITGOA->DZSKI Transported 20, trans in %: 100
+ Path ITGOA_2->DZSKI_2
+ID:115 ITGIT->EGALY Transported 15, trans in %: 100
+ Path ITGIT_3->EGPSD_3
+EGPSD_1->EGALY_1
+ID:116 ITGIT->DZALG Transported 11, trans in %: 100
+ Path ITGIT_6->ITGOA_6
+ITGOA_2->DZALG_2
+ID:117 ITGIT->TRAMB Transported 66, trans in %: 100
+ Path ITGIT_3->TRAMB_3
+ID:118 ITGIT->ILASH Transported 6, trans in %: 42.8571
+ Path ITGIT_6->ILASH_6
+ID:119 ITGIT->ESBCN Transported 3, trans in %: 100
+ Path ITGIT_4->ESBCN_4
+ID:120 ITGIT->LBBEY Transported 16, trans in %: 100
+ Path ITGIT_4->LBBEY_4
+ID:123 ITGIT->EGDAM Transported 1, trans in %: 100
+ Path ITGIT_3->EGPSD_3
+EGPSD_1->EGDAM_1
+ID:124 ITGIT->ITGOA Transported 36, trans in %: 100
+ Path ITGIT_6->ITGOA_6
+ID:125 ITGIT->TRIZM Transported 11, trans in %: 100
+ Path ITGIT_6->ITGOA_6
+ITGOA_2->TRIZM_2
+ID:126 ITGIT->SYLTK Transported 25, trans in %: 100
+ Path ITGIT_3->EGPSD_3
+EGPSD_1->SYLTK_1
+ID:128 ITGIT->CYLMS Transported 4, trans in %: 100
+ Path ITGIT_3->CYLMS_3
+ID:129 ITGIT->TRMER Transported 4, trans in %: 100
+ Path ITGIT_3->EGPSD_3
+EGPSD_1->TRMER_1
+ID:130 ITGIT->UAODS Transported 30, trans in %: 100
+ Path ITGIT_6->UAODS_6
+ID:131 ITGIT->DZORN Transported 2, trans in %: 100
+ Path ITGIT_4->ESALG_4
+ESALG_5->DZORN_5
+ID:132 ITGIT->GRPIR Transported 12, trans in %: 100
+ Path ITGIT_3->GRPIR_3
+ID:133 ITGIT->GEPTI Transported 20, trans in %: 100
+ Path ITGIT_6->GEPTI_6
+ID:135 ITGIT->DZSKI Transported 4, trans in %: 100
+ Path ITGIT_6->ITGOA_6
+ITGOA_2->DZSKI_2
+ID:138 ITGIT->ITTRS Transported 1, trans in %: 100
+ Path ITGIT_3->ITTRS_3
+ID:139 ITGIT->TNTUN Transported 7, trans in %: 100
+ Path ITGIT_3->TNTUN_3
+ID:140 ITGIT->ESVLC Transported 2, trans in %: 100
+ Path ITGIT_4->ESVLC_4
+ID:141 ITGIT->BGVAR Transported 8, trans in %: 100
+ Path ITGIT_6->BGVAR_6
+ID:143 ILHFA->MAAGA Transported 10, trans in %: 100
+ Path ILHFA_1->EGPSD_1
+EGPSD_3->TNTUN_3
+TNTUN_0->MAAGA_0
+ID:144 ILHFA->ESALG Transported 17, trans in %: 100
+ Path ILHFA_1->EGPSD_1
+EGPSD_4->ESALG_4
+ID:145 ILHFA->ESBCN Transported 14, trans in %: 100
+ Path ILHFA_1->EGPSD_1
+EGPSD_4->ESBCN_4
+ID:146 ILHFA->MACAS Transported 84, trans in %: 100
+ Path ILHFA_1->EGPSD_1
+EGPSD_3->TNTUN_3
+TNTUN_0->MACAS_0
+ID:147 ILHFA->ITGIT Transported 15, trans in %: 100
+ Path ILHFA_1->EGPSD_1
+EGPSD_4->ITGIT_4
+ID:149 ILHFA->EGPSD Transported 4, trans in %: 100
+ Path ILHFA_1->EGPSD_1
+ID:152 ILHFA->BGVAR Transported 8, trans in %: 100
+ Path ILHFA_1->EGPSD_1
+EGPSD_6->BGVAR_6
+ID:153 ILHFA->ESVGO Transported 1, trans in %: 100
+ Path ILHFA_1->EGPSD_1
+EGPSD_3->TNTUN_3
+TNTUN_0->ESVGO_0
+ID:154 TRIZM->ESALG Transported 30, trans in %: 100
+ Path TRIZM_2->ESALG_2
+ID:156 TRIZM->LBBEY Transported 1, trans in %: 100
+ Path TRIZM_2->ITGOA_2
+ITGOA_4->LBBEY_4
+ID:157 TRIZM->ITGIT Transported 11, trans in %: 100
+ Path TRIZM_2->ITGOA_2
+ITGOA_4->ITGIT_4
+ID:158 TRIZM->ESAGP Transported 10, trans in %: 100
+ Path TRIZM_2->ESAGP_2
+ID:162 ESLPA->EGALY Transported 12, trans in %: 100
+ Path ESLPA_4->EGPSD_4
+EGPSD_1->EGALY_1
+ID:163 ESLPA->ITGOA Transported 14, trans in %: 100
+ Path ESLPA_4->ITGOA_4
+ID:164 ESLPA->ITGIT Transported 24, trans in %: 100
+ Path ESLPA_4->ITGIT_4
+ID:165 ESLPA->ESAGP Transported 2, trans in %: 100
+ Path ESLPA_4->ESAGP_4
+ID:166 SYLTK->ITGOA Transported 6, trans in %: 85.7143
+ Path SYLTK_1->EGPSD_1
+EGPSD_3->TNTUN_3
+TNTUN_0->ITGOA_0
+ID:168 SYLTK->EGPSD Transported 7, trans in %: 100
+ Path SYLTK_1->EGPSD_1
+ID:171 PTLEI->MAAGA Transported 14, trans in %: 66.6667
+ Path PTLEI_0->MAAGA_0
+ID:172 PTLEI->EGALY Transported 36, trans in %: 100
+ Path PTLEI_0->TNTUN_0
+TNTUN_3->EGPSD_3
+EGPSD_1->EGALY_1
+ID:173 PTLEI->ESALG Transported 5, trans in %: 100
+ Path PTLEI_0->ESALG_0
+ID:176 PTLEI->ITGIT Transported 18, trans in %: 100
+ Path PTLEI_0->TNTUN_0
+TNTUN_3->ITGIT_3
+ID:177 PTLEI->ILHFA Transported 3, trans in %: 100
+ Path PTLEI_0->TNTUN_0
+TNTUN_3->EGPSD_3
+EGPSD_1->ILHFA_1
+ID:179 PTLEI->ESAGP Transported 68, trans in %: 77.2727
+ Path PTLEI_0->ESAGP_0
+ID:181 PTLEI->MAPTM Transported 20, trans in %: 100
+ Path PTLEI_0->MAPTM_0
+ID:182 PTLEI->TNTUN Transported 34, trans in %: 100
+ Path PTLEI_0->TNTUN_0
+ID:185 CYLMS->ITGIT Transported 8, trans in %: 100
+ Path CYLMS_3->ITGIT_3
+ID:186 CYLMS->EGPSD Transported 1, trans in %: 100
+ Path CYLMS_3->EGPSD_3
+ID:187 ESAGP->EGALY Transported 2, trans in %: 100
+ Path ESAGP_4->EGPSD_4
+EGPSD_1->EGALY_1
+ID:188 ESAGP->DZALG Transported 7, trans in %: 100
+ Path ESAGP_2->DZALG_2
+ID:189 ESAGP->TRAMB Transported 1, trans in %: 100
+ Path ESAGP_0->TNTUN_0
+TNTUN_3->TRAMB_3
+ID:190 ESAGP->ILASH Transported 1, trans in %: 100
+ Path ESAGP_4->EGPSD_4
+EGPSD_1->ILASH_1
+ID:191 ESAGP->ESBCN Transported 3, trans in %: 100
+ Path ESAGP_4->ESBCN_4
+ID:192 ESAGP->LBBEY Transported 1, trans in %: 100
+ Path ESAGP_4->LBBEY_4
+ID:193 ESAGP->DZBJA Transported 1, trans in %: 100
+ Path ESAGP_0->DZBJA_0
+ID:194 ESAGP->MACAS Transported 11, trans in %: 100
+ Path ESAGP_0->MACAS_0
+ID:195 ESAGP->EGDAM Transported 2, trans in %: 100
+ Path ESAGP_4->EGPSD_4
+EGPSD_1->EGDAM_1
+ID:197 ESAGP->SYLTK Transported 6, trans in %: 100
+ Path ESAGP_4->EGPSD_4
+EGPSD_1->SYLTK_1
+ID:198 ESAGP->PTLEI Transported 7, trans in %: 100
+ Path ESAGP_0->PTLEI_0
+ID:199 ESAGP->CYLMS Transported 1, trans in %: 100
+ Path ESAGP_0->TNTUN_0
+TNTUN_3->CYLMS_3
+ID:201 ESAGP->GRPIR Transported 7, trans in %: 100
+ Path ESAGP_0->TNTUN_0
+TNTUN_3->GRPIR_3
+ID:202 ESAGP->ITSAL Transported 3, trans in %: 100
+ Path ESAGP_2->ITSAL_2
+ID:205 ESAGP->ITTRS Transported 5, trans in %: 100
+ Path ESAGP_0->TNTUN_0
+TNTUN_3->ITTRS_3
+ID:206 ESAGP->TNTUN Transported 6, trans in %: 100
+ Path ESAGP_0->TNTUN_0
+ID:209 ESAGP->ESVGO Transported 9, trans in %: 100
+ Path ESAGP_0->ESVGO_0
+ID:210 TRMER->EGALY Transported 17, trans in %: 100
+ Path TRMER_1->EGALY_1
+ID:211 TRMER->ESALG Transported 49, trans in %: 100
+ Path TRMER_1->EGPSD_1
+EGPSD_4->ESALG_4
+ID:212 TRMER->MACAS Transported 17, trans in %: 100
+ Path TRMER_1->EGPSD_1
+EGPSD_3->TNTUN_3
+TNTUN_0->MACAS_0
+ID:214 TRMER->ITGIT Transported 12, trans in %: 100
+ Path TRMER_1->EGPSD_1
+EGPSD_4->ITGIT_4
+ID:215 TRMER->ESAGP Transported 37, trans in %: 100
+ Path TRMER_1->EGPSD_1
+EGPSD_4->ESAGP_4
+ID:216 TRMER->EGPSD Transported 28, trans in %: 100
+ Path TRMER_1->EGPSD_1
+ID:217 TRMER->MAPTM Transported 11, trans in %: 100
+ Path TRMER_1->EGPSD_1
+EGPSD_4->MAPTM_4
+ID:218 TRMER->ESTAR Transported 28, trans in %: 100
+ Path TRMER_1->EGPSD_1
+EGPSD_3->TNTUN_3
+TNTUN_0->ESTAR_0
+ID:219 TRMER->TNTUN Transported 4, trans in %: 100
+ Path TRMER_1->EGPSD_1
+EGPSD_3->TNTUN_3
+ID:220 UAODS->EGALY Transported 10, trans in %: 100
+ Path UAODS_6->EGPSD_6
+EGPSD_1->EGALY_1
+ID:221 UAODS->ESALG Transported 14, trans in %: 100
+ Path UAODS_6->EGPSD_6
+EGPSD_4->ESALG_4
+ID:222 UAODS->DZALG Transported 2, trans in %: 25
+ Path UAODS_6->ITGOA_6
+ITGOA_2->DZALG_2
+ID:224 UAODS->ILASH Transported 32, trans in %: 100
+ Path UAODS_6->ILASH_6
+ID:225 UAODS->ILHFA Transported 6, trans in %: 100
+ Path UAODS_6->EGPSD_6
+EGPSD_1->ILHFA_1
+ID:226 UAODS->SYLTK Transported 9, trans in %: 100
+ Path UAODS_6->EGPSD_6
+EGPSD_1->SYLTK_1
+ID:227 UAODS->ESAGP Transported 2, trans in %: 100
+ Path UAODS_6->EGPSD_6
+EGPSD_4->ESAGP_4
+ID:228 UAODS->EGPSD Transported 105, trans in %: 100
+ Path UAODS_6->EGPSD_6
+ID:229 UAODS->MAPTM Transported 8, trans in %: 100
+ Path UAODS_6->EGPSD_6
+EGPSD_4->MAPTM_4
+ID:230 UAODS->GEPTI Transported 15, trans in %: 100
+ Path UAODS_6->GEPTI_6
+ID:232 DZORN->EGPSD Transported 1, trans in %: 100
+ Path DZORN_5->ESALG_5
+ESALG_4->EGPSD_4
+ID:233 GRPIR->EGALY Transported 6, trans in %: 100
+ Path GRPIR_3->EGPSD_3
+EGPSD_1->EGALY_1
+ID:236 GRPIR->EGPSD Transported 16, trans in %: 100
+ Path GRPIR_3->EGPSD_3
+ID:238 EGPSD->MAAGA Transported 4, trans in %: 100
+ Path EGPSD_3->TNTUN_3
+TNTUN_0->MAAGA_0
+ID:239 EGPSD->EGALY Transported 29, trans in %: 100
+ Path EGPSD_1->EGALY_1
+ID:240 EGPSD->DZALG Transported 3, trans in %: 13.6364
+ Path EGPSD_3->TNTUN_3
+TNTUN_0->ITGOA_0
+ITGOA_2->DZALG_2
+ID:241 EGPSD->TRAMB Transported 72, trans in %: 100
+ Path EGPSD_3->TRAMB_3
+ID:242 EGPSD->ILASH Transported 10, trans in %: 100
+ Path EGPSD_6->ILASH_6
+ID:243 EGPSD->ESBCN Transported 34, trans in %: 100
+ Path EGPSD_4->ESBCN_4
+ID:244 EGPSD->LBBEY Transported 6, trans in %: 6.97674
+ Path EGPSD_4->LBBEY_4
+ID:246 EGPSD->MACAS Transported 148, trans in %: 100
+ Path EGPSD_3->TNTUN_3
+TNTUN_0->MACAS_0
+ID:247 EGPSD->EGDAM Transported 1, trans in %: 100
+ Path EGPSD_1->EGDAM_1
+ID:249 EGPSD->ILHFA Transported 3, trans in %: 100
+ Path EGPSD_1->ILHFA_1
+ID:250 EGPSD->TRIZM Transported 11, trans in %: 100
+ Path EGPSD_3->TNTUN_3
+TNTUN_0->ITGOA_0
+ITGOA_2->TRIZM_2
+ID:251 EGPSD->SYLTK Transported 71, trans in %: 100
+ Path EGPSD_1->SYLTK_1
+ID:252 EGPSD->PTLEI Transported 41, trans in %: 100
+ Path EGPSD_3->TNTUN_3
+TNTUN_0->PTLEI_0
+ID:253 EGPSD->CYLMS Transported 3, trans in %: 100
+ Path EGPSD_3->CYLMS_3
+ID:254 EGPSD->TRMER Transported 57, trans in %: 100
+ Path EGPSD_1->TRMER_1
+ID:255 EGPSD->UAODS Transported 22, trans in %: 100
+ Path EGPSD_6->UAODS_6
+ID:256 EGPSD->DZORN Transported 9, trans in %: 100
+ Path EGPSD_4->ESALG_4
+ESALG_5->DZORN_5
+ID:257 EGPSD->GRPIR Transported 15, trans in %: 100
+ Path EGPSD_3->GRPIR_3
+ID:258 EGPSD->GEPTI Transported 2, trans in %: 100
+ Path EGPSD_6->GEPTI_6
+ID:259 EGPSD->ITSAL Transported 4, trans in %: 100
+ Path EGPSD_3->TNTUN_3
+TNTUN_0->ITGOA_0
+ITGOA_2->ITSAL_2
+ID:261 EGPSD->DZSKI Transported 31, trans in %: 100
+ Path EGPSD_3->TNTUN_3
+TNTUN_0->ITGOA_0
+ITGOA_2->DZSKI_2
+ID:262 EGPSD->ESTAR Transported 33, trans in %: 100
+ Path EGPSD_3->TNTUN_3
+TNTUN_0->ESTAR_0
+ID:264 EGPSD->ITTRS Transported 11, trans in %: 100
+ Path EGPSD_3->ITTRS_3
+ID:265 EGPSD->TNTUN Transported 46, trans in %: 100
+ Path EGPSD_3->TNTUN_3
+ID:266 EGPSD->ESVLC Transported 31, trans in %: 100
+ Path EGPSD_4->ESVLC_4
+ID:267 EGPSD->BGVAR Transported 26, trans in %: 100
+ Path EGPSD_6->BGVAR_6
+ID:268 EGPSD->ESVGO Transported 11, trans in %: 100
+ Path EGPSD_3->TNTUN_3
+TNTUN_0->ESVGO_0
+ID:270 MAPTM->EGALY Transported 112, trans in %: 100
+ Path MAPTM_4->EGPSD_4
+EGPSD_1->EGALY_1
+ID:272 MAPTM->TRAMB Transported 20, trans in %: 100
+ Path MAPTM_0->TNTUN_0
+TNTUN_3->TRAMB_3
+ID:273 MAPTM->ILASH Transported 16, trans in %: 100
+ Path MAPTM_4->EGPSD_4
+EGPSD_6->ILASH_6
+ID:274 MAPTM->ESBCN Transported 18, trans in %: 100
+ Path MAPTM_4->ESBCN_4
+ID:275 MAPTM->LBBEY Transported 44, trans in %: 100
+ Path MAPTM_4->LBBEY_4
+ID:276 MAPTM->DZBJA Transported 8, trans in %: 100
+ Path MAPTM_0->DZBJA_0
+ID:278 MAPTM->ITGOA Transported 28, trans in %: 100
+ Path MAPTM_4->ITGOA_4
+ID:279 MAPTM->ILHFA Transported 26, trans in %: 100
+ Path MAPTM_4->EGPSD_4
+EGPSD_1->ILHFA_1
+ID:282 MAPTM->TRMER Transported 41, trans in %: 100
+ Path MAPTM_4->EGPSD_4
+EGPSD_1->TRMER_1
+ID:284 MAPTM->DZORN Transported 2, trans in %: 100
+ Path MAPTM_0->ESALG_0
+ESALG_5->DZORN_5
+ID:285 MAPTM->GRPIR Transported 7, trans in %: 100
+ Path MAPTM_0->TNTUN_0
+TNTUN_3->GRPIR_3
+ID:291 MAPTM->ITTRS Transported 3, trans in %: 100
+ Path MAPTM_0->TNTUN_0
+TNTUN_3->ITTRS_3
+ID:292 MAPTM->TNTUN Transported 4, trans in %: 100
+ Path MAPTM_0->TNTUN_0
+ID:293 MAPTM->ESVLC Transported 5, trans in %: 100
+ Path MAPTM_4->ESVLC_4
+ID:296 GEPTI->ESALG Transported 3, trans in %: 100
+ Path GEPTI_6->EGPSD_6
+EGPSD_4->ESALG_4
+ID:297 GEPTI->ITGIT Transported 9, trans in %: 100
+ Path GEPTI_6->ITGIT_6
+ID:298 GEPTI->EGPSD Transported 6, trans in %: 100
+ Path GEPTI_6->EGPSD_6
+ID:299 GEPTI->MAPTM Transported 1, trans in %: 100
+ Path GEPTI_6->EGPSD_6
+EGPSD_4->MAPTM_4
+ID:300 GEPTI->BGVAR Transported 6, trans in %: 100
+ Path GEPTI_6->BGVAR_6
+ID:301 ITSAL->ESALG Transported 22, trans in %: 100
+ Path ITSAL_2->ESALG_2
+ID:302 ITSAL->ESAGP Transported 59, trans in %: 100
+ Path ITSAL_2->ESAGP_2
+ID:304 ITSAL->BGVAR Transported 6, trans in %: 100
+ Path ITSAL_2->ITGOA_2
+ITGOA_6->BGVAR_6
+ID:322 ITTRS->EGALY Transported 10, trans in %: 100
+ Path ITTRS_3->EGPSD_3
+EGPSD_1->EGALY_1
+ID:323 ITTRS->DZALG Transported 11, trans in %: 100
+ Path ITTRS_3->TNTUN_3
+TNTUN_0->ITGOA_0
+ITGOA_2->DZALG_2
+ID:324 ITTRS->MACAS Transported 9, trans in %: 100
+ Path ITTRS_3->TNTUN_3
+TNTUN_0->MACAS_0
+ID:325 ITTRS->PTLEI Transported 11, trans in %: 100
+ Path ITTRS_3->TNTUN_3
+TNTUN_0->PTLEI_0
+ID:326 ITTRS->EGPSD Transported 29, trans in %: 100
+ Path ITTRS_3->EGPSD_3
+ID:328 ITTRS->TNTUN Transported 18, trans in %: 100
+ Path ITTRS_3->TNTUN_3
+ID:330 TNTUN->DZALG Transported 19, trans in %: 100
+ Path TNTUN_0->ITGOA_0
+ITGOA_2->DZALG_2
+ID:331 TNTUN->MACAS Transported 12, trans in %: 100
+ Path TNTUN_0->MACAS_0
+ID:332 TNTUN->ITGOA Transported 16, trans in %: 100
+ Path TNTUN_0->ITGOA_0
+ID:333 TNTUN->ITGIT Transported 8, trans in %: 100
+ Path TNTUN_3->ITGIT_3
+ID:334 TNTUN->ESAGP Transported 30, trans in %: 100
+ Path TNTUN_0->ESAGP_0
+ID:335 TNTUN->EGPSD Transported 8, trans in %: 100
+ Path TNTUN_3->EGPSD_3
+ID:336 TNTUN->MAPTM Transported 1, trans in %: 100
+ Path TNTUN_0->MAPTM_0
+ID:338 ESVLC->ESALG Transported 35, trans in %: 100
+ Path ESVLC_4->ESALG_4
+ID:340 ESVLC->ESAGP Transported 40, trans in %: 100
+ Path ESVLC_4->ESAGP_4
+ID:341 ESVLC->TRMER Transported 16, trans in %: 100
+ Path ESVLC_4->EGPSD_4
+EGPSD_1->TRMER_1
+ID:342 ESVLC->EGPSD Transported 19, trans in %: 100
+ Path ESVLC_4->EGPSD_4
+ID:343 ESVLC->MAPTM Transported 14, trans in %: 100
+ Path ESVLC_4->MAPTM_4
+ID:344 BGVAR->ESALG Transported 7, trans in %: 100
+ Path BGVAR_6->EGPSD_6
+EGPSD_4->ESALG_4
+ID:345 BGVAR->ILASH Transported 9, trans in %: 100
+ Path BGVAR_6->ILASH_6
+ID:346 BGVAR->ESBCN Transported 8, trans in %: 100
+ Path BGVAR_6->EGPSD_6
+EGPSD_4->ESBCN_4
+ID:347 BGVAR->ITGIT Transported 12, trans in %: 100
+ Path BGVAR_6->ITGIT_6
+ID:348 BGVAR->ILHFA Transported 21, trans in %: 100
+ Path BGVAR_6->EGPSD_6
+EGPSD_1->ILHFA_1
+ID:349 BGVAR->SYLTK Transported 31, trans in %: 100
+ Path BGVAR_6->EGPSD_6
+EGPSD_1->SYLTK_1
+ID:351 BGVAR->TRMER Transported 55, trans in %: 100
+ Path BGVAR_6->EGPSD_6
+EGPSD_1->TRMER_1
+ID:352 BGVAR->EGPSD Transported 40, trans in %: 100
+ Path BGVAR_6->EGPSD_6
+ID:353 BGVAR->MAPTM Transported 21, trans in %: 100
+ Path BGVAR_6->EGPSD_6
+EGPSD_4->MAPTM_4
+ID:354 BGVAR->ESVLC Transported 6, trans in %: 100
+ Path BGVAR_6->EGPSD_6
+EGPSD_4->ESVLC_4
+ID:355 ESVGO->EGALY Transported 6, trans in %: 100
+ Path ESVGO_0->TNTUN_0
+TNTUN_3->EGPSD_3
+EGPSD_1->EGALY_1
+ID:356 ESVGO->ESALG Transported 6, trans in %: 100
+ Path ESVGO_0->ESALG_0
+ID:358 ESVGO->DZORN Transported 2, trans in %: 100
+ Path ESVGO_0->ESALG_0
+ESALG_5->DZORN_5
+ID:359 ESVGO->GRPIR Transported 3, trans in %: 100
+ Path ESVGO_0->TNTUN_0
+TNTUN_3->GRPIR_3
+ID:360 ESVGO->EGPSD Transported 5, trans in %: 100
+ Path ESVGO_0->TNTUN_0
+TNTUN_3->EGPSD_3
+ID:361 ESVGO->MAPTM Transported 2, trans in %: 100
+ Path ESVGO_0->MAPTM_0
+ID:363 ESVGO->TNTUN Transported 17, trans in %: 100
+ Path ESVGO_0->TNTUN_0
+ID:5 MAAGA->EGPSD Transported 1, trans in %: 100
+ Path MAAGA_0->ESALG_0
+ESALG_4->EGPSD_4
+ID:16 EGALY->ESAGP Transported 25, trans in %: 100
+ Path EGALY_1->EGPSD_1
+EGPSD_4->ESAGP_4
+ID:18 EGALY->MAPTM Transported 13, trans in %: 100
+ Path EGALY_1->EGPSD_1
+EGPSD_4->MAPTM_4
+ID:19 EGALY->DZSKI Transported 2, trans in %: 100
+ Path EGALY_1->EGPSD_1
+EGPSD_4->ESALG_4
+ESALG_2->DZSKI_2
+ID:23 ESALG->EGALY Transported 190, trans in %: 100
+ Path ESALG_4->EGPSD_4
+EGPSD_1->EGALY_1
+ID:27 ESALG->ILASH Transported 56, trans in %: 100
+ Path ESALG_4->EGPSD_4
+EGPSD_6->ILASH_6
+ID:31 ESALG->ITGOA Transported 23, trans in %: 100
+ Path ESALG_4->ITGOA_4
+ID:32 ESALG->ILHFA Transported 55, trans in %: 100
+ Path ESALG_4->EGPSD_4
+EGPSD_1->ILHFA_1
+ID:35 ESALG->SYLTK Transported 26, trans in %: 100
+ Path ESALG_4->EGPSD_4
+EGPSD_1->SYLTK_1
+ID:38 ESALG->TRMER Transported 21, trans in %: 100
+ Path ESALG_4->EGPSD_4
+EGPSD_1->TRMER_1
+ID:56 TRAMB->ESALG Transported 80, trans in %: 100
+ Path TRAMB_3->EGPSD_3
+EGPSD_4->ESALG_4
+ID:64 TRAMB->ESAGP Transported 25, trans in %: 100
+ Path TRAMB_3->EGPSD_3
+EGPSD_4->ESAGP_4
+ID:66 TRAMB->MAPTM Transported 16, trans in %: 43.2432
+ Path TRAMB_3->EGPSD_3
+EGPSD_4->MAPTM_4
+ID:76 ESBCN->MAAGA Transported 8, trans in %: 100
+ Path ESBCN_4->ITGOA_4
+ITGOA_0->MAAGA_0
+ID:92 MACAS->EGALY Transported 16, trans in %: 100
+ Path MACAS_5->ESALG_5
+ESALG_4->EGPSD_4
+EGPSD_1->EGALY_1
+ID:94 MACAS->DZALG Transported 13, trans in %: 100
+ Path MACAS_5->ESALG_5
+ESALG_2->DZALG_2
+ID:95 MACAS->ESBCN Transported 7, trans in %: 100
+ Path MACAS_5->ESALG_5
+ESALG_4->ESBCN_4
+ID:100 MACAS->EGPSD Transported 11, trans in %: 78.5714
+ Path MACAS_5->ESALG_5
+ESALG_4->EGPSD_4
+ID:118 ITGIT->ILASH Transported 8, trans in %: 57.1429
+ Path ITGIT_3->EGPSD_3
+EGPSD_1->ILASH_1
+ID:121 ITGIT->DZBJA Transported 9, trans in %: 100
+ Path ITGIT_4->ESAGP_4
+ESAGP_0->DZBJA_0
+ID:136 ITGIT->ESTAR Transported 3, trans in %: 100
+ Path ITGIT_6->ITGOA_6
+ITGOA_0->ESTAR_0
+ID:148 ILHFA->ESAGP Transported 5, trans in %: 100
+ Path ILHFA_1->EGPSD_1
+EGPSD_4->ESAGP_4
+ID:150 ILHFA->MAPTM Transported 42, trans in %: 100
+ Path ILHFA_1->EGPSD_1
+EGPSD_4->MAPTM_4
+ID:155 TRIZM->ILASH Transported 1, trans in %: 100
+ Path TRIZM_2->ITGOA_2
+ITGOA_4->EGPSD_4
+EGPSD_6->ILASH_6
+ID:159 TRIZM->EGPSD Transported 21, trans in %: 100
+ Path TRIZM_2->ITGOA_2
+ITGOA_4->EGPSD_4
+ID:166 SYLTK->ITGOA Transported 1, trans in %: 14.2857
+ Path SYLTK_1->EGPSD_1
+EGPSD_6->ITGOA_6
+ID:167 SYLTK->ESAGP Transported 10, trans in %: 100
+ Path SYLTK_1->EGPSD_1
+EGPSD_4->ESAGP_4
+ID:169 SYLTK->MAPTM Transported 1, trans in %: 100
+ Path SYLTK_1->EGPSD_1
+EGPSD_4->MAPTM_4
+ID:174 PTLEI->DZALG Transported 50, trans in %: 100
+ Path PTLEI_0->ESALG_0
+ESALG_2->DZALG_2
+ID:175 PTLEI->MACAS Transported 12, trans in %: 100
+ Path PTLEI_0->ESALG_0
+ESALG_5->MACAS_5
+ID:184 CYLMS->ESALG Transported 1, trans in %: 100
+ Path CYLMS_3->EGPSD_3
+EGPSD_4->ESALG_4
+ID:213 TRMER->ITGOA Transported 33, trans in %: 100
+ Path TRMER_1->EGPSD_1
+EGPSD_6->ITGOA_6
+ID:234 GRPIR->ESALG Transported 8, trans in %: 100
+ Path GRPIR_3->EGPSD_3
+EGPSD_4->ESALG_4
+ID:235 GRPIR->ESAGP Transported 5, trans in %: 100
+ Path GRPIR_3->EGPSD_3
+EGPSD_4->ESAGP_4
+ID:237 GRPIR->MAPTM Transported 4, trans in %: 100
+ Path GRPIR_3->EGPSD_3
+EGPSD_4->MAPTM_4
+ID:240 EGPSD->DZALG Transported 9, trans in %: 40.9091
+ Path EGPSD_4->ESALG_4
+ESALG_2->DZALG_2
+ID:245 EGPSD->DZBJA Transported 4, trans in %: 100
+ Path EGPSD_4->ESAGP_4
+ESAGP_0->DZBJA_0
+ID:248 EGPSD->ITGOA Transported 48, trans in %: 100
+ Path EGPSD_6->ITGOA_6
+ID:269 MAPTM->MAAGA Transported 1, trans in %: 100
+ Path MAPTM_4->ITGOA_4
+ITGOA_0->MAAGA_0
+ID:271 MAPTM->DZALG Transported 3, trans in %: 100
+ Path MAPTM_0->ESALG_0
+ESALG_2->DZALG_2
+ID:280 MAPTM->TRIZM Transported 18, trans in %: 100
+ Path MAPTM_0->ESALG_0
+ESALG_2->TRIZM_2
+ID:281 MAPTM->PTLEI Transported 7, trans in %: 100
+ Path MAPTM_4->ITGOA_4
+ITGOA_0->PTLEI_0
+ID:287 MAPTM->ITSAL Transported 3, trans in %: 100
+ Path MAPTM_0->ESALG_0
+ESALG_2->ITSAL_2
+ID:295 MAPTM->ESVGO Transported 3, trans in %: 100
+ Path MAPTM_4->ITGOA_4
+ITGOA_0->ESVGO_0
+ID:303 ITSAL->EGPSD Transported 20, trans in %: 100
+ Path ITSAL_2->ITGOA_2
+ITGOA_4->EGPSD_4
+ID:327 ITTRS->MAPTM Transported 1, trans in %: 100
+ Path ITTRS_3->EGPSD_3
+EGPSD_4->MAPTM_4
+ID:350 BGVAR->ESAGP Transported 12, trans in %: 100
+ Path BGVAR_6->EGPSD_6
+EGPSD_4->ESAGP_4
+ID:22 ESALG->MAAGA Transported 58, trans in %: 100
+ Path ESALG_5->MACAS_5
+MACAS_0->MAAGA_0
+ID:36 ESALG->PTLEI Transported 4, trans in %: 100
+ Path ESALG_5->MACAS_5
+MACAS_0->PTLEI_0
+ID:39 ESALG->UAODS Transported 10, trans in %: 100
+ Path ESALG_4->ITGOA_4
+ITGOA_6->UAODS_6
+ID:42 ESALG->GEPTI Transported 30, trans in %: 100
+ Path ESALG_4->ITGOA_4
+ITGOA_6->GEPTI_6
+ID:51 ESALG->BGVAR Transported 13, trans in %: 100
+ Path ESALG_4->ITGOA_4
+ITGOA_6->BGVAR_6
+ID:59 TRAMB->LBBEY Transported 2, trans in %: 100
+ Path TRAMB_3->TNTUN_3
+TNTUN_0->ITGOA_0
+ITGOA_4->LBBEY_4
+ID:77 ESBCN->ESALG Transported 46, trans in %: 95.8333
+ Path ESBCN_4->ITGOA_4
+ITGOA_2->ESALG_2
+ID:83 ESBCN->GEPTI Transported 17, trans in %: 100
+ Path ESBCN_4->ITGOA_4
+ITGOA_6->GEPTI_6
+ID:122 ITGIT->MACAS Transported 104, trans in %: 100
+ Path ITGIT_4->ESALG_4
+ESALG_5->MACAS_5
+ID:171 PTLEI->MAAGA Transported 7, trans in %: 33.3333
+ Path PTLEI_0->ESALG_0
+ESALG_5->MACAS_5
+MACAS_0->MAAGA_0
+ID:178 PTLEI->SYLTK Transported 20, trans in %: 100
+ Path PTLEI_0->MAPTM_0
+MAPTM_4->EGPSD_4
+EGPSD_1->SYLTK_1
+ID:180 PTLEI->EGPSD Transported 28, trans in %: 100
+ Path PTLEI_0->MAPTM_0
+MAPTM_4->EGPSD_4
+ID:207 ESAGP->ESVLC Transported 8, trans in %: 100
+ Path ESAGP_0->TNTUN_0
+TNTUN_3->ITGIT_3
+ITGIT_4->ESVLC_4
+ID:240 EGPSD->DZALG Transported 10, trans in %: 45.4545
+ Path EGPSD_4->ESAGP_4
+ESAGP_2->DZALG_2
+ID:277 MAPTM->MACAS Transported 22, trans in %: 100
+ Path MAPTM_0->ESALG_0
+ESALG_5->MACAS_5
+ID:283 MAPTM->UAODS Transported 23, trans in %: 100
+ Path MAPTM_4->ITGOA_4
+ITGOA_6->UAODS_6
+ID:286 MAPTM->GEPTI Transported 31, trans in %: 100
+ Path MAPTM_4->ITGOA_4
+ITGOA_6->GEPTI_6
+ID:294 MAPTM->BGVAR Transported 9, trans in %: 100
+ Path MAPTM_4->ITGOA_4
+ITGOA_6->BGVAR_6
+ID:308 ESTAR->ITSAL Transported 103, trans in %: 100
+ Path ESTAR_0->ESAGP_0
+ESAGP_2->ITSAL_2
+ID:329 TNTUN->ESALG Transported 2, trans in %: 100
+ Path TNTUN_3->ITGIT_3
+ITGIT_4->ESALG_4
+ID:108 ITGOA->ESAGP Transported 47, trans in %: 100
+ Path ITGOA_2->ESAGP_2
+ID:111 ITGOA->MAPTM Transported 146, trans in %: 100
+ Path ITGOA_0->MAPTM_0
+ID:114 ITGIT->MAAGA Transported 3, trans in %: 100
+ Path ITGIT_4->ESAGP_4
+ESAGP_0->MAAGA_0
+ID:127 ITGIT->PTLEI Transported 4, trans in %: 100
+ Path ITGIT_4->ESAGP_4
+ESAGP_0->PTLEI_0
+ID:142 ITGIT->ESVGO Transported 4, trans in %: 100
+ Path ITGIT_4->ESAGP_4
+ESAGP_0->ESVGO_0
+ID:160 TRIZM->MAPTM Transported 31, trans in %: 100
+ Path TRIZM_2->ESALG_2
+ESALG_4->MAPTM_4
+ID:196 ESAGP->ITGOA Transported 30, trans in %: 100
+ Path ESAGP_0->ITGOA_0
+ID:337 ESVLC->MAAGA Transported 6, trans in %: 100
+ Path ESVLC_4->ESAGP_4
+ESAGP_0->MAAGA_0
+ID:339 ESVLC->PTLEI Transported 7, trans in %: 100
+ Path ESVLC_4->ESAGP_4
+ESAGP_0->PTLEI_0
+ID:364 ESVGO->BGVAR Transported 10, trans in %: 62.5
+ Path ESVGO_0->ITGOA_0
+ITGOA_6->BGVAR_6
+ID:179 PTLEI->ESAGP Transported 20, trans in %: 22.7273
+ Path PTLEI_0->ESALG_0
+ESALG_4->ESAGP_4
+ID:183 PTLEI->BGVAR Transported 8, trans in %: 100
+ Path PTLEI_0->TNTUN_0
+TNTUN_3->ITGIT_3
+ITGIT_6->BGVAR_6
+ID:200 ESAGP->UAODS Transported 2, trans in %: 100
+ Path ESAGP_0->TNTUN_0
+TNTUN_3->ITGIT_3
+ITGIT_6->UAODS_6
+ID:208 ESAGP->BGVAR Transported 1, trans in %: 100
+ Path ESAGP_0->TNTUN_0
+TNTUN_3->ITGIT_3
+ITGIT_6->BGVAR_6
+ID:244 EGPSD->LBBEY Transported 80, trans in %: 93.0233
+ Path EGPSD_6->ITGOA_6
+ITGOA_4->LBBEY_4
+ID:357 ESVGO->ESAGP Transported 5, trans in %: 100
+ Path ESVGO_0->ESALG_0
+ESALG_4->ESAGP_4
+ID:364 ESVGO->BGVAR Transported 6, trans in %: 37.5
+ Path ESVGO_0->TNTUN_0
+TNTUN_3->ITGIT_3
+ITGIT_6->BGVAR_6
+ *************** Rejected *****************
+ID:7 MAAGA->GRSKG Rejected 2, in %: 100
+ID:26 ESALG->DZAAE Rejected 2, in %: 100
+ID:44 ESALG->TNSFA Rejected 35, in %: 100
+ID:46 ESALG->ESSCT Rejected 10, in %: 100
+ID:47 ESALG->GRSKG Rejected 15, in %: 100
+ID:78 ESBCN->DZALG Rejected 34, in %: 100
+ID:84 ESBCN->ITSAL Rejected 72, in %: 100
+ID:134 ITGIT->TNSFA Rejected 1, in %: 100
+ID:137 ITGIT->GRSKG Rejected 16, in %: 100
+ID:151 ILHFA->GRSKG Rejected 9, in %: 100
+ID:161 TRIZM->GRSKG Rejected 14, in %: 100
+ID:170 SYLTK->GRSKG Rejected 17, in %: 100
+ID:203 ESAGP->TNSFA Rejected 3, in %: 100
+ID:204 ESAGP->ESSCT Rejected 1, in %: 100
+ID:222 UAODS->DZALG Rejected 6, in %: 75
+ID:223 UAODS->DZAAE Rejected 8, in %: 100
+ID:231 UAODS->ITSAL Rejected 24, in %: 100
+ID:260 EGPSD->TNSFA Rejected 4, in %: 100
+ID:263 EGPSD->GRSKG Rejected 17, in %: 100
+ID:288 MAPTM->TNSFA Rejected 1, in %: 100
+ID:289 MAPTM->ESSCT Rejected 3, in %: 100
+ID:290 MAPTM->GRSKG Rejected 5, in %: 100
+ID:305 TNSFA->ESALG Rejected 7, in %: 100
+ID:306 TNSFA->ESAGP Rejected 9, in %: 100
+ID:307 TNSFA->EGPSD Rejected 1, in %: 100
+ID:309 GRSKG->EGALY Rejected 13, in %: 100
+ID:310 GRSKG->ESALG Rejected 12, in %: 100
+ID:311 GRSKG->ILASH Rejected 7, in %: 100
+ID:312 GRSKG->LBBEY Rejected 11, in %: 100
+ID:313 GRSKG->MACAS Rejected 6, in %: 100
+ID:314 GRSKG->ILHFA Rejected 19, in %: 100
+ID:315 GRSKG->PTLEI Rejected 12, in %: 100
+ID:316 GRSKG->ESAGP Rejected 4, in %: 100
+ID:317 GRSKG->TRMER Rejected 6, in %: 100
+ID:318 GRSKG->EGPSD Rejected 25, in %: 100
+ID:319 GRSKG->MAPTM Rejected 6, in %: 100
+ID:320 GRSKG->DZSKI Rejected 12, in %: 100
+ID:321 GRSKG->TNTUN Rejected 4, in %: 100
+ID:362 ESVGO->GRSKG Rejected 17, in %: 100
+*********************************************
+Objective value: -1.28612e+06  Objective value without penalty: -816117
+ Half year Objective (FERNANDO) -3.21529e+07
+Vessel Class cost: 1.036e+06
+Bunker idle burn cost: 88980
+fuel_burn: 943238
+Port Call Cost: 954959
+Canal costs 0
+Revenue: 5.03753e+06
+Penalty: 470000
+Handling cost: 2.83047e+06
+transported % 93.7707
+deployment % 100
+0.677037 service id 5
+0.709375 service id 1
+0.720952 service id 2
+0.866146 service id 0
+0.87619 service id 6
+0.888929 service id 3
+0.89775 service id 4
+ total 1580 accepted 561 acceptance percentage 0.355063 k 6
+-3.21529e+07 & -1.28612e+06 & 53.399 & 100 & 93.7707 & 318.922
+Time 318.923
+Time 318.926827

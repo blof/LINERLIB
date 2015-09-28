@@ -1,0 +1,5672 @@
+Best found solution********************************
+service 0 service id 0
+capacity 450
+ # vessels 13
+ Butterfly rotation 
+7	DEBRV	Bremerhaven
+13	GBFXT	Felixstowe
+15	ECGYE	Guayaquil
+5	PABLB	Balboa
+15	ECGYE	Guayaquil
+3	NGAPP	Apapa
+42	GHTKD	Takoradi
+14	ITGIT	Gioia Tauro
+32	EGPSD	Port Said
+1	TRAMB	Ambarli
+
+ speed 11.6908
+ voyage distance nautical miles 22727
+ voyage duration in weeks 13
+Panama canal traversed 2
+ Port call cost 146230
+ Bunker idle burn in Ton 24
+ Bunker fuel burn in Ton 1408.11
+ Total bunker cost at 600 USD for one round trip 859266
+ Total TC cost 364000
+ Canal Cost 129600
+service 1 service id 1
+capacity 450
+ # vessels 12
+31	PKBQM	Port Qasim
+18	INNSA	Jawaharlal Nehru
+11	LKCMB	Colombo
+36	OMSLL	Salalah
+1	TRAMB	Ambarli
+33	MAPTM	Tangier
+27	UYMVD	Montevideo
+14	ITGIT	Gioia Tauro
+32	EGPSD	Port Said
+
+ speed 12.71
+ voyage distance nautical miles 22878
+ voyage duration in weeks 12
+Suez canal traversed 2
+ Port call cost 95795
+ Bunker idle burn in Ton 21.6
+ Bunker fuel burn in Ton 1675.37
+ Total bunker cost at 600 USD for one round trip 1.01818e+06
+ Total TC cost 336000
+ Canal Cost 351538
+service 2 service id 2
+capacity 450
+ # vessels 2
+12	ZADUR	Durban
+26	KEMBA	Mombasa
+
+ speed 11.9306
+ voyage distance nautical miles 3436
+ voyage duration in weeks 2
+ Port call cost 31725
+ Bunker idle burn in Ton 4.8
+ Bunker fuel burn in Ton 221.706
+ Total bunker cost at 600 USD for one round trip 135904
+ Total TC cost 56000
+service 3 service id 3
+capacity 450
+ # vessels 2
+ Butterfly rotation 
+3	NGAPP	Apapa
+23	AOLAD	Luanda
+3	NGAPP	Apapa
+42	GHTKD	Takoradi
+
+ speed 11.875
+ voyage distance nautical miles 2850
+ voyage duration in weeks 2
+ Port call cost 134248
+ Bunker idle burn in Ton 9.6
+ Bunker fuel burn in Ton 182.186
+ Total bunker cost at 600 USD for one round trip 115072
+ Total TC cost 56000
+service 4 service id 4
+capacity 800
+ # vessels 10
+25	USMIA	Miami
+32	EGPSD	Port Said
+20	SAJED	Jeddah
+31	PKBQM	Port Qasim
+18	INNSA	Jawaharlal Nehru
+14	ITGIT	Gioia Tauro
+24	PAMIT	Manzanillo
+
+ speed 12.5079
+ voyage distance nautical miles 18912
+ voyage duration in weeks 10
+Suez canal traversed 2
+ Port call cost 91826
+ Bunker idle burn in Ton 17.5
+ Bunker fuel burn in Ton 1064.78
+ Total bunker cost at 600 USD for one round trip 649371
+ Total TC cost 420000
+ Canal Cost 436890
+service 5 service id 5
+capacity 800
+ # vessels 7
+14	ITGIT	Gioia Tauro
+36	OMSLL	Salalah
+18	INNSA	Jawaharlal Nehru
+31	PKBQM	Port Qasim
+19	AEJEA	Jebel Ali
+32	EGPSD	Port Said
+20	SAJED	Jeddah
+1	TRAMB	Ambarli
+
+ speed 12.7327
+ voyage distance nautical miles 12529
+ voyage duration in weeks 7
+Suez canal traversed 4
+ Port call cost 110986
+ Bunker idle burn in Ton 20
+ Bunker fuel burn in Ton 730.991
+ Total bunker cost at 600 USD for one round trip 450595
+ Total TC cost 294000
+ Canal Cost 873780
+service 6 service id 6
+capacity 800
+ # vessels 9
+20	SAJED	Jeddah
+14	ITGIT	Gioia Tauro
+0	ESALG	Algeciras
+1	TRAMB	Ambarli
+36	OMSLL	Salalah
+30	MYPKG	Port Klang
+18	INNSA	Jawaharlal Nehru
+31	PKBQM	Port Qasim
+19	AEJEA	Jebel Ali
+
+ speed 13.3611
+ voyage distance nautical miles 17316
+ voyage duration in weeks 9
+Suez canal traversed 2
+ Port call cost 115017
+ Bunker idle burn in Ton 22.5
+ Bunker fuel burn in Ton 1112.46
+ Total bunker cost at 600 USD for one round trip 680978
+ Total TC cost 378000
+ Canal Cost 436890
+service 7 service id 7
+capacity 800
+ # vessels 9
+ Butterfly rotation 
+18	INNSA	Jawaharlal Nehru
+19	AEJEA	Jebel Ali
+31	PKBQM	Port Qasim
+20	SAJED	Jeddah
+18	INNSA	Jawaharlal Nehru
+43	MYTPP	Tanjung Pelepas
+21	TWKHH	Kaohsiung
+45	CNYTN	Shenzhen
+30	MYPKG	Port Klang
+
+ speed 12.2253
+ voyage distance nautical miles 15844
+ voyage duration in weeks 9
+ Port call cost 101115
+ Bunker idle burn in Ton 22.5
+ Bunker fuel burn in Ton 852.192
+ Total bunker cost at 600 USD for one round trip 524815
+ Total TC cost 378000
+service 8 service id 8
+capacity 1200
+ # vessels 14
+21	TWKHH	Kaohsiung
+34	CNTAO	Qingdao
+9	KRPUS	Busan
+46	JPYOK	Yokohama
+14	ITGIT	Gioia Tauro
+35	NLRTM	Rotterdam
+10	USCHS	Charleston
+37	CLSAI	San Antonio
+4	NZAKL	Auckland
+8	AUBNE	Brisbane
+
+ speed 15.2311
+ voyage distance nautical miles 32168
+ voyage duration in weeks 14
+Panama canal traversed 1
+Suez canal traversed 1
+ Port call cost 199945
+ Bunker idle burn in Ton 40
+ Bunker fuel burn in Ton 2799.08
+ Total bunker cost at 600 USD for one round trip 1.70345e+06
+ Total TC cost 882000
+ Canal Cost 440017
+service 9 service id 9
+capacity 1200
+ # vessels 16
+19	AEJEA	Jebel Ali
+4	NZAKL	Auckland
+8	AUBNE	Brisbane
+43	MYTPP	Tanjung Pelepas
+30	MYPKG	Port Klang
+36	OMSLL	Salalah
+0	ESALG	Algeciras
+13	GBFXT	Felixstowe
+35	NLRTM	Rotterdam
+7	DEBRV	Bremerhaven
+10	USCHS	Charleston
+14	ITGIT	Gioia Tauro
+20	SAJED	Jeddah
+
+ speed 14.7849
+ voyage distance nautical miles 35129
+ voyage duration in weeks 16
+Suez canal traversed 2
+ Port call cost 202958
+ Bunker idle burn in Ton 52
+ Bunker fuel burn in Ton 2880.28
+ Total bunker cost at 600 USD for one round trip 1.75937e+06
+ Total TC cost 1.008e+06
+ Canal Cost 534434
+service 10 service id 10
+capacity 1200
+ # vessels 5
+28	CAMTR	Montreal
+32	EGPSD	Port Said
+35	NLRTM	Rotterdam
+
+ speed 15.1992
+ voyage distance nautical miles 11673
+ voyage duration in weeks 5
+ Port call cost 112883
+ Bunker idle burn in Ton 12
+ Bunker fuel burn in Ton 1011.48
+ Total bunker cost at 600 USD for one round trip 614086
+ Total TC cost 315000
+service 11 service id 11
+capacity 1200
+ # vessels 6
+ Butterfly rotation 
+40	SGSIN	Singapore
+30	MYPKG	Port Klang
+8	AUBNE	Brisbane
+4	NZAKL	Auckland
+17	HKHKG	Hong Kong
+40	SGSIN	Singapore
+43	MYTPP	Tanjung Pelepas
+
+ speed 14.556
+ voyage distance nautical miles 12227
+ voyage duration in weeks 6
+ Port call cost 66909
+ Bunker idle burn in Ton 28
+ Bunker fuel burn in Ton 971.699
+ Total bunker cost at 600 USD for one round trip 599819
+ Total TC cost 378000
+service 12 service id 12
+capacity 1200
+ # vessels 12
+32	EGPSD	Port Said
+20	SAJED	Jeddah
+40	SGSIN	Singapore
+43	MYTPP	Tanjung Pelepas
+8	AUBNE	Brisbane
+11	LKCMB	Colombo
+19	AEJEA	Jebel Ali
+14	ITGIT	Gioia Tauro
+10	USCHS	Charleston
+
+ speed 16.9167
+ voyage distance nautical miles 30450
+ voyage duration in weeks 12
+Suez canal traversed 2
+ Port call cost 93042
+ Bunker idle burn in Ton 36
+ Bunker fuel burn in Ton 3268.49
+ Total bunker cost at 600 USD for one round trip 1.9827e+06
+ Total TC cost 756000
+ Canal Cost 534434
+service 13 service id 13
+capacity 2400
+ # vessels 16
+37	CLSAI	San Antonio
+38	BRSSZ	Santos
+12	ZADUR	Durban
+3	NGAPP	Apapa
+0	ESALG	Algeciras
+14	ITGIT	Gioia Tauro
+2	BEANR	Antwerp
+7	DEBRV	Bremerhaven
+35	NLRTM	Rotterdam
+29	USEWR	Newark
+10	USCHS	Charleston
+25	USMIA	Miami
+24	PAMIT	Manzanillo
+5	PABLB	Balboa
+
+ speed 14.1118
+ voyage distance nautical miles 33191
+ voyage duration in weeks 16
+Panama canal traversed 1
+ Port call cost 505709
+ Bunker idle burn in Ton 74.2
+ Bunker fuel burn in Ton 3859.46
+ Total bunker cost at 600 USD for one round trip 2.3602e+06
+ Total TC cost 1.904e+06
+ Canal Cost 345600
+service 14 service id 14
+capacity 2400
+ # vessels 8
+24	PAMIT	Manzanillo
+7	DEBRV	Bremerhaven
+35	NLRTM	Rotterdam
+13	GBFXT	Felixstowe
+0	ESALG	Algeciras
+33	MAPTM	Tangier
+3	NGAPP	Apapa
+38	BRSSZ	Santos
+
+ speed 14.8194
+ voyage distance nautical miles 17072
+ voyage duration in weeks 8
+ Port call cost 283499
+ Bunker idle burn in Ton 42.4
+ Bunker fuel burn in Ton 2189.22
+ Total bunker cost at 600 USD for one round trip 1.33897e+06
+ Total TC cost 952000
+service 15 service id 15
+capacity 2400
+ # vessels 6
+10	USCHS	Charleston
+35	NLRTM	Rotterdam
+7	DEBRV	Bremerhaven
+0	ESALG	Algeciras
+24	PAMIT	Manzanillo
+25	USMIA	Miami
+
+ speed 12.5579
+ voyage distance nautical miles 10850
+ voyage duration in weeks 6
+ Port call cost 178269
+ Bunker idle burn in Ton 31.8
+ Bunker fuel burn in Ton 999.085
+ Total bunker cost at 600 USD for one round trip 618531
+ Total TC cost 714000
+service 16 service id 16
+capacity 2400
+ # vessels 11
+40	SGSIN	Singapore
+43	MYTPP	Tanjung Pelepas
+30	MYPKG	Port Klang
+3	NGAPP	Apapa
+19	AEJEA	Jebel Ali
+36	OMSLL	Salalah
+12	ZADUR	Durban
+
+ speed 15.6774
+ voyage distance nautical miles 26338
+ voyage duration in weeks 11
+ Port call cost 144630
+ Bunker idle burn in Ton 37.1
+ Bunker fuel burn in Ton 3779.81
+ Total bunker cost at 600 USD for one round trip 2.29015e+06
+ Total TC cost 1.309e+06
+service 17 service id 17
+capacity 2400
+ # vessels 9
+24	PAMIT	Manzanillo
+7	DEBRV	Bremerhaven
+0	ESALG	Algeciras
+5	PABLB	Balboa
+37	CLSAI	San Antonio
+29	USEWR	Newark
+
+ speed 15.095
+ voyage distance nautical miles 20650
+ voyage duration in weeks 9
+Panama canal traversed 2
+ Port call cost 210323
+ Bunker idle burn in Ton 31.8
+ Bunker fuel burn in Ton 2747.44
+ Total bunker cost at 600 USD for one round trip 1.66755e+06
+ Total TC cost 1.071e+06
+ Canal Cost 691200
+service 18 service id 18
+capacity 2400
+ # vessels 10
+21	TWKHH	Kaohsiung
+34	CNTAO	Qingdao
+39	CNSHA	Shanghai
+9	KRPUS	Busan
+46	JPYOK	Yokohama
+5	PABLB	Balboa
+4	NZAKL	Auckland
+8	AUBNE	Brisbane
+
+ speed 14.8884
+ voyage distance nautical miles 22154
+ voyage duration in weeks 10
+ Port call cost 172439
+ Bunker idle burn in Ton 42.4
+ Bunker fuel burn in Ton 2867.42
+ Total bunker cost at 600 USD for one round trip 1.74589e+06
+ Total TC cost 1.19e+06
+service 19 service id 19
+capacity 2400
+ # vessels 11
+2	BEANR	Antwerp
+20	SAJED	Jeddah
+11	LKCMB	Colombo
+17	HKHKG	Hong Kong
+39	CNSHA	Shanghai
+12	ZADUR	Durban
+13	GBFXT	Felixstowe
+
+ speed 14.7155
+ voyage distance nautical miles 24722
+ voyage duration in weeks 11
+Suez canal traversed 1
+ Port call cost 177420
+ Bunker idle burn in Ton 37.1
+ Bunker fuel burn in Ton 3125.88
+ Total bunker cost at 600 USD for one round trip 1.89779e+06
+ Total TC cost 1.309e+06
+ Canal Cost 413533
+service 20 service id 20
+capacity 4200
+ # vessels 7
+35	NLRTM	Rotterdam
+30	MYPKG	Port Klang
+7	DEBRV	Bremerhaven
+
+ speed 15.1549
+ voyage distance nautical miles 16731
+ voyage duration in weeks 7
+Suez canal traversed 2
+ Port call cost 172131
+ Bunker idle burn in Ton 22.2
+ Bunker fuel burn in Ton 2929.79
+ Total bunker cost at 600 USD for one round trip 1.77119e+06
+ Total TC cost 1.372e+06
+ Canal Cost 1.26601e+06
+service 21 service id 21
+capacity 4200
+ # vessels 9
+19	AEJEA	Jebel Ali
+17	HKHKG	Hong Kong
+45	CNYTN	Shenzhen
+39	CNSHA	Shanghai
+44	CAVAN	Vancouver
+46	JPYOK	Yokohama
+43	MYTPP	Tanjung Pelepas
+
+ speed 16.0848
+ voyage distance nautical miles 21618
+ voyage duration in weeks 9
+ Port call cost 170356
+ Bunker idle burn in Ton 51.8
+ Bunker fuel burn in Ton 4264.39
+ Total bunker cost at 600 USD for one round trip 2.58971e+06
+ Total TC cost 1.764e+06
+service 22 service id 22
+capacity 4200
+ # vessels 7
+36	OMSLL	Salalah
+11	LKCMB	Colombo
+32	EGPSD	Port Said
+14	ITGIT	Gioia Tauro
+6	ESBCN	Barcelona
+35	NLRTM	Rotterdam
+13	GBFXT	Felixstowe
+20	SAJED	Jeddah
+
+ speed 14.3242
+ voyage distance nautical miles 14095
+ voyage duration in weeks 7
+Suez canal traversed 2
+ Port call cost 317708
+ Bunker idle burn in Ton 59.2
+ Bunker fuel burn in Ton 2205.03
+ Total bunker cost at 600 USD for one round trip 1.35854e+06
+ Total TC cost 1.372e+06
+ Canal Cost 1.26601e+06
+service 23 service id 23
+capacity 4200
+ # vessels 11
+20	SAJED	Jeddah
+17	HKHKG	Hong Kong
+46	JPYOK	Yokohama
+22	USLAX	Los Angeles
+44	CAVAN	Vancouver
+9	KRPUS	Busan
+39	CNSHA	Shanghai
+43	MYTPP	Tanjung Pelepas
+
+ speed 15.1739
+ voyage distance nautical miles 25128
+ voyage duration in weeks 11
+ Port call cost 180394
+ Bunker idle burn in Ton 59.2
+ Bunker fuel burn in Ton 4411.25
+ Total bunker cost at 600 USD for one round trip 2.68227e+06
+ Total TC cost 2.156e+06
+service 24 service id 24
+capacity 4200
+ # vessels 7
+32	EGPSD	Port Said
+0	ESALG	Algeciras
+14	ITGIT	Gioia Tauro
+19	AEJEA	Jebel Ali
+11	LKCMB	Colombo
+40	SGSIN	Singapore
+43	MYTPP	Tanjung Pelepas
+36	OMSLL	Salalah
+20	SAJED	Jeddah
+
+ speed 16.4042
+ voyage distance nautical miles 15748
+ voyage duration in weeks 7
+Suez canal traversed 2
+ Port call cost 189452
+ Bunker idle burn in Ton 66.6
+ Bunker fuel burn in Ton 3231.04
+ Total bunker cost at 600 USD for one round trip 1.97858e+06
+ Total TC cost 1.372e+06
+ Canal Cost 1.26601e+06
+service 25 service id 25
+capacity 4200
+ # vessels 5
+35	NLRTM	Rotterdam
+7	DEBRV	Bremerhaven
+14	ITGIT	Gioia Tauro
+20	SAJED	Jeddah
+0	ESALG	Algeciras
+47	BEZEE	Zeebrugge
+
+ speed 12.4583
+ voyage distance nautical miles 8671
+ voyage duration in weeks 5
+Suez canal traversed 2
+ Port call cost 295748
+ Bunker idle burn in Ton 44.4
+ Bunker fuel burn in Ton 1026.12
+ Total bunker cost at 600 USD for one round trip 642312
+ Total TC cost 980000
+ Canal Cost 1.26601e+06
+service 26 service id 26
+capacity 4200
+ # vessels 9
+20	SAJED	Jeddah
+32	EGPSD	Port Said
+7	DEBRV	Bremerhaven
+33	MAPTM	Tangier
+39	CNSHA	Shanghai
+17	HKHKG	Hong Kong
+30	MYPKG	Port Klang
+
+ speed 16.1183
+ voyage distance nautical miles 21663
+ voyage duration in weeks 9
+Suez canal traversed 2
+ Port call cost 209720
+ Bunker idle burn in Ton 51.8
+ Bunker fuel burn in Ton 4291.07
+ Total bunker cost at 600 USD for one round trip 2.60572e+06
+ Total TC cost 1.764e+06
+ Canal Cost 1.26601e+06
+service 27 service id 27
+capacity 7500
+ # vessels 7
+45	CNYTN	Shenzhen
+17	HKHKG	Hong Kong
+34	CNTAO	Qingdao
+21	TWKHH	Kaohsiung
+14	ITGIT	Gioia Tauro
+
+ speed 16.1951
+ voyage distance nautical miles 17102
+ voyage duration in weeks 7
+Suez canal traversed 2
+ Port call cost 182315
+ Bunker idle burn in Ton 50
+ Bunker fuel burn in Ton 4827.44
+ Total bunker cost at 600 USD for one round trip 2.92646e+06
+ Total TC cost 2.156e+06
+ Canal Cost 2.07075e+06
+service 28 service id 28
+capacity 2400
+ # vessels 5
+13	GBFXT	Felixstowe
+3	NGAPP	Apapa
+7	DEBRV	Bremerhaven
+35	NLRTM	Rotterdam
+2	BEANR	Antwerp
+
+ speed 12.5014
+ voyage distance nautical miles 9001
+ voyage duration in weeks 5
+ Port call cost 250393
+ Bunker idle burn in Ton 26.5
+ Bunker fuel burn in Ton 821.387
+ Total bunker cost at 600 USD for one round trip 508732
+ Total TC cost 595000
+service 29 service id 29
+capacity 4200
+ # vessels 5
+40	SGSIN	Singapore
+43	MYTPP	Tanjung Pelepas
+46	JPYOK	Yokohama
+39	CNSHA	Shanghai
+17	HKHKG	Hong Kong
+11	LKCMB	Colombo
+30	MYPKG	Port Klang
+
+ speed 14.3244
+ voyage distance nautical miles 9626
+ voyage duration in weeks 5
+ Port call cost 124583
+ Bunker idle burn in Ton 51.8
+ Bunker fuel burn in Ton 1505.94
+ Total bunker cost at 600 USD for one round trip 934644
+ Total TC cost 980000
+service 30 service id 30
+capacity 1200
+ # vessels 5
+ Butterfly rotation 
+13	GBFXT	Felixstowe
+16	DEHAM	Hamburg
+0	ESALG	Algeciras
+33	MAPTM	Tangier
+20	SAJED	Jeddah
+16	DEHAM	Hamburg
+
+ speed 13.7931
+ voyage distance nautical miles 9600
+ voyage duration in weeks 5
+Suez canal traversed 2
+ Port call cost 126608
+ Bunker idle burn in Ton 24
+ Bunker fuel burn in Ton 685.056
+ Total bunker cost at 600 USD for one round trip 425433
+ Total TC cost 315000
+ Canal Cost 534434
+service 31 service id 31
+capacity 1200
+ # vessels 3
+45	CNYTN	Shenzhen
+17	HKHKG	Hong Kong
+43	MYTPP	Tanjung Pelepas
+30	MYPKG	Port Klang
+21	TWKHH	Kaohsiung
+34	CNTAO	Qingdao
+
+ speed 15.8778
+ voyage distance nautical miles 5716
+ voyage duration in weeks 3
+ Port call cost 51614
+ Bunker idle burn in Ton 24
+ Bunker fuel burn in Ton 540.508
+ Total bunker cost at 600 USD for one round trip 338705
+ Total TC cost 189000
+service 32 service id 32
+capacity 1200
+ # vessels 2
+46	JPYOK	Yokohama
+34	CNTAO	Qingdao
+39	CNSHA	Shanghai
+21	TWKHH	Kaohsiung
+
+ speed 14.425
+ voyage distance nautical miles 3462
+ voyage duration in weeks 2
+ Port call cost 50441
+ Bunker idle burn in Ton 16
+ Bunker fuel burn in Ton 270.202
+ Total bunker cost at 600 USD for one round trip 171721
+ Total TC cost 126000
+service 33 service id 33
+capacity 1200
+ # vessels 6
+13	GBFXT	Felixstowe
+10	USCHS	Charleston
+20	SAJED	Jeddah
+32	EGPSD	Port Said
+
+ speed 15.4594
+ voyage distance nautical miles 14099
+ voyage duration in weeks 6
+Suez canal traversed 2
+ Port call cost 57274
+ Bunker idle burn in Ton 16
+ Bunker fuel burn in Ton 1263.88
+ Total bunker cost at 600 USD for one round trip 767928
+ Total TC cost 378000
+ Canal Cost 534434
+service 34 service id 34
+capacity 7500
+ # vessels 4
+45	CNYTN	Shenzhen
+30	MYPKG	Port Klang
+40	SGSIN	Singapore
+43	MYTPP	Tanjung Pelepas
+21	TWKHH	Kaohsiung
+9	KRPUS	Busan
+34	CNTAO	Qingdao
+
+ speed 12.3651
+ voyage distance nautical miles 6232
+ voyage duration in weeks 4
+ Port call cost 206915
+ Bunker idle burn in Ton 70
+ Bunker fuel burn in Ton 1025.47
+ Total bunker cost at 600 USD for one round trip 657285
+ Total TC cost 1.232e+06
+service 35 service id 35
+capacity 1200
+ # vessels 6
+ Butterfly rotation 
+40	SGSIN	Singapore
+11	LKCMB	Colombo
+40	SGSIN	Singapore
+39	CNSHA	Shanghai
+9	KRPUS	Busan
+46	JPYOK	Yokohama
+34	CNTAO	Qingdao
+21	TWKHH	Kaohsiung
+45	CNYTN	Shenzhen
+
+ speed 13.1402
+ voyage distance nautical miles 10407
+ voyage duration in weeks 6
+ Port call cost 87607
+ Bunker idle burn in Ton 36
+ Bunker fuel burn in Ton 673.995
+ Total bunker cost at 600 USD for one round trip 425997
+ Total TC cost 378000
+ ------------------Flow Solution ---------------------- 
+ID:0 ESALG->TRAMB Transported 10, trans in %: 100
+ Path ESALG_6->TRAMB_6
+ID:1 ESALG->BEANR Transported 18, trans in %: 100
+ Path ESALG_13->BEANR_13
+ID:2 ESALG->NGAPP Transported 169, trans in %: 100
+ Path ESALG_14->NGAPP_14
+ID:4 ESALG->PABLB Transported 2, trans in %: 100
+ Path ESALG_17->PABLB_17
+ID:8 ESALG->USCHS Transported 59, trans in %: 100
+ Path ESALG_9->USCHS_9
+ID:9 ESALG->LKCMB Transported 14, trans in %: 100
+ Path ESALG_24->LKCMB_24
+ID:11 ESALG->GBFXT Transported 2, trans in %: 100
+ Path ESALG_9->GBFXT_9
+ID:12 ESALG->ITGIT Transported 91, trans in %: 100
+ Path ESALG_13->ITGIT_13
+ID:14 ESALG->DEHAM Transported 10, trans in %: 100
+ Path ESALG_30->DEHAM_30
+ID:18 ESALG->SAJED Transported 54, trans in %: 100
+ Path ESALG_30->SAJED_30
+ID:21 ESALG->PAMIT Transported 40, trans in %: 100
+ Path ESALG_15->PAMIT_15
+ID:24 ESALG->UYMVD Transported 23, trans in %: 100
+ Path ESALG_6->TRAMB_6
+TRAMB_1->UYMVD_1
+ID:30 ESALG->MAPTM Transported 14, trans in %: 100
+ Path ESALG_30->MAPTM_30
+ID:34 ESALG->CLSAI Transported 33, trans in %: 100
+ Path ESALG_17->CLSAI_17
+ID:35 ESALG->BRSSZ Transported 18, trans in %: 100
+ Path ESALG_14->BRSSZ_14
+ID:47 TRAMB->DEBRV Transported 96, trans in %: 100
+ Path TRAMB_0->DEBRV_0
+ID:48 TRAMB->AUBNE Transported 16, trans in %: 100
+ Path TRAMB_6->MYPKG_6
+MYPKG_11->AUBNE_11
+ID:49 TRAMB->KRPUS Transported 2, trans in %: 100
+ Path TRAMB_6->MYPKG_6
+MYPKG_34->KRPUS_34
+ID:53 TRAMB->GBFXT Transported 29, trans in %: 100
+ Path TRAMB_0->GBFXT_0
+ID:54 TRAMB->ITGIT Transported 21, trans in %: 100
+ Path TRAMB_5->ITGIT_5
+ID:59 TRAMB->TWKHH Transported 1, trans in %: 100
+ Path TRAMB_6->MYPKG_6
+MYPKG_34->TWKHH_34
+ID:63 TRAMB->UYMVD Transported 4, trans in %: 100
+ Path TRAMB_1->UYMVD_1
+ID:67 TRAMB->MAPTM Transported 5, trans in %: 100
+ Path TRAMB_1->MAPTM_1
+ID:68 TRAMB->CNTAO Transported 6, trans in %: 100
+ Path TRAMB_6->MYPKG_6
+MYPKG_34->CNTAO_34
+ID:70 TRAMB->OMSLL Transported 9, trans in %: 100
+ Path TRAMB_6->OMSLL_6
+ID:75 TRAMB->JPYOK Transported 8, trans in %: 100
+ Path TRAMB_6->MYPKG_6
+MYPKG_29->JPYOK_29
+ID:79 BEANR->NGAPP Transported 251, trans in %: 100
+ Path BEANR_28->NGAPP_28
+ID:81 BEANR->DEBRV Transported 22, trans in %: 100
+ Path BEANR_13->DEBRV_13
+ID:85 BEANR->LKCMB Transported 31, trans in %: 100
+ Path BEANR_19->LKCMB_19
+ID:89 BEANR->HKHKG Transported 47, trans in %: 100
+ Path BEANR_19->HKHKG_19
+ID:92 BEANR->SAJED Transported 57, trans in %: 100
+ Path BEANR_19->SAJED_19
+ID:96 BEANR->USMIA Transported 19, trans in %: 100
+ Path BEANR_13->USMIA_13
+ID:100 BEANR->USEWR Transported 49, trans in %: 100
+ Path BEANR_13->USEWR_13
+ID:108 BEANR->BRSSZ Transported 72, trans in %: 100
+ Path BEANR_28->NGAPP_28
+NGAPP_14->BRSSZ_14
+ID:109 BEANR->CNSHA Transported 15, trans in %: 100
+ Path BEANR_19->CNSHA_19
+ID:115 NGAPP->ESALG Transported 48, trans in %: 100
+ Path NGAPP_13->ESALG_13
+ID:117 NGAPP->BEANR Transported 276, trans in %: 100
+ Path NGAPP_28->BEANR_28
+ID:119 NGAPP->DEBRV Transported 57, trans in %: 100
+ Path NGAPP_28->DEBRV_28
+ID:123 NGAPP->ZADUR Transported 2, trans in %: 100
+ Path NGAPP_16->ZADUR_16
+ID:124 NGAPP->GBFXT Transported 12, trans in %: 100
+ Path NGAPP_28->GBFXT_28
+ID:129 NGAPP->AEJEA Transported 51, trans in %: 100
+ Path NGAPP_16->AEJEA_16
+ID:138 NGAPP->USEWR Transported 61, trans in %: 100
+ Path NGAPP_13->USEWR_13
+ID:144 NGAPP->NLRTM Transported 57, trans in %: 100
+ Path NGAPP_28->NLRTM_28
+ID:145 NGAPP->OMSLL Transported 8, trans in %: 100
+ Path NGAPP_16->OMSLL_16
+ID:146 NGAPP->BRSSZ Transported 1, trans in %: 100
+ Path NGAPP_14->BRSSZ_14
+ID:154 NZAKL->ESALG Transported 22, trans in %: 100
+ Path NZAKL_9->ESALG_9
+ID:158 NZAKL->PABLB Transported 6, trans in %: 100
+ Path NZAKL_18->PABLB_18
+ID:163 NZAKL->USCHS Transported 123, trans in %: 100
+ Path NZAKL_9->USCHS_9
+ID:166 NZAKL->GBFXT Transported 35, trans in %: 100
+ Path NZAKL_9->GBFXT_9
+ID:170 NZAKL->HKHKG Transported 74, trans in %: 100
+ Path NZAKL_11->HKHKG_11
+ID:171 NZAKL->INNSA Transported 8.0188, trans in %: 80.188
+ Path NZAKL_8->TWKHH_8
+TWKHH_7->INNSA_7
+ID:181 NZAKL->MYPKG Transported 0.7964, trans in %: 1.62531
+ Path NZAKL_9->MYPKG_9
+ID:183 NZAKL->EGPSD Transported 16, trans in %: 100
+ Path NZAKL_9->MYPKG_9
+MYPKG_26->EGPSD_26
+ID:184 NZAKL->MAPTM Transported 1, trans in %: 100
+ Path NZAKL_9->MYPKG_9
+MYPKG_26->MAPTM_26
+ID:187 NZAKL->OMSLL Transported 24, trans in %: 100
+ Path NZAKL_9->OMSLL_9
+ID:188 NZAKL->CLSAI Transported 1, trans in %: 100
+ Path NZAKL_8->CLSAI_8
+ID:190 NZAKL->CNSHA Transported 34, trans in %: 100
+ Path NZAKL_18->CNSHA_18
+ID:191 NZAKL->SGSIN Transported 37, trans in %: 100
+ Path NZAKL_11->SGSIN_11
+ID:193 NZAKL->MYTPP Transported 111.008, trans in %: 86.7252
+ Path NZAKL_9->MYTPP_9
+ID:196 NZAKL->JPYOK Transported 66, trans in %: 100
+ Path NZAKL_8->JPYOK_8
+ID:200 PABLB->NZAKL Transported 6, trans in %: 100
+ Path PABLB_18->NZAKL_18
+ID:202 PABLB->AUBNE Transported 10, trans in %: 100
+ Path PABLB_18->AUBNE_18
+ID:203 PABLB->KRPUS Transported 53, trans in %: 100
+ Path PABLB_18->KRPUS_18
+ID:206 PABLB->ZADUR Transported 2, trans in %: 100
+ Path PABLB_13->ZADUR_13
+ID:208 PABLB->ECGYE Transported 68, trans in %: 100
+ Path PABLB_0->ECGYE_0
+ID:209 PABLB->HKHKG Transported 48, trans in %: 100
+ Path PABLB_18->CNTAO_18
+CNTAO_31->HKHKG_31
+ID:211 PABLB->TWKHH Transported 34, trans in %: 100
+ Path PABLB_18->TWKHH_18
+ID:215 PABLB->USEWR Transported 17, trans in %: 100
+ Path PABLB_17->USEWR_17
+ID:218 PABLB->CNTAO Transported 50, trans in %: 100
+ Path PABLB_18->CNTAO_18
+ID:220 PABLB->CLSAI Transported 23, trans in %: 100
+ Path PABLB_13->CLSAI_13
+ID:221 PABLB->BRSSZ Transported 16, trans in %: 100
+ Path PABLB_13->BRSSZ_13
+ID:222 PABLB->CNSHA Transported 20, trans in %: 100
+ Path PABLB_18->CNSHA_18
+ID:227 PABLB->JPYOK Transported 65, trans in %: 100
+ Path PABLB_18->JPYOK_18
+ID:229 ESBCN->TRAMB Transported 3, trans in %: 100
+ Path ESBCN_22->SAJED_22
+SAJED_5->TRAMB_5
+ID:231 ESBCN->NZAKL Transported 5, trans in %: 100
+ Path ESBCN_22->SAJED_22
+SAJED_9->NZAKL_9
+ID:232 ESBCN->DEBRV Transported 95, trans in %: 100
+ Path ESBCN_22->SAJED_22
+SAJED_25->DEBRV_25
+ID:233 ESBCN->AUBNE Transported 2, trans in %: 100
+ Path ESBCN_22->SAJED_22
+SAJED_9->AUBNE_9
+ID:236 ESBCN->LKCMB Transported 1, trans in %: 100
+ Path ESBCN_22->LKCMB_22
+ID:239 ESBCN->HKHKG Transported 26, trans in %: 100
+ Path ESBCN_22->SAJED_22
+SAJED_23->HKHKG_23
+ID:242 ESBCN->SAJED Transported 6, trans in %: 100
+ Path ESBCN_22->SAJED_22
+ID:248 ESBCN->PKBQM Transported 9, trans in %: 100
+ Path ESBCN_22->SAJED_22
+SAJED_4->PKBQM_4
+ID:250 ESBCN->CNTAO Transported 1, trans in %: 100
+ Path ESBCN_22->LKCMB_22
+LKCMB_35->CNTAO_35
+ID:251 ESBCN->NLRTM Transported 1, trans in %: 100
+ Path ESBCN_22->NLRTM_22
+ID:252 ESBCN->OMSLL Transported 1, trans in %: 100
+ Path ESBCN_22->OMSLL_22
+ID:255 ESBCN->SGSIN Transported 2, trans in %: 100
+ Path ESBCN_22->SAJED_22
+SAJED_12->SGSIN_12
+ID:257 ESBCN->MYTPP Transported 3, trans in %: 100
+ Path ESBCN_22->SAJED_22
+SAJED_12->MYTPP_12
+ID:259 ESBCN->JPYOK Transported 5, trans in %: 100
+ Path ESBCN_22->SAJED_22
+SAJED_23->JPYOK_23
+ID:262 DEBRV->BEANR Transported 15, trans in %: 100
+ Path DEBRV_28->BEANR_28
+ID:264 DEBRV->NZAKL Transported 59, trans in %: 100
+ Path DEBRV_9->NZAKL_9
+ID:266 DEBRV->AUBNE Transported 179, trans in %: 100
+ Path DEBRV_9->AUBNE_9
+ID:273 DEBRV->ECGYE Transported 19, trans in %: 100
+ Path DEBRV_0->ECGYE_0
+ID:274 DEBRV->HKHKG Transported 313, trans in %: 100
+ Path DEBRV_26->HKHKG_26
+ID:281 DEBRV->PAMIT Transported 22, trans in %: 100
+ Path DEBRV_15->PAMIT_15
+ID:282 DEBRV->USMIA Transported 166, trans in %: 100
+ Path DEBRV_15->USMIA_15
+ID:290 DEBRV->MAPTM Transported 106, trans in %: 100
+ Path DEBRV_26->MAPTM_26
+ID:294 DEBRV->CLSAI Transported 55, trans in %: 100
+ Path DEBRV_17->CLSAI_17
+ID:296 DEBRV->CNSHA Transported 217, trans in %: 100
+ Path DEBRV_26->CNSHA_26
+ID:303 AUBNE->ESALG Transported 7, trans in %: 100
+ Path AUBNE_9->ESALG_9
+ID:306 AUBNE->NZAKL Transported 391, trans in %: 100
+ Path AUBNE_11->NZAKL_11
+ID:307 AUBNE->PABLB Transported 1, trans in %: 100
+ Path AUBNE_18->PABLB_18
+ID:310 AUBNE->KRPUS Transported 20, trans in %: 13.7931
+ Path AUBNE_8->KRPUS_8
+ID:311 AUBNE->USCHS Transported 98, trans in %: 100
+ Path AUBNE_12->USCHS_12
+ID:312 AUBNE->LKCMB Transported 12, trans in %: 100
+ Path AUBNE_12->LKCMB_12
+ID:315 AUBNE->ITGIT Transported 22, trans in %: 100
+ Path AUBNE_12->ITGIT_12
+ID:318 AUBNE->HKHKG Transported 145, trans in %: 100
+ Path AUBNE_11->HKHKG_11
+ID:320 AUBNE->AEJEA Transported 82, trans in %: 100
+ Path AUBNE_12->AEJEA_12
+ID:329 AUBNE->MYPKG Transported 24, trans in %: 100
+ Path AUBNE_9->MYPKG_9
+ID:334 AUBNE->OMSLL Transported 20.084, trans in %: 71.7286
+ Path AUBNE_9->OMSLL_9
+ID:335 AUBNE->CLSAI Transported 4, trans in %: 100
+ Path AUBNE_8->CLSAI_8
+ID:337 AUBNE->CNSHA Transported 46, trans in %: 100
+ Path AUBNE_18->CNSHA_18
+ID:339 AUBNE->GHTKD Transported 6, trans in %: 100
+ Path AUBNE_9->MYPKG_9
+MYPKG_16->NGAPP_16
+NGAPP_0->GHTKD_0
+ID:340 AUBNE->MYTPP Transported 214, trans in %: 100
+ Path AUBNE_9->MYTPP_9
+ID:342 AUBNE->CNYTN Transported 4, trans in %: 100
+ Path AUBNE_8->TWKHH_8
+TWKHH_35->CNYTN_35
+ID:343 AUBNE->JPYOK Transported 246, trans in %: 100
+ Path AUBNE_8->JPYOK_8
+ID:348 KRPUS->NGAPP Transported 277, trans in %: 100
+ Path KRPUS_34->MYPKG_34
+MYPKG_16->NGAPP_16
+ID:350 KRPUS->PABLB Transported 272, trans in %: 100
+ Path KRPUS_18->PABLB_18
+ID:355 KRPUS->LKCMB Transported 206, trans in %: 100
+ Path KRPUS_35->LKCMB_35
+ID:360 KRPUS->DEHAM Transported 25, trans in %: 100
+ Path KRPUS_23->SAJED_23
+SAJED_30->DEHAM_30
+ID:364 KRPUS->SAJED Transported 83, trans in %: 100
+ Path KRPUS_23->SAJED_23
+ID:365 KRPUS->TWKHH Transported 10, trans in %: 100
+ Path KRPUS_35->TWKHH_35
+ID:373 KRPUS->MYPKG Transported 33, trans in %: 100
+ Path KRPUS_34->MYPKG_34
+ID:375 KRPUS->EGPSD Transported 224.008, trans in %: 79.7182
+ Path KRPUS_34->MYPKG_34
+MYPKG_26->EGPSD_26
+ID:379 KRPUS->CLSAI Transported 86, trans in %: 100
+ Path KRPUS_8->CLSAI_8
+ID:381 KRPUS->CNSHA Transported 1, trans in %: 100
+ Path KRPUS_23->CNSHA_23
+ID:382 KRPUS->SGSIN Transported 43, trans in %: 100
+ Path KRPUS_34->SGSIN_34
+ID:383 KRPUS->GHTKD Transported 21, trans in %: 100
+ Path KRPUS_34->MYPKG_34
+MYPKG_16->NGAPP_16
+NGAPP_0->GHTKD_0
+ID:384 KRPUS->MYTPP Transported 180, trans in %: 100
+ Path KRPUS_23->MYTPP_23
+ID:386 KRPUS->CNYTN Transported 1, trans in %: 100
+ Path KRPUS_34->CNYTN_34
+ID:387 KRPUS->JPYOK Transported 16, trans in %: 100
+ Path KRPUS_8->JPYOK_8
+ID:388 KRPUS->BEZEE Transported 9, trans in %: 100
+ Path KRPUS_23->SAJED_23
+SAJED_25->BEZEE_25
+ID:394 USCHS->PABLB Transported 52, trans in %: 100
+ Path USCHS_13->PABLB_13
+ID:396 USCHS->DEBRV Transported 539, trans in %: 100
+ Path USCHS_15->DEBRV_15
+ID:398 USCHS->KRPUS Transported 56, trans in %: 100
+ Path USCHS_8->KRPUS_8
+ID:399 USCHS->LKCMB Transported 107, trans in %: 100
+ Path USCHS_12->LKCMB_12
+ID:400 USCHS->ZADUR Transported 269, trans in %: 100
+ Path USCHS_13->ZADUR_13
+ID:402 USCHS->ITGIT Transported 176, trans in %: 100
+ Path USCHS_9->ITGIT_9
+ID:404 USCHS->DEHAM Transported 1, trans in %: 100
+ Path USCHS_33->SAJED_33
+SAJED_30->DEHAM_30
+ID:407 USCHS->AEJEA Transported 435, trans in %: 100
+ Path USCHS_9->AEJEA_9
+ID:408 USCHS->SAJED Transported 225, trans in %: 100
+ Path USCHS_33->SAJED_33
+ID:409 USCHS->TWKHH Transported 46, trans in %: 100
+ Path USCHS_8->TWKHH_8
+ID:411 USCHS->PAMIT Transported 308, trans in %: 100
+ Path USCHS_13->PAMIT_13
+ID:412 USCHS->KEMBA Transported 66, trans in %: 100
+ Path USCHS_13->ZADUR_13
+ZADUR_2->KEMBA_2
+ID:417 USCHS->CNTAO Transported 27, trans in %: 100
+ Path USCHS_8->CNTAO_8
+ID:418 USCHS->NLRTM Transported 516, trans in %: 100
+ Path USCHS_15->NLRTM_15
+ID:422 USCHS->SGSIN Transported 13, trans in %: 100
+ Path USCHS_12->SGSIN_12
+ID:424 USCHS->MYTPP Transported 62, trans in %: 100
+ Path USCHS_12->MYTPP_12
+ID:426 USCHS->JPYOK Transported 53, trans in %: 100
+ Path USCHS_8->JPYOK_8
+ID:427 LKCMB->ESALG Transported 61, trans in %: 100
+ Path LKCMB_24->ESALG_24
+ID:428 LKCMB->TRAMB Transported 27, trans in %: 100
+ Path LKCMB_1->TRAMB_1
+ID:429 LKCMB->BEANR Transported 2.0164, trans in %: 4.0328
+ Path LKCMB_19->BEANR_19
+ID:433 LKCMB->ESBCN Transported 12, trans in %: 100
+ Path LKCMB_22->ESBCN_22
+ID:436 LKCMB->KRPUS Transported 18, trans in %: 100
+ Path LKCMB_35->KRPUS_35
+ID:437 LKCMB->USCHS Transported 300, trans in %: 100
+ Path LKCMB_12->USCHS_12
+ID:438 LKCMB->ZADUR Transported 61, trans in %: 100
+ Path LKCMB_19->ZADUR_19
+ID:440 LKCMB->ITGIT Transported 61.7964, trans in %: 31.3687
+ Path LKCMB_12->ITGIT_12
+ID:442 LKCMB->DEHAM Transported 34, trans in %: 100
+ Path LKCMB_24->SAJED_24
+SAJED_30->DEHAM_30
+ID:443 LKCMB->HKHKG Transported 23, trans in %: 100
+ Path LKCMB_19->HKHKG_19
+ID:445 LKCMB->AEJEA Transported 62, trans in %: 100
+ Path LKCMB_12->AEJEA_12
+ID:446 LKCMB->SAJED Transported 33, trans in %: 100
+ Path LKCMB_24->SAJED_24
+ID:447 LKCMB->TWKHH Transported 7, trans in %: 100
+ Path LKCMB_35->TWKHH_35
+ID:454 LKCMB->CAMTR Transported 3, trans in %: 100
+ Path LKCMB_22->EGPSD_22
+EGPSD_10->CAMTR_10
+ID:456 LKCMB->MYPKG Transported 2, trans in %: 100
+ Path LKCMB_29->MYPKG_29
+ID:458 LKCMB->EGPSD Transported 106, trans in %: 100
+ Path LKCMB_22->EGPSD_22
+ID:460 LKCMB->CNTAO Transported 5, trans in %: 100
+ Path LKCMB_35->CNTAO_35
+ID:461 LKCMB->NLRTM Transported 237, trans in %: 100
+ Path LKCMB_22->NLRTM_22
+ID:462 LKCMB->OMSLL Transported 22, trans in %: 100
+ Path LKCMB_1->OMSLL_1
+ID:464 LKCMB->CNSHA Transported 16, trans in %: 100
+ Path LKCMB_35->CNSHA_35
+ID:465 LKCMB->SGSIN Transported 4, trans in %: 100
+ Path LKCMB_35->SGSIN_35
+ID:467 LKCMB->MYTPP Transported 35, trans in %: 100
+ Path LKCMB_24->MYTPP_24
+ID:469 LKCMB->CNYTN Transported 2, trans in %: 100
+ Path LKCMB_35->CNYTN_35
+ID:470 LKCMB->JPYOK Transported 45, trans in %: 100
+ Path LKCMB_29->JPYOK_29
+ID:471 LKCMB->BEZEE Transported 88, trans in %: 100
+ Path LKCMB_24->SAJED_24
+SAJED_25->BEZEE_25
+ID:475 ZADUR->NGAPP Transported 87, trans in %: 100
+ Path ZADUR_13->NGAPP_13
+ID:479 ZADUR->DEBRV Transported 207.092, trans in %: 82.5069
+ Path ZADUR_13->NGAPP_13
+NGAPP_28->DEBRV_28
+ID:481 ZADUR->KRPUS Transported 122, trans in %: 100
+ Path ZADUR_16->MYPKG_16
+MYPKG_34->KRPUS_34
+ID:483 ZADUR->LKCMB Transported 45, trans in %: 100
+ Path ZADUR_19->LKCMB_19
+ID:484 ZADUR->GBFXT Transported 313, trans in %: 100
+ Path ZADUR_19->GBFXT_19
+ID:488 ZADUR->HKHKG Transported 293, trans in %: 100
+ Path ZADUR_19->HKHKG_19
+ID:490 ZADUR->AEJEA Transported 249.908, trans in %: 97.6202
+ Path ZADUR_13->NGAPP_13
+NGAPP_16->AEJEA_16
+ID:491 ZADUR->SAJED Transported 63, trans in %: 100
+ Path ZADUR_19->SAJED_19
+ID:498 ZADUR->MYPKG Transported 22, trans in %: 100
+ Path ZADUR_16->MYPKG_16
+ID:503 ZADUR->NLRTM Transported 328, trans in %: 100
+ Path ZADUR_13->NGAPP_13
+NGAPP_28->NLRTM_28
+ID:506 ZADUR->BRSSZ Transported 7, trans in %: 100
+ Path ZADUR_13->NGAPP_13
+NGAPP_14->BRSSZ_14
+ID:507 ZADUR->CNSHA Transported 131, trans in %: 100
+ Path ZADUR_19->CNSHA_19
+ID:508 ZADUR->SGSIN Transported 37, trans in %: 100
+ Path ZADUR_16->SGSIN_16
+ID:510 ZADUR->MYTPP Transported 164, trans in %: 100
+ Path ZADUR_16->MYTPP_16
+ID:513 ZADUR->JPYOK Transported 104, trans in %: 100
+ Path ZADUR_16->MYPKG_16
+MYPKG_29->JPYOK_29
+ID:514 GBFXT->ESALG Transported 32, trans in %: 100
+ Path GBFXT_14->ESALG_14
+ID:516 GBFXT->BEANR Transported 1, trans in %: 100
+ Path GBFXT_19->BEANR_19
+ID:517 GBFXT->NGAPP Transported 61, trans in %: 100
+ Path GBFXT_28->NGAPP_28
+ID:518 GBFXT->NZAKL Transported 31.8046, trans in %: 56.7939
+ Path GBFXT_9->NZAKL_9
+ID:520 GBFXT->DEBRV Transported 14, trans in %: 100
+ Path GBFXT_9->DEBRV_9
+ID:521 GBFXT->AUBNE Transported 48.1954, trans in %: 42.6508
+ Path GBFXT_9->AUBNE_9
+ID:523 GBFXT->USCHS Transported 64, trans in %: 100
+ Path GBFXT_33->USCHS_33
+ID:526 GBFXT->ITGIT Transported 54, trans in %: 100
+ Path GBFXT_9->ITGIT_9
+ID:527 GBFXT->ECGYE Transported 14, trans in %: 100
+ Path GBFXT_0->ECGYE_0
+ID:528 GBFXT->HKHKG Transported 165, trans in %: 100
+ Path GBFXT_19->HKHKG_19
+ID:543 GBFXT->MAPTM Transported 14, trans in %: 100
+ Path GBFXT_30->MAPTM_30
+ID:545 GBFXT->OMSLL Transported 33, trans in %: 100
+ Path GBFXT_22->OMSLL_22
+ID:547 GBFXT->BRSSZ Transported 13, trans in %: 100
+ Path GBFXT_28->NGAPP_28
+NGAPP_14->BRSSZ_14
+ID:548 GBFXT->CNSHA Transported 12, trans in %: 100
+ Path GBFXT_19->CNSHA_19
+ID:557 ITGIT->BEANR Transported 50, trans in %: 100
+ Path ITGIT_13->BEANR_13
+ID:559 ITGIT->NZAKL Transported 43, trans in %: 100
+ Path ITGIT_9->NZAKL_9
+ID:560 ITGIT->ESBCN Transported 4, trans in %: 100
+ Path ITGIT_22->ESBCN_22
+ID:562 ITGIT->AUBNE Transported 151, trans in %: 100
+ Path ITGIT_9->AUBNE_9
+ID:564 ITGIT->USCHS Transported 201, trans in %: 100
+ Path ITGIT_12->USCHS_12
+ID:565 ITGIT->LKCMB Transported 87, trans in %: 100
+ Path ITGIT_24->LKCMB_24
+ID:570 ITGIT->HKHKG Transported 136, trans in %: 100
+ Path ITGIT_27->HKHKG_27
+ID:573 ITGIT->SAJED Transported 138, trans in %: 80.7018
+ Path ITGIT_9->SAJED_9
+ID:574 ITGIT->TWKHH Transported 31, trans in %: 100
+ Path ITGIT_27->TWKHH_27
+ID:578 ITGIT->USMIA Transported 126, trans in %: 100
+ Path ITGIT_4->USMIA_4
+ID:581 ITGIT->USEWR Transported 318, trans in %: 100
+ Path ITGIT_13->USEWR_13
+ID:583 ITGIT->PKBQM Transported 69, trans in %: 100
+ Path ITGIT_1->PKBQM_1
+ID:584 ITGIT->EGPSD Transported 18.1954, trans in %: 18.5667
+ Path ITGIT_0->EGPSD_0
+ID:586 ITGIT->CNTAO Transported 50, trans in %: 100
+ Path ITGIT_27->CNTAO_27
+ID:591 ITGIT->CNSHA Transported 90, trans in %: 100
+ Path ITGIT_27->CNTAO_27
+CNTAO_32->CNSHA_32
+ID:592 ITGIT->SGSIN Transported 15, trans in %: 100
+ Path ITGIT_24->SGSIN_24
+ID:596 ITGIT->CNYTN Transported 12, trans in %: 100
+ Path ITGIT_27->CNYTN_27
+ID:598 ITGIT->BEZEE Transported 8, trans in %: 100
+ Path ITGIT_25->BEZEE_25
+ID:601 ECGYE->NGAPP Transported 5, trans in %: 100
+ Path ECGYE_0->NGAPP_0
+ID:605 ECGYE->DEBRV Transported 413, trans in %: 54.4137
+ Path ECGYE_0->NGAPP_0
+NGAPP_28->DEBRV_28
+ID:622 ECGYE->NLRTM Transported 32, trans in %: 11.5523
+ Path ECGYE_0->NGAPP_0
+NGAPP_28->NLRTM_28
+ID:631 DEHAM->ESALG Transported 5, trans in %: 100
+ Path DEHAM_30->ESALG_30
+ID:634 DEHAM->NZAKL Transported 10, trans in %: 100
+ Path DEHAM_30->SAJED_30
+SAJED_9->NZAKL_9
+ID:635 DEHAM->AUBNE Transported 38, trans in %: 100
+ Path DEHAM_30->SAJED_30
+SAJED_9->AUBNE_9
+ID:640 DEHAM->ITGIT Transported 11, trans in %: 100
+ Path DEHAM_30->SAJED_30
+SAJED_6->ITGIT_6
+ID:642 DEHAM->HKHKG Transported 19, trans in %: 100
+ Path DEHAM_30->SAJED_30
+SAJED_23->HKHKG_23
+ID:643 DEHAM->INNSA Transported 9, trans in %: 100
+ Path DEHAM_30->SAJED_30
+SAJED_7->INNSA_7
+ID:645 DEHAM->SAJED Transported 10, trans in %: 100
+ Path DEHAM_30->SAJED_30
+ID:646 DEHAM->TWKHH Transported 26, trans in %: 100
+ Path DEHAM_30->SAJED_30
+SAJED_7->TWKHH_7
+ID:651 DEHAM->PKBQM Transported 4, trans in %: 100
+ Path DEHAM_30->SAJED_30
+SAJED_4->PKBQM_4
+ID:652 DEHAM->EGPSD Transported 22, trans in %: 100
+ Path DEHAM_30->SAJED_30
+SAJED_33->EGPSD_33
+ID:653 DEHAM->MAPTM Transported 6, trans in %: 100
+ Path DEHAM_30->MAPTM_30
+ID:658 DEHAM->CNSHA Transported 55, trans in %: 100
+ Path DEHAM_30->SAJED_30
+SAJED_19->CNSHA_19
+ID:659 DEHAM->SGSIN Transported 12, trans in %: 100
+ Path DEHAM_30->SAJED_30
+SAJED_12->SGSIN_12
+ID:662 DEHAM->CNYTN Transported 3, trans in %: 100
+ Path DEHAM_30->SAJED_30
+SAJED_7->CNYTN_7
+ID:663 DEHAM->JPYOK Transported 28, trans in %: 100
+ Path DEHAM_30->SAJED_30
+SAJED_23->JPYOK_23
+ID:666 HKHKG->BEANR Transported 82, trans in %: 100
+ Path HKHKG_19->BEANR_19
+ID:668 HKHKG->NZAKL Transported 54, trans in %: 100
+ Path HKHKG_11->NZAKL_11
+ID:669 HKHKG->PABLB Transported 178.195, trans in %: 65.7548
+ Path HKHKG_27->CNTAO_27
+CNTAO_18->PABLB_18
+ID:671 HKHKG->DEBRV Transported 819, trans in %: 100
+ Path HKHKG_26->DEBRV_26
+ID:672 HKHKG->AUBNE Transported 270, trans in %: 100
+ Path HKHKG_11->AUBNE_11
+ID:675 HKHKG->LKCMB Transported 105, trans in %: 100
+ Path HKHKG_29->LKCMB_29
+ID:676 HKHKG->ZADUR Transported 507, trans in %: 100
+ Path HKHKG_19->ZADUR_19
+ID:677 HKHKG->GBFXT Transported 38.9836, trans in %: 13.4891
+ Path HKHKG_19->GBFXT_19
+ID:678 HKHKG->ITGIT Transported 434, trans in %: 100
+ Path HKHKG_27->ITGIT_27
+ID:682 HKHKG->AEJEA Transported 327, trans in %: 100
+ Path HKHKG_21->AEJEA_21
+ID:685 HKHKG->USLAX Transported 924, trans in %: 100
+ Path HKHKG_23->USLAX_23
+ID:695 HKHKG->MAPTM Transported 23, trans in %: 100
+ Path HKHKG_26->MAPTM_26
+ID:697 HKHKG->OMSLL Transported 23.916, trans in %: 19.6033
+ Path HKHKG_29->MYPKG_29
+MYPKG_9->OMSLL_9
+ID:698 HKHKG->CLSAI Transported 35.8046, trans in %: 28.4163
+ Path HKHKG_27->CNTAO_27
+CNTAO_8->CLSAI_8
+ID:700 HKHKG->CNSHA Transported 49, trans in %: 100
+ Path HKHKG_19->CNSHA_19
+ID:701 HKHKG->SGSIN Transported 91, trans in %: 100
+ Path HKHKG_11->SGSIN_11
+ID:702 HKHKG->GHTKD Transported 48.5494, trans in %: 22.0679
+ Path HKHKG_29->MYPKG_29
+MYPKG_16->NGAPP_16
+NGAPP_3->GHTKD_3
+ID:703 HKHKG->MYTPP Transported 52.9918, trans in %: 38.9646
+ Path HKHKG_31->MYTPP_31
+ID:704 HKHKG->CAVAN Transported 418, trans in %: 100
+ Path HKHKG_21->CAVAN_21
+ID:705 HKHKG->CNYTN Transported 136, trans in %: 100
+ Path HKHKG_21->CNYTN_21
+ID:706 HKHKG->JPYOK Transported 60, trans in %: 100
+ Path HKHKG_23->JPYOK_23
+ID:708 INNSA->ESALG Transported 62, trans in %: 100
+ Path INNSA_6->ESALG_6
+ID:719 INNSA->LKCMB Transported 39, trans in %: 100
+ Path INNSA_1->LKCMB_1
+ID:722 INNSA->ITGIT Transported 222, trans in %: 100
+ Path INNSA_4->ITGIT_4
+ID:724 INNSA->DEHAM Transported 14.9918, trans in %: 93.6987
+ Path INNSA_6->SAJED_6
+SAJED_30->DEHAM_30
+ID:726 INNSA->AEJEA Transported 69.9918, trans in %: 41.4153
+ Path INNSA_7->AEJEA_7
+ID:727 INNSA->SAJED Transported 206, trans in %: 100
+ Path INNSA_6->SAJED_6
+ID:730 INNSA->PAMIT Transported 22, trans in %: 100
+ Path INNSA_4->PAMIT_4
+ID:731 INNSA->USMIA Transported 84, trans in %: 100
+ Path INNSA_4->USMIA_4
+ID:735 INNSA->MYPKG Transported 4, trans in %: 100
+ Path INNSA_7->MYPKG_7
+ID:737 INNSA->EGPSD Transported 132, trans in %: 100
+ Path INNSA_5->EGPSD_5
+ID:739 INNSA->CNTAO Transported 13, trans in %: 100
+ Path INNSA_7->TWKHH_7
+TWKHH_8->CNTAO_8
+ID:741 INNSA->OMSLL Transported 35, trans in %: 100
+ Path INNSA_1->OMSLL_1
+ID:744 INNSA->CNSHA Transported 15, trans in %: 100
+ Path INNSA_7->TWKHH_7
+TWKHH_18->CNSHA_18
+ID:747 INNSA->MYTPP Transported 108, trans in %: 100
+ Path INNSA_7->MYTPP_7
+ID:749 INNSA->CNYTN Transported 4, trans in %: 100
+ Path INNSA_7->CNYTN_7
+ID:751 INNSA->BEZEE Transported 26, trans in %: 68.4211
+ Path INNSA_6->SAJED_6
+SAJED_25->BEZEE_25
+ID:756 AEJEA->NZAKL Transported 46, trans in %: 100
+ Path AEJEA_9->NZAKL_9
+ID:760 AEJEA->AUBNE Transported 97, trans in %: 100
+ Path AEJEA_9->AUBNE_9
+ID:762 AEJEA->USCHS Transported 80, trans in %: 100
+ Path AEJEA_12->USCHS_12
+ID:763 AEJEA->LKCMB Transported 278, trans in %: 100
+ Path AEJEA_24->LKCMB_24
+ID:764 AEJEA->ZADUR Transported 184, trans in %: 100
+ Path AEJEA_16->ZADUR_16
+ID:767 AEJEA->DEHAM Transported 2, trans in %: 100
+ Path AEJEA_5->SAJED_5
+SAJED_30->DEHAM_30
+ID:768 AEJEA->HKHKG Transported 138, trans in %: 100
+ Path AEJEA_21->HKHKG_21
+ID:770 AEJEA->SAJED Transported 61.0082, trans in %: 32.2795
+ Path AEJEA_5->SAJED_5
+ID:780 AEJEA->PKBQM Transported 31, trans in %: 100
+ Path AEJEA_7->PKBQM_7
+ID:781 AEJEA->EGPSD Transported 122, trans in %: 100
+ Path AEJEA_5->EGPSD_5
+ID:785 AEJEA->OMSLL Transported 92, trans in %: 100
+ Path AEJEA_16->OMSLL_16
+ID:788 AEJEA->CNSHA Transported 9, trans in %: 100
+ Path AEJEA_21->CNSHA_21
+ID:789 AEJEA->SGSIN Transported 22, trans in %: 100
+ Path AEJEA_24->SGSIN_24
+ID:791 AEJEA->MYTPP Transported 43, trans in %: 100
+ Path AEJEA_24->MYTPP_24
+ID:792 AEJEA->CAVAN Transported 13, trans in %: 100
+ Path AEJEA_21->CAVAN_21
+ID:794 AEJEA->JPYOK Transported 6, trans in %: 100
+ Path AEJEA_21->JPYOK_21
+ID:796 SAJED->ESALG Transported 91, trans in %: 100
+ Path SAJED_24->ESALG_24
+ID:797 SAJED->TRAMB Transported 38, trans in %: 100
+ Path SAJED_5->TRAMB_5
+ID:800 SAJED->NZAKL Transported 14, trans in %: 100
+ Path SAJED_9->NZAKL_9
+ID:803 SAJED->DEBRV Transported 20, trans in %: 100
+ Path SAJED_25->DEBRV_25
+ID:804 SAJED->AUBNE Transported 12, trans in %: 100
+ Path SAJED_12->AUBNE_12
+ID:806 SAJED->USCHS Transported 29, trans in %: 100
+ Path SAJED_33->USCHS_33
+ID:807 SAJED->LKCMB Transported 43, trans in %: 100
+ Path SAJED_19->LKCMB_19
+ID:810 SAJED->ITGIT Transported 80, trans in %: 100
+ Path SAJED_6->ITGIT_6
+ID:812 SAJED->DEHAM Transported 1, trans in %: 100
+ Path SAJED_30->DEHAM_30
+ID:813 SAJED->HKHKG Transported 21, trans in %: 100
+ Path SAJED_19->HKHKG_19
+ID:814 SAJED->INNSA Transported 58, trans in %: 100
+ Path SAJED_7->INNSA_7
+ID:816 SAJED->TWKHH Transported 1, trans in %: 100
+ Path SAJED_7->TWKHH_7
+ID:817 SAJED->USLAX Transported 4, trans in %: 100
+ Path SAJED_23->USLAX_23
+ID:822 SAJED->UYMVD Transported 6, trans in %: 100
+ Path SAJED_5->TRAMB_5
+TRAMB_1->UYMVD_1
+ID:825 SAJED->PKBQM Transported 84, trans in %: 100
+ Path SAJED_4->PKBQM_4
+ID:829 SAJED->NLRTM Transported 17, trans in %: 100
+ Path SAJED_25->NLRTM_25
+ID:830 SAJED->OMSLL Transported 1, trans in %: 100
+ Path SAJED_22->OMSLL_22
+ID:833 SAJED->CNSHA Transported 15, trans in %: 100
+ Path SAJED_19->CNSHA_19
+ID:834 SAJED->SGSIN Transported 45, trans in %: 100
+ Path SAJED_12->SGSIN_12
+ID:838 SAJED->JPYOK Transported 1, trans in %: 100
+ Path SAJED_23->JPYOK_23
+ID:839 SAJED->BEZEE Transported 62, trans in %: 100
+ Path SAJED_25->BEZEE_25
+ID:845 TWKHH->PABLB Transported 30, trans in %: 100
+ Path TWKHH_18->PABLB_18
+ID:850 TWKHH->USCHS Transported 56, trans in %: 100
+ Path TWKHH_8->USCHS_8
+ID:851 TWKHH->LKCMB Transported 34, trans in %: 100
+ Path TWKHH_35->LKCMB_35
+ID:854 TWKHH->ITGIT Transported 171, trans in %: 100
+ Path TWKHH_27->ITGIT_27
+ID:857 TWKHH->HKHKG Transported 27, trans in %: 100
+ Path TWKHH_31->HKHKG_31
+ID:858 TWKHH->INNSA Transported 14, trans in %: 100
+ Path TWKHH_7->INNSA_7
+ID:859 TWKHH->AEJEA Transported 18, trans in %: 100
+ Path TWKHH_7->AEJEA_7
+ID:869 TWKHH->PKBQM Transported 5, trans in %: 100
+ Path TWKHH_7->PKBQM_7
+ID:874 TWKHH->CLSAI Transported 13, trans in %: 100
+ Path TWKHH_8->CLSAI_8
+ID:876 TWKHH->SGSIN Transported 34, trans in %: 100
+ Path TWKHH_35->SGSIN_35
+ID:889 USLAX->KRPUS Transported 396, trans in %: 100
+ Path USLAX_23->KRPUS_23
+ID:896 USLAX->INNSA Transported 20, trans in %: 100
+ Path USLAX_23->MYTPP_23
+MYTPP_7->INNSA_7
+ID:898 USLAX->SAJED Transported 11, trans in %: 100
+ Path USLAX_23->SAJED_23
+ID:899 USLAX->TWKHH Transported 51.0082, trans in %: 21.8919
+ Path USLAX_23->KRPUS_23
+KRPUS_35->TWKHH_35
+ID:903 USLAX->MYPKG Transported 24, trans in %: 100
+ Path USLAX_23->KRPUS_23
+KRPUS_34->MYPKG_34
+ID:910 USLAX->CNSHA Transported 307, trans in %: 100
+ Path USLAX_23->CNSHA_23
+ID:913 USLAX->MYTPP Transported 227, trans in %: 100
+ Path USLAX_23->MYTPP_23
+ID:917 AOLAD->DEBRV Transported 9, trans in %: 100
+ Path AOLAD_3->NGAPP_3
+NGAPP_28->DEBRV_28
+ID:921 AOLAD->AEJEA Transported 1, trans in %: 100
+ Path AOLAD_3->NGAPP_3
+NGAPP_16->AEJEA_16
+ID:923 AOLAD->USEWR Transported 1, trans in %: 100
+ Path AOLAD_3->NGAPP_3
+NGAPP_13->USEWR_13
+ID:925 AOLAD->NLRTM Transported 1, trans in %: 100
+ Path AOLAD_3->NGAPP_3
+NGAPP_28->NLRTM_28
+ID:933 PAMIT->ESALG Transported 54, trans in %: 100
+ Path PAMIT_17->ESALG_17
+ID:937 PAMIT->PABLB Transported 7, trans in %: 100
+ Path PAMIT_13->PABLB_13
+ID:939 PAMIT->DEBRV Transported 105, trans in %: 100
+ Path PAMIT_17->DEBRV_17
+ID:942 PAMIT->USCHS Transported 231, trans in %: 100
+ Path PAMIT_15->USCHS_15
+ID:944 PAMIT->ZADUR Transported 2, trans in %: 100
+ Path PAMIT_13->ZADUR_13
+ID:950 PAMIT->INNSA Transported 22, trans in %: 100
+ Path PAMIT_4->INNSA_4
+ID:956 PAMIT->USEWR Transported 1, trans in %: 100
+ Path PAMIT_17->USEWR_17
+ID:957 PAMIT->EGPSD Transported 1, trans in %: 100
+ Path PAMIT_4->EGPSD_4
+ID:959 PAMIT->NLRTM Transported 87.502, trans in %: 30.2775
+ Path PAMIT_14->NLRTM_14
+ID:960 PAMIT->CLSAI Transported 16, trans in %: 100
+ Path PAMIT_13->CLSAI_13
+ID:961 PAMIT->BRSSZ Transported 30, trans in %: 100
+ Path PAMIT_13->BRSSZ_13
+ID:970 USMIA->ESALG Transported 34, trans in %: 100
+ Path USMIA_15->ESALG_15
+ID:975 USMIA->PABLB Transported 31, trans in %: 100
+ Path USMIA_13->PABLB_13
+ID:977 USMIA->DEBRV Transported 175, trans in %: 100
+ Path USMIA_15->DEBRV_15
+ID:981 USMIA->ZADUR Transported 10, trans in %: 100
+ Path USMIA_13->ZADUR_13
+ID:985 USMIA->DEHAM Transported 6, trans in %: 100
+ Path USMIA_4->SAJED_4
+SAJED_30->DEHAM_30
+ID:987 USMIA->INNSA Transported 69, trans in %: 100
+ Path USMIA_4->INNSA_4
+ID:989 USMIA->SAJED Transported 73, trans in %: 100
+ Path USMIA_4->SAJED_4
+ID:992 USMIA->PAMIT Transported 197, trans in %: 100
+ Path USMIA_13->PAMIT_13
+ID:993 USMIA->KEMBA Transported 19, trans in %: 100
+ Path USMIA_13->ZADUR_13
+ZADUR_2->KEMBA_2
+ID:994 USMIA->PKBQM Transported 56, trans in %: 100
+ Path USMIA_4->PKBQM_4
+ID:995 USMIA->EGPSD Transported 201, trans in %: 100
+ Path USMIA_4->EGPSD_4
+ID:998 USMIA->NLRTM Transported 227, trans in %: 100
+ Path USMIA_15->NLRTM_15
+ID:1000 USMIA->CLSAI Transported 82, trans in %: 100
+ Path USMIA_13->CLSAI_13
+ID:1006 KEMBA->ESALG Transported 7, trans in %: 100
+ Path KEMBA_2->ZADUR_2
+ZADUR_13->ESALG_13
+ID:1008 KEMBA->BEANR Transported 35, trans in %: 100
+ Path KEMBA_2->ZADUR_2
+ZADUR_19->BEANR_19
+ID:1012 KEMBA->DEBRV Transported 91, trans in %: 100
+ Path KEMBA_2->ZADUR_2
+ZADUR_13->NGAPP_13
+NGAPP_28->DEBRV_28
+ID:1017 KEMBA->GBFXT Transported 25, trans in %: 100
+ Path KEMBA_2->ZADUR_2
+ZADUR_19->GBFXT_19
+ID:1022 KEMBA->AEJEA Transported 83, trans in %: 100
+ Path KEMBA_2->ZADUR_2
+ZADUR_13->NGAPP_13
+NGAPP_16->AEJEA_16
+ID:1023 KEMBA->SAJED Transported 1, trans in %: 2.27273
+ Path KEMBA_2->ZADUR_2
+ZADUR_19->SAJED_19
+ID:1039 KEMBA->JPYOK Transported 13, trans in %: 100
+ Path KEMBA_2->ZADUR_2
+ZADUR_16->MYPKG_16
+MYPKG_29->JPYOK_29
+ID:1040 KEMBA->BEZEE Transported 11, trans in %: 100
+ Path KEMBA_2->ZADUR_2
+ZADUR_19->SAJED_19
+SAJED_25->BEZEE_25
+ID:1054 UYMVD->INNSA Transported 3, trans in %: 100
+ Path UYMVD_1->INNSA_1
+ID:1063 UYMVD->PKBQM Transported 1, trans in %: 100
+ Path UYMVD_1->PKBQM_1
+ID:1064 UYMVD->EGPSD Transported 50, trans in %: 100
+ Path UYMVD_1->EGPSD_1
+ID:1076 CAMTR->ESALG Transported 3, trans in %: 100
+ Path CAMTR_10->EGPSD_10
+EGPSD_24->ESALG_24
+ID:1080 CAMTR->DEBRV Transported 220, trans in %: 100
+ Path CAMTR_10->EGPSD_10
+EGPSD_26->DEBRV_26
+ID:1083 CAMTR->GBFXT Transported 2, trans in %: 100
+ Path CAMTR_10->EGPSD_10
+EGPSD_33->GBFXT_33
+ID:1084 CAMTR->ITGIT Transported 6, trans in %: 100
+ Path CAMTR_10->EGPSD_10
+EGPSD_22->ITGIT_22
+ID:1085 CAMTR->INNSA Transported 59, trans in %: 100
+ Path CAMTR_10->EGPSD_10
+EGPSD_1->INNSA_1
+ID:1087 CAMTR->SAJED Transported 24, trans in %: 100
+ Path CAMTR_10->EGPSD_10
+EGPSD_4->SAJED_4
+ID:1089 CAMTR->PKBQM Transported 20, trans in %: 100
+ Path CAMTR_10->EGPSD_10
+EGPSD_1->PKBQM_1
+ID:1090 CAMTR->EGPSD Transported 23, trans in %: 100
+ Path CAMTR_10->EGPSD_10
+ID:1091 CAMTR->MAPTM Transported 2, trans in %: 100
+ Path CAMTR_10->EGPSD_10
+EGPSD_26->MAPTM_26
+ID:1092 CAMTR->NLRTM Transported 67, trans in %: 100
+ Path CAMTR_10->NLRTM_10
+ID:1095 USEWR->ESALG Transported 12, trans in %: 100
+ Path USEWR_17->ESALG_17
+ID:1099 USEWR->PABLB Transported 14, trans in %: 100
+ Path USEWR_13->PABLB_13
+ID:1100 USEWR->DEBRV Transported 162, trans in %: 100
+ Path USEWR_17->DEBRV_17
+ID:1103 USEWR->ZADUR Transported 84, trans in %: 100
+ Path USEWR_13->ZADUR_13
+ID:1115 USEWR->KEMBA Transported 42, trans in %: 100
+ Path USEWR_13->ZADUR_13
+ZADUR_2->KEMBA_2
+ID:1122 USEWR->CLSAI Transported 38, trans in %: 100
+ Path USEWR_13->CLSAI_13
+ID:1130 MYPKG->TRAMB Transported 19, trans in %: 100
+ Path MYPKG_6->TRAMB_6
+ID:1132 MYPKG->NGAPP Transported 122, trans in %: 100
+ Path MYPKG_16->NGAPP_16
+ID:1133 MYPKG->NZAKL Transported 15, trans in %: 100
+ Path MYPKG_11->NZAKL_11
+ID:1136 MYPKG->DEBRV Transported 140, trans in %: 100
+ Path MYPKG_20->DEBRV_20
+ID:1137 MYPKG->AUBNE Transported 25, trans in %: 100
+ Path MYPKG_11->AUBNE_11
+ID:1138 MYPKG->USCHS Transported 14, trans in %: 100
+ Path MYPKG_9->USCHS_9
+ID:1139 MYPKG->LKCMB Transported 3, trans in %: 100
+ Path MYPKG_29->LKCMB_29
+ID:1141 MYPKG->GBFXT Transported 38, trans in %: 100
+ Path MYPKG_9->GBFXT_9
+ID:1144 MYPKG->INNSA Transported 1, trans in %: 100
+ Path MYPKG_6->INNSA_6
+ID:1145 MYPKG->AEJEA Transported 43, trans in %: 100
+ Path MYPKG_7->AEJEA_7
+ID:1154 MYPKG->PKBQM Transported 2, trans in %: 100
+ Path MYPKG_6->PKBQM_6
+ID:1159 MYPKG->OMSLL Transported 6, trans in %: 100
+ Path MYPKG_9->OMSLL_9
+ID:1161 MYPKG->BRSSZ Transported 9, trans in %: 100
+ Path MYPKG_16->NGAPP_16
+NGAPP_14->BRSSZ_14
+ID:1163 MYPKG->SGSIN Transported 1, trans in %: 100
+ Path MYPKG_29->SGSIN_29
+ID:1167 MYPKG->JPYOK Transported 3, trans in %: 100
+ Path MYPKG_29->JPYOK_29
+ID:1169 PKBQM->ESALG Transported 27, trans in %: 100
+ Path PKBQM_6->ESALG_6
+ID:1179 PKBQM->LKCMB Transported 22, trans in %: 100
+ Path PKBQM_1->LKCMB_1
+ID:1182 PKBQM->ITGIT Transported 116, trans in %: 100
+ Path PKBQM_4->ITGIT_4
+ID:1184 PKBQM->DEHAM Transported 6, trans in %: 100
+ Path PKBQM_7->SAJED_7
+SAJED_30->DEHAM_30
+ID:1186 PKBQM->AEJEA Transported 7, trans in %: 100
+ Path PKBQM_5->AEJEA_5
+ID:1187 PKBQM->SAJED Transported 50, trans in %: 100
+ Path PKBQM_7->SAJED_7
+ID:1189 PKBQM->PAMIT Transported 14, trans in %: 100
+ Path PKBQM_4->PAMIT_4
+ID:1190 PKBQM->USMIA Transported 28, trans in %: 100
+ Path PKBQM_4->USMIA_4
+ID:1194 PKBQM->EGPSD Transported 13, trans in %: 100
+ Path PKBQM_5->EGPSD_5
+ID:1197 PKBQM->OMSLL Transported 2, trans in %: 40
+ Path PKBQM_1->OMSLL_1
+ID:1203 PKBQM->BEZEE Transported 13, trans in %: 100
+ Path PKBQM_7->SAJED_7
+SAJED_25->BEZEE_25
+ID:1205 EGPSD->TRAMB Transported 1, trans in %: 100
+ Path EGPSD_0->TRAMB_0
+ID:1209 EGPSD->ESBCN Transported 8, trans in %: 100
+ Path EGPSD_22->ESBCN_22
+ID:1211 EGPSD->AUBNE Transported 23, trans in %: 100
+ Path EGPSD_12->AUBNE_12
+ID:1213 EGPSD->USCHS Transported 80, trans in %: 100
+ Path EGPSD_33->USCHS_33
+ID:1216 EGPSD->GBFXT Transported 105, trans in %: 100
+ Path EGPSD_33->GBFXT_33
+ID:1218 EGPSD->DEHAM Transported 4, trans in %: 100
+ Path EGPSD_5->SAJED_5
+SAJED_30->DEHAM_30
+ID:1219 EGPSD->HKHKG Transported 54, trans in %: 100
+ Path EGPSD_26->HKHKG_26
+ID:1233 EGPSD->NLRTM Transported 33, trans in %: 100
+ Path EGPSD_10->NLRTM_10
+ID:1236 EGPSD->CNSHA Transported 18, trans in %: 100
+ Path EGPSD_26->CNSHA_26
+ID:1242 MAPTM->ESALG Transported 9, trans in %: 100
+ Path MAPTM_30->ESALG_30
+ID:1243 MAPTM->BEANR Transported 4, trans in %: 100
+ Path MAPTM_14->NGAPP_14
+NGAPP_28->BEANR_28
+ID:1244 MAPTM->NGAPP Transported 36, trans in %: 100
+ Path MAPTM_14->NGAPP_14
+ID:1246 MAPTM->DEBRV Transported 22, trans in %: 100
+ Path MAPTM_14->NGAPP_14
+NGAPP_28->DEBRV_28
+ID:1247 MAPTM->KRPUS Transported 2, trans in %: 100
+ Path MAPTM_26->MYPKG_26
+MYPKG_34->KRPUS_34
+ID:1250 MAPTM->ZADUR Transported 1, trans in %: 100
+ Path MAPTM_14->NGAPP_14
+NGAPP_16->ZADUR_16
+ID:1251 MAPTM->GBFXT Transported 6, trans in %: 100
+ Path MAPTM_30->GBFXT_30
+ID:1253 MAPTM->HKHKG Transported 6, trans in %: 100
+ Path MAPTM_26->HKHKG_26
+ID:1255 MAPTM->AEJEA Transported 6, trans in %: 100
+ Path MAPTM_14->NGAPP_14
+NGAPP_16->AEJEA_16
+ID:1256 MAPTM->SAJED Transported 18, trans in %: 100
+ Path MAPTM_30->SAJED_30
+ID:1258 MAPTM->KEMBA Transported 2, trans in %: 100
+ Path MAPTM_14->NGAPP_14
+NGAPP_16->ZADUR_16
+ZADUR_2->KEMBA_2
+ID:1260 MAPTM->USEWR Transported 2, trans in %: 100
+ Path MAPTM_14->NGAPP_14
+NGAPP_13->USEWR_13
+ID:1263 MAPTM->CNTAO Transported 1, trans in %: 100
+ Path MAPTM_26->MYPKG_26
+MYPKG_34->CNTAO_34
+ID:1264 MAPTM->NLRTM Transported 18, trans in %: 100
+ Path MAPTM_14->NGAPP_14
+NGAPP_28->NLRTM_28
+ID:1266 MAPTM->BRSSZ Transported 1, trans in %: 100
+ Path MAPTM_14->BRSSZ_14
+ID:1269 MAPTM->JPYOK Transported 3, trans in %: 100
+ Path MAPTM_26->MYPKG_26
+MYPKG_29->JPYOK_29
+ID:1273 CNTAO->NGAPP Transported 383, trans in %: 100
+ Path CNTAO_34->MYPKG_34
+MYPKG_16->NGAPP_16
+ID:1275 CNTAO->PABLB Transported 150, trans in %: 100
+ Path CNTAO_18->PABLB_18
+ID:1279 CNTAO->KRPUS Transported 9, trans in %: 100
+ Path CNTAO_8->KRPUS_8
+ID:1280 CNTAO->USCHS Transported 158, trans in %: 100
+ Path CNTAO_8->USCHS_8
+ID:1281 CNTAO->LKCMB Transported 98, trans in %: 100
+ Path CNTAO_35->LKCMB_35
+ID:1287 CNTAO->INNSA Transported 41, trans in %: 100
+ Path CNTAO_35->TWKHH_35
+TWKHH_7->INNSA_7
+ID:1288 CNTAO->AEJEA Transported 45.9918, trans in %: 14.2389
+ Path CNTAO_35->TWKHH_35
+TWKHH_7->AEJEA_7
+ID:1291 CNTAO->AOLAD Transported 46, trans in %: 100
+ Path CNTAO_34->MYPKG_34
+MYPKG_16->NGAPP_16
+NGAPP_3->AOLAD_3
+ID:1297 CNTAO->MYPKG Transported 14, trans in %: 100
+ Path CNTAO_34->MYPKG_34
+ID:1302 CNTAO->OMSLL Transported 64, trans in %: 100
+ Path CNTAO_34->MYPKG_34
+MYPKG_9->OMSLL_9
+ID:1303 CNTAO->CLSAI Transported 54, trans in %: 100
+ Path CNTAO_8->CLSAI_8
+ID:1305 CNTAO->SGSIN Transported 36, trans in %: 73.4694
+ Path CNTAO_34->SGSIN_34
+ID:1306 CNTAO->GHTKD Transported 123, trans in %: 100
+ Path CNTAO_34->MYPKG_34
+MYPKG_16->NGAPP_16
+NGAPP_0->GHTKD_0
+ID:1307 CNTAO->MYTPP Transported 275, trans in %: 100
+ Path CNTAO_34->MYTPP_34
+ID:1309 CNTAO->JPYOK Transported 13, trans in %: 100
+ Path CNTAO_8->JPYOK_8
+ID:1311 NLRTM->ESALG Transported 104, trans in %: 100
+ Path NLRTM_14->ESALG_14
+ID:1313 NLRTM->BEANR Transported 2, trans in %: 100
+ Path NLRTM_28->BEANR_28
+ID:1314 NLRTM->NGAPP Transported 214, trans in %: 100
+ Path NLRTM_14->NGAPP_14
+ID:1317 NLRTM->DEBRV Transported 138, trans in %: 100
+ Path NLRTM_15->DEBRV_15
+ID:1320 NLRTM->USCHS Transported 354, trans in %: 100
+ Path NLRTM_8->USCHS_8
+ID:1321 NLRTM->LKCMB Transported 140, trans in %: 100
+ Path NLRTM_22->LKCMB_22
+ID:1323 NLRTM->GBFXT Transported 6, trans in %: 100
+ Path NLRTM_28->GBFXT_28
+ID:1337 NLRTM->CAMTR Transported 129, trans in %: 100
+ Path NLRTM_10->CAMTR_10
+ID:1338 NLRTM->USEWR Transported 213, trans in %: 100
+ Path NLRTM_13->USEWR_13
+ID:1339 NLRTM->MYPKG Transported 79, trans in %: 100
+ Path NLRTM_20->MYPKG_20
+ID:1341 NLRTM->EGPSD Transported 211, trans in %: 100
+ Path NLRTM_10->EGPSD_10
+ID:1342 NLRTM->MAPTM Transported 175, trans in %: 100
+ Path NLRTM_14->MAPTM_14
+ID:1345 NLRTM->CLSAI Transported 55, trans in %: 100
+ Path NLRTM_8->CLSAI_8
+ID:1346 NLRTM->BRSSZ Transported 37, trans in %: 100
+ Path NLRTM_14->BRSSZ_14
+ID:1355 OMSLL->TRAMB Transported 32, trans in %: 100
+ Path OMSLL_1->TRAMB_1
+ID:1360 OMSLL->ESBCN Transported 2, trans in %: 100
+ Path OMSLL_22->ESBCN_22
+ID:1361 OMSLL->KRPUS Transported 1, trans in %: 100
+ Path OMSLL_6->MYPKG_6
+MYPKG_34->KRPUS_34
+ID:1362 OMSLL->USCHS Transported 40, trans in %: 100
+ Path OMSLL_9->USCHS_9
+ID:1364 OMSLL->ZADUR Transported 17, trans in %: 100
+ Path OMSLL_16->ZADUR_16
+ID:1365 OMSLL->GBFXT Transported 12, trans in %: 100
+ Path OMSLL_9->GBFXT_9
+ID:1368 OMSLL->HKHKG Transported 12, trans in %: 100
+ Path OMSLL_6->MYPKG_6
+MYPKG_31->HKHKG_31
+ID:1369 OMSLL->INNSA Transported 28, trans in %: 100
+ Path OMSLL_5->INNSA_5
+ID:1371 OMSLL->SAJED Transported 41, trans in %: 100
+ Path OMSLL_24->SAJED_24
+ID:1380 OMSLL->EGPSD Transported 43, trans in %: 100
+ Path OMSLL_24->EGPSD_24
+ID:1383 OMSLL->NLRTM Transported 4, trans in %: 100
+ Path OMSLL_9->NLRTM_9
+ID:1386 OMSLL->CNSHA Transported 1, trans in %: 100
+ Path OMSLL_6->MYPKG_6
+MYPKG_29->CNSHA_29
+ID:1392 OMSLL->JPYOK Transported 5, trans in %: 100
+ Path OMSLL_6->MYPKG_6
+MYPKG_29->JPYOK_29
+ID:1393 OMSLL->BEZEE Transported 40, trans in %: 100
+ Path OMSLL_24->SAJED_24
+SAJED_25->BEZEE_25
+ID:1398 CLSAI->NZAKL Transported 10, trans in %: 100
+ Path CLSAI_8->NZAKL_8
+ID:1399 CLSAI->PABLB Transported 54, trans in %: 100
+ Path CLSAI_17->PABLB_17
+ID:1401 CLSAI->DEBRV Transported 135, trans in %: 100
+ Path CLSAI_17->DEBRV_17
+ID:1402 CLSAI->AUBNE Transported 57, trans in %: 100
+ Path CLSAI_8->AUBNE_8
+ID:1403 CLSAI->KRPUS Transported 7, trans in %: 100
+ Path CLSAI_8->KRPUS_8
+ID:1405 CLSAI->ZADUR Transported 1, trans in %: 100
+ Path CLSAI_13->ZADUR_13
+ID:1413 CLSAI->TWKHH Transported 17, trans in %: 100
+ Path CLSAI_8->TWKHH_8
+ID:1416 CLSAI->PAMIT Transported 49, trans in %: 100
+ Path CLSAI_17->PAMIT_17
+ID:1418 CLSAI->USEWR Transported 75, trans in %: 100
+ Path CLSAI_17->USEWR_17
+ID:1420 CLSAI->CNTAO Transported 28, trans in %: 100
+ Path CLSAI_8->CNTAO_8
+ID:1425 CLSAI->CNYTN Transported 6, trans in %: 100
+ Path CLSAI_8->TWKHH_8
+TWKHH_35->CNYTN_35
+ID:1426 CLSAI->JPYOK Transported 60, trans in %: 100
+ Path CLSAI_8->JPYOK_8
+ID:1429 BRSSZ->BEANR Transported 111, trans in %: 100
+ Path BRSSZ_13->NGAPP_13
+NGAPP_28->BEANR_28
+ID:1430 BRSSZ->NGAPP Transported 103, trans in %: 100
+ Path BRSSZ_13->NGAPP_13
+ID:1432 BRSSZ->DEBRV Transported 881, trans in %: 100
+ Path BRSSZ_14->DEBRV_14
+ID:1436 BRSSZ->ZADUR Transported 202, trans in %: 100
+ Path BRSSZ_13->ZADUR_13
+ID:1437 BRSSZ->GBFXT Transported 145, trans in %: 100
+ Path BRSSZ_14->GBFXT_14
+ID:1438 BRSSZ->ITGIT Transported 285, trans in %: 100
+ Path BRSSZ_13->ITGIT_13
+ID:1443 BRSSZ->AEJEA Transported 394, trans in %: 100
+ Path BRSSZ_13->NGAPP_13
+NGAPP_16->AEJEA_16
+ID:1447 BRSSZ->AOLAD Transported 133, trans in %: 100
+ Path BRSSZ_13->NGAPP_13
+NGAPP_3->AOLAD_3
+ID:1448 BRSSZ->PAMIT Transported 274, trans in %: 100
+ Path BRSSZ_14->PAMIT_14
+ID:1453 BRSSZ->MAPTM Transported 14, trans in %: 100
+ Path BRSSZ_14->MAPTM_14
+ID:1455 BRSSZ->NLRTM Transported 297, trans in %: 100
+ Path BRSSZ_14->NLRTM_14
+ID:1456 BRSSZ->OMSLL Transported 103, trans in %: 100
+ Path BRSSZ_13->NGAPP_13
+NGAPP_16->OMSLL_16
+ID:1467 CNSHA->BEANR Transported 158, trans in %: 100
+ Path CNSHA_19->BEANR_19
+ID:1470 CNSHA->PABLB Transported 429, trans in %: 100
+ Path CNSHA_18->PABLB_18
+ID:1472 CNSHA->DEBRV Transported 1.86, trans in %: 100
+ Path CNSHA_26->DEBRV_26
+ID:1476 CNSHA->LKCMB Transported 212, trans in %: 100
+ Path CNSHA_29->LKCMB_29
+ID:1477 CNSHA->ZADUR Transported 493, trans in %: 100
+ Path CNSHA_19->ZADUR_19
+ID:1479 CNSHA->ITGIT Transported 532, trans in %: 75.5682
+ Path CNSHA_32->TWKHH_32
+TWKHH_27->ITGIT_27
+ID:1481 CNSHA->DEHAM Transported 202, trans in %: 100
+ Path CNSHA_23->SAJED_23
+SAJED_30->DEHAM_30
+ID:1483 CNSHA->AEJEA Transported 430, trans in %: 100
+ Path CNSHA_21->AEJEA_21
+ID:1484 CNSHA->SAJED Transported 186, trans in %: 100
+ Path CNSHA_23->SAJED_23
+ID:1490 CNSHA->KEMBA Transported 142, trans in %: 86.0606
+ Path CNSHA_19->ZADUR_19
+ZADUR_2->KEMBA_2
+ID:1495 CNSHA->EGPSD Transported 158.187, trans in %: 97.6464
+ Path CNSHA_26->EGPSD_26
+ID:1496 CNSHA->MAPTM Transported 133, trans in %: 100
+ Path CNSHA_26->MAPTM_26
+ID:1501 CNSHA->SGSIN Transported 34, trans in %: 100
+ Path CNSHA_29->SGSIN_29
+ID:1503 CNSHA->MYTPP Transported 283, trans in %: 100
+ Path CNSHA_23->MYTPP_23
+ID:1504 CNSHA->CAVAN Transported 346, trans in %: 100
+ Path CNSHA_21->CAVAN_21
+ID:1507 CNSHA->BEZEE Transported 193, trans in %: 100
+ Path CNSHA_23->SAJED_23
+SAJED_25->BEZEE_25
+ID:1508 SGSIN->ESALG Transported 12, trans in %: 100
+ Path SGSIN_24->ESALG_24
+ID:1512 SGSIN->NZAKL Transported 50, trans in %: 100
+ Path SGSIN_11->NZAKL_11
+ID:1516 SGSIN->KRPUS Transported 43, trans in %: 100
+ Path SGSIN_35->KRPUS_35
+ID:1523 SGSIN->DEHAM Transported 5, trans in %: 100
+ Path SGSIN_24->SAJED_24
+SAJED_30->DEHAM_30
+ID:1527 SGSIN->SAJED Transported 6, trans in %: 100
+ Path SGSIN_24->SAJED_24
+ID:1528 SGSIN->TWKHH Transported 32, trans in %: 100
+ Path SGSIN_34->TWKHH_34
+ID:1538 SGSIN->EGPSD Transported 13, trans in %: 100
+ Path SGSIN_24->EGPSD_24
+ID:1540 SGSIN->CNTAO Transported 25, trans in %: 100
+ Path SGSIN_34->CNTAO_34
+ID:1542 SGSIN->OMSLL Transported 7, trans in %: 100
+ Path SGSIN_24->OMSLL_24
+ID:1544 SGSIN->CNSHA Transported 21, trans in %: 100
+ Path SGSIN_35->CNSHA_35
+ID:1548 SGSIN->CNYTN Transported 29, trans in %: 100
+ Path SGSIN_34->CNYTN_34
+ID:1549 SGSIN->JPYOK Transported 83, trans in %: 100
+ Path SGSIN_29->JPYOK_29
+ID:1550 SGSIN->BEZEE Transported 6, trans in %: 100
+ Path SGSIN_24->SAJED_24
+SAJED_25->BEZEE_25
+ID:1551 GHTKD->ESALG Transported 27, trans in %: 100
+ Path GHTKD_3->NGAPP_3
+NGAPP_13->ESALG_13
+ID:1553 GHTKD->NGAPP Transported 10, trans in %: 100
+ Path GHTKD_3->NGAPP_3
+ID:1554 GHTKD->DEBRV Transported 23, trans in %: 100
+ Path GHTKD_3->NGAPP_3
+NGAPP_28->DEBRV_28
+ID:1558 GHTKD->ZADUR Transported 4, trans in %: 100
+ Path GHTKD_3->NGAPP_3
+NGAPP_16->ZADUR_16
+ID:1560 GHTKD->ITGIT Transported 81, trans in %: 100
+ Path GHTKD_0->ITGIT_0
+ID:1565 GHTKD->AEJEA Transported 30, trans in %: 100
+ Path GHTKD_3->NGAPP_3
+NGAPP_16->AEJEA_16
+ID:1567 GHTKD->USEWR Transported 9, trans in %: 100
+ Path GHTKD_3->NGAPP_3
+NGAPP_13->USEWR_13
+ID:1569 GHTKD->EGPSD Transported 3, trans in %: 100
+ Path GHTKD_0->EGPSD_0
+ID:1582 MYTPP->NGAPP Transported 155.646, trans in %: 37.5957
+ Path MYTPP_16->NGAPP_16
+ID:1583 MYTPP->NZAKL Transported 70, trans in %: 100
+ Path MYTPP_11->NZAKL_11
+ID:1588 MYTPP->KRPUS Transported 45, trans in %: 100
+ Path MYTPP_34->KRPUS_34
+ID:1589 MYTPP->USCHS Transported 95.7964, trans in %: 36.2865
+ Path MYTPP_9->USCHS_9
+ID:1590 MYTPP->LKCMB Transported 207, trans in %: 100
+ Path MYTPP_29->LKCMB_29
+ID:1592 MYTPP->GBFXT Transported 435, trans in %: 100
+ Path MYTPP_9->GBFXT_9
+ID:1595 MYTPP->DEHAM Transported 117, trans in %: 100
+ Path MYTPP_23->SAJED_23
+SAJED_30->DEHAM_30
+ID:1596 MYTPP->HKHKG Transported 96.9918, trans in %: 36.3265
+ Path MYTPP_29->HKHKG_29
+ID:1597 MYTPP->INNSA Transported 34, trans in %: 100
+ Path MYTPP_7->INNSA_7
+ID:1599 MYTPP->SAJED Transported 117, trans in %: 100
+ Path MYTPP_23->SAJED_23
+ID:1600 MYTPP->TWKHH Transported 175, trans in %: 100
+ Path MYTPP_7->TWKHH_7
+ID:1614 MYTPP->OMSLL Transported 65, trans in %: 100
+ Path MYTPP_24->OMSLL_24
+ID:1616 MYTPP->BRSSZ Transported 121, trans in %: 100
+ Path MYTPP_16->NGAPP_16
+NGAPP_14->BRSSZ_14
+ID:1617 MYTPP->CNSHA Transported 31, trans in %: 100
+ Path MYTPP_29->CNSHA_29
+ID:1618 MYTPP->SGSIN Transported 61, trans in %: 100
+ Path MYTPP_11->SGSIN_11
+ID:1620 MYTPP->CAVAN Transported 301, trans in %: 100
+ Path MYTPP_21->CAVAN_21
+ID:1622 MYTPP->JPYOK Transported 620, trans in %: 100
+ Path MYTPP_29->JPYOK_29
+ID:1623 MYTPP->BEZEE Transported 259, trans in %: 100
+ Path MYTPP_23->SAJED_23
+SAJED_25->BEZEE_25
+ID:1629 CAVAN->KRPUS Transported 397, trans in %: 100
+ Path CAVAN_23->KRPUS_23
+ID:1633 CAVAN->HKHKG Transported 157, trans in %: 100
+ Path CAVAN_21->HKHKG_21
+ID:1634 CAVAN->INNSA Transported 14, trans in %: 100
+ Path CAVAN_21->MYTPP_21
+MYTPP_7->INNSA_7
+ID:1635 CAVAN->AEJEA Transported 91, trans in %: 100
+ Path CAVAN_21->AEJEA_21
+ID:1636 CAVAN->SAJED Transported 41, trans in %: 100
+ Path CAVAN_23->SAJED_23
+ID:1642 CAVAN->CNTAO Transported 113, trans in %: 100
+ Path CAVAN_23->KRPUS_23
+KRPUS_34->CNTAO_34
+ID:1645 CAVAN->CNSHA Transported 109, trans in %: 100
+ Path CAVAN_23->CNSHA_23
+ID:1647 CAVAN->MYTPP Transported 85, trans in %: 100
+ Path CAVAN_21->MYTPP_21
+ID:1649 CAVAN->JPYOK Transported 468, trans in %: 100
+ Path CAVAN_21->JPYOK_21
+ID:1653 CNYTN->NGAPP Transported 107.992, trans in %: 39.7029
+ Path CNYTN_7->MYPKG_7
+MYPKG_16->NGAPP_16
+ID:1655 CNYTN->PABLB Transported 320, trans in %: 100
+ Path CNYTN_27->CNTAO_27
+CNTAO_18->PABLB_18
+ID:1661 CNYTN->LKCMB Transported 59, trans in %: 100
+ Path CNYTN_35->LKCMB_35
+ID:1664 CNYTN->ITGIT Transported 531, trans in %: 100
+ Path CNYTN_27->ITGIT_27
+ID:1666 CNYTN->HKHKG Transported 95, trans in %: 100
+ Path CNYTN_27->HKHKG_27
+ID:1667 CNYTN->INNSA Transported 77, trans in %: 100
+ Path CNYTN_7->INNSA_7
+ID:1670 CNYTN->TWKHH Transported 101, trans in %: 100
+ Path CNYTN_27->TWKHH_27
+ID:1679 CNYTN->PKBQM Transported 57, trans in %: 100
+ Path CNYTN_7->PKBQM_7
+ID:1684 CNYTN->CLSAI Transported 15, trans in %: 100
+ Path CNYTN_27->CNTAO_27
+CNTAO_8->CLSAI_8
+ID:1686 CNYTN->SGSIN Transported 2, trans in %: 100
+ Path CNYTN_35->SGSIN_35
+ID:1689 CNYTN->CAVAN Transported 513, trans in %: 100
+ Path CNYTN_21->CAVAN_21
+ID:1697 JPYOK->PABLB Transported 67, trans in %: 100
+ Path JPYOK_18->PABLB_18
+ID:1699 JPYOK->DEBRV Transported 157, trans in %: 100
+ Path JPYOK_29->MYPKG_29
+MYPKG_20->DEBRV_20
+ID:1702 JPYOK->USCHS Transported 19, trans in %: 100
+ Path JPYOK_8->USCHS_8
+ID:1709 JPYOK->HKHKG Transported 25, trans in %: 100
+ Path JPYOK_29->HKHKG_29
+ID:1710 JPYOK->INNSA Transported 31, trans in %: 100
+ Path JPYOK_35->TWKHH_35
+TWKHH_7->INNSA_7
+ID:1711 JPYOK->AEJEA Transported 355, trans in %: 100
+ Path JPYOK_21->AEJEA_21
+ID:1713 JPYOK->TWKHH Transported 20, trans in %: 100
+ Path JPYOK_35->TWKHH_35
+ID:1714 JPYOK->USLAX Transported 473, trans in %: 100
+ Path JPYOK_23->USLAX_23
+ID:1721 JPYOK->MYPKG Transported 49, trans in %: 100
+ Path JPYOK_29->MYPKG_29
+ID:1724 JPYOK->MAPTM Transported 31, trans in %: 100
+ Path JPYOK_29->MYPKG_29
+MYPKG_26->MAPTM_26
+ID:1725 JPYOK->NLRTM Transported 690.195, trans in %: 78.2534
+ Path JPYOK_8->NLRTM_8
+ID:1727 JPYOK->CLSAI Transported 68, trans in %: 100
+ Path JPYOK_8->CLSAI_8
+ID:1729 JPYOK->CNSHA Transported 3, trans in %: 100
+ Path JPYOK_29->CNSHA_29
+ID:1731 JPYOK->GHTKD Transported 11, trans in %: 100
+ Path JPYOK_29->MYPKG_29
+MYPKG_16->NGAPP_16
+NGAPP_0->GHTKD_0
+ID:1732 JPYOK->MYTPP Transported 351, trans in %: 100
+ Path JPYOK_21->MYTPP_21
+ID:1734 JPYOK->CNYTN Transported 21, trans in %: 100
+ Path JPYOK_35->CNYTN_35
+ID:1736 BEZEE->ESALG Transported 7, trans in %: 100
+ Path BEZEE_25->ESALG_25
+ID:1737 BEZEE->TRAMB Transported 3, trans in %: 100
+ Path BEZEE_25->SAJED_25
+SAJED_5->TRAMB_5
+ID:1740 BEZEE->NZAKL Transported 6, trans in %: 100
+ Path BEZEE_25->SAJED_25
+SAJED_9->NZAKL_9
+ID:1741 BEZEE->DEBRV Transported 1, trans in %: 100
+ Path BEZEE_25->DEBRV_25
+ID:1742 BEZEE->AUBNE Transported 4, trans in %: 100
+ Path BEZEE_25->SAJED_25
+SAJED_9->AUBNE_9
+ID:1746 BEZEE->ITGIT Transported 9, trans in %: 100
+ Path BEZEE_25->ITGIT_25
+ID:1747 BEZEE->HKHKG Transported 17, trans in %: 100
+ Path BEZEE_25->SAJED_25
+SAJED_19->HKHKG_19
+ID:1748 BEZEE->INNSA Transported 55, trans in %: 100
+ Path BEZEE_25->SAJED_25
+SAJED_7->INNSA_7
+ID:1750 BEZEE->SAJED Transported 33, trans in %: 100
+ Path BEZEE_25->SAJED_25
+ID:1753 BEZEE->PKBQM Transported 4, trans in %: 100
+ Path BEZEE_25->SAJED_25
+SAJED_4->PKBQM_4
+ID:1760 BEZEE->CNSHA Transported 7, trans in %: 100
+ Path BEZEE_25->SAJED_25
+SAJED_19->CNSHA_19
+ID:1761 BEZEE->SGSIN Transported 5, trans in %: 100
+ Path BEZEE_25->SAJED_25
+SAJED_12->SGSIN_12
+ID:1762 BEZEE->MYTPP Transported 31, trans in %: 100
+ Path BEZEE_25->SAJED_25
+SAJED_12->MYTPP_12
+ID:17 ESALG->AEJEA Transported 60, trans in %: 100
+ Path ESALG_24->AEJEA_24
+ID:37 ESALG->SGSIN Transported 14, trans in %: 100
+ Path ESALG_24->SGSIN_24
+ID:39 ESALG->MYTPP Transported 15, trans in %: 100
+ Path ESALG_24->MYTPP_24
+ID:51 TRAMB->LKCMB Transported 10, trans in %: 100
+ Path TRAMB_6->MYPKG_6
+MYPKG_29->LKCMB_29
+ID:52 TRAMB->ZADUR Transported 24, trans in %: 100
+ Path TRAMB_6->OMSLL_6
+OMSLL_16->ZADUR_16
+ID:72 TRAMB->SGSIN Transported 1, trans in %: 100
+ Path TRAMB_6->MYPKG_6
+MYPKG_29->SGSIN_29
+ID:74 TRAMB->MYTPP Transported 19, trans in %: 100
+ Path TRAMB_6->MYPKG_6
+MYPKG_29->MYTPP_29
+ID:78 BEANR->TRAMB Transported 160, trans in %: 100
+ Path BEANR_19->SAJED_19
+SAJED_5->TRAMB_5
+ID:82 BEANR->AUBNE Transported 6, trans in %: 100
+ Path BEANR_19->SAJED_19
+SAJED_12->AUBNE_12
+ID:90 BEANR->INNSA Transported 1.0082, trans in %: 2.45902
+ Path BEANR_19->SAJED_19
+SAJED_4->INNSA_4
+ID:93 BEANR->USLAX Transported 12, trans in %: 100
+ Path BEANR_19->SAJED_19
+SAJED_23->USLAX_23
+ID:95 BEANR->PAMIT Transported 52.9836, trans in %: 38.3939
+ Path BEANR_13->PAMIT_13
+ID:102 BEANR->PKBQM Transported 19, trans in %: 100
+ Path BEANR_19->SAJED_19
+SAJED_4->PKBQM_4
+ID:105 BEANR->CNTAO Transported 13, trans in %: 100
+ Path BEANR_19->CNSHA_19
+CNSHA_35->CNTAO_35
+ID:106 BEANR->OMSLL Transported 43, trans in %: 100
+ Path BEANR_19->SAJED_19
+SAJED_22->OMSLL_22
+ID:113 BEANR->CAVAN Transported 38, trans in %: 100
+ Path BEANR_19->CNSHA_19
+CNSHA_21->CAVAN_21
+ID:118 NGAPP->ESBCN Transported 6, trans in %: 100
+ Path NGAPP_13->ITGIT_13
+ITGIT_22->ESBCN_22
+ID:125 NGAPP->ITGIT Transported 86, trans in %: 100
+ Path NGAPP_13->ITGIT_13
+ID:156 NZAKL->BEANR Transported 8, trans in %: 100
+ Path NZAKL_18->TWKHH_18
+TWKHH_27->ITGIT_27
+ITGIT_13->BEANR_13
+ID:159 NZAKL->ESBCN Transported 1, trans in %: 100
+ Path NZAKL_18->TWKHH_18
+TWKHH_35->LKCMB_35
+LKCMB_22->ESBCN_22
+ID:160 NZAKL->DEBRV Transported 34, trans in %: 100
+ Path NZAKL_9->MYPKG_9
+MYPKG_20->DEBRV_20
+ID:161 NZAKL->AUBNE Transported 341, trans in %: 100
+ Path NZAKL_18->AUBNE_18
+ID:162 NZAKL->KRPUS Transported 42, trans in %: 100
+ Path NZAKL_18->KRPUS_18
+ID:164 NZAKL->LKCMB Transported 33, trans in %: 100
+ Path NZAKL_18->TWKHH_18
+TWKHH_35->LKCMB_35
+ID:167 NZAKL->ITGIT Transported 18, trans in %: 100
+ Path NZAKL_18->TWKHH_18
+TWKHH_27->ITGIT_27
+ID:174 NZAKL->TWKHH Transported 28, trans in %: 100
+ Path NZAKL_18->TWKHH_18
+ID:175 NZAKL->USLAX Transported 48.9478, trans in %: 88.996
+ Path NZAKL_18->JPYOK_18
+JPYOK_23->USLAX_23
+ID:180 NZAKL->USEWR Transported 12, trans in %: 100
+ Path NZAKL_18->TWKHH_18
+TWKHH_27->ITGIT_27
+ITGIT_13->USEWR_13
+ID:185 NZAKL->CNTAO Transported 54, trans in %: 100
+ Path NZAKL_18->CNTAO_18
+ID:186 NZAKL->NLRTM Transported 49, trans in %: 100
+ Path NZAKL_9->MYPKG_9
+MYPKG_20->NLRTM_20
+ID:195 NZAKL->CNYTN Transported 49, trans in %: 100
+ Path NZAKL_18->TWKHH_18
+TWKHH_35->CNYTN_35
+ID:198 PABLB->ESALG Transported 2, trans in %: 100
+ Path PABLB_17->ESALG_17
+ID:201 PABLB->DEBRV Transported 10, trans in %: 100
+ Path PABLB_17->DEBRV_17
+ID:205 PABLB->LKCMB Transported 3, trans in %: 100
+ Path PABLB_18->TWKHH_18
+TWKHH_35->LKCMB_35
+ID:213 PABLB->PAMIT Transported 25, trans in %: 100
+ Path PABLB_17->PAMIT_17
+ID:216 PABLB->MYPKG Transported 1, trans in %: 100
+ Path PABLB_18->CNTAO_18
+CNTAO_34->MYPKG_34
+ID:223 PABLB->SGSIN Transported 1, trans in %: 100
+ Path PABLB_18->TWKHH_18
+TWKHH_35->SGSIN_35
+ID:224 PABLB->MYTPP Transported 19, trans in %: 100
+ Path PABLB_18->CNTAO_18
+CNTAO_34->MYTPP_34
+ID:225 PABLB->CAVAN Transported 11, trans in %: 100
+ Path PABLB_18->CNSHA_18
+CNSHA_21->CAVAN_21
+ID:230 ESBCN->NGAPP Transported 18, trans in %: 100
+ Path ESBCN_22->GBFXT_22
+GBFXT_14->NGAPP_14
+ID:237 ESBCN->ZADUR Transported 22, trans in %: 100
+ Path ESBCN_22->OMSLL_22
+OMSLL_16->ZADUR_16
+ID:263 DEBRV->NGAPP Transported 195, trans in %: 100
+ Path DEBRV_14->NGAPP_14
+ID:267 DEBRV->KRPUS Transported 189, trans in %: 100
+ Path DEBRV_26->MYPKG_26
+MYPKG_34->KRPUS_34
+ID:272 DEBRV->ITGIT Transported 211, trans in %: 100
+ Path DEBRV_25->ITGIT_25
+ID:287 DEBRV->MYPKG Transported 40, trans in %: 100
+ Path DEBRV_26->MYPKG_26
+ID:291 DEBRV->CNTAO Transported 12.0082, trans in %: 2.9217
+ Path DEBRV_26->MYPKG_26
+MYPKG_31->CNTAO_31
+ID:292 DEBRV->NLRTM Transported 40, trans in %: 100
+ Path DEBRV_14->NLRTM_14
+ID:297 DEBRV->SGSIN Transported 32, trans in %: 100
+ Path DEBRV_26->MYPKG_26
+MYPKG_29->SGSIN_29
+ID:300 DEBRV->CAVAN Transported 10, trans in %: 100
+ Path DEBRV_26->CNSHA_26
+CNSHA_21->CAVAN_21
+ID:310 AUBNE->KRPUS Transported 125, trans in %: 86.2069
+ Path AUBNE_18->KRPUS_18
+ID:319 AUBNE->INNSA Transported 15, trans in %: 100
+ Path AUBNE_9->MYPKG_9
+MYPKG_6->INNSA_6
+ID:322 AUBNE->TWKHH Transported 47, trans in %: 100
+ Path AUBNE_18->TWKHH_18
+ID:328 AUBNE->USEWR Transported 9, trans in %: 100
+ Path AUBNE_12->ITGIT_12
+ITGIT_13->USEWR_13
+ID:332 AUBNE->CNTAO Transported 72, trans in %: 100
+ Path AUBNE_18->CNTAO_18
+ID:333 AUBNE->NLRTM Transported 32, trans in %: 100
+ Path AUBNE_9->MYPKG_9
+MYPKG_20->NLRTM_20
+ID:345 KRPUS->ESALG Transported 35.789, trans in %: 66.2759
+ Path KRPUS_23->MYTPP_23
+MYTPP_24->ESALG_24
+ID:349 KRPUS->NZAKL Transported 15, trans in %: 100
+ Path KRPUS_34->MYPKG_34
+MYPKG_11->NZAKL_11
+ID:351 KRPUS->ESBCN Transported 39, trans in %: 100
+ Path KRPUS_35->LKCMB_35
+LKCMB_22->ESBCN_22
+ID:361 KRPUS->HKHKG Transported 49, trans in %: 100
+ Path KRPUS_34->CNTAO_34
+CNTAO_31->HKHKG_31
+ID:362 KRPUS->INNSA Transported 213, trans in %: 66.1491
+ Path KRPUS_34->MYPKG_34
+MYPKG_6->INNSA_6
+ID:366 KRPUS->USLAX Transported 263.214, trans in %: 62.5212
+ Path KRPUS_8->JPYOK_8
+JPYOK_23->USLAX_23
+ID:378 KRPUS->OMSLL Transported 66, trans in %: 100
+ Path KRPUS_23->MYTPP_23
+MYTPP_24->OMSLL_24
+ID:389 USCHS->ESALG Transported 44, trans in %: 100
+ Path USCHS_15->ESALG_15
+ID:401 USCHS->GBFXT Transported 126, trans in %: 100
+ Path USCHS_33->GBFXT_33
+ID:403 USCHS->ECGYE Transported 42, trans in %: 100
+ Path USCHS_13->PABLB_13
+PABLB_0->ECGYE_0
+ID:421 USCHS->CNSHA Transported 2, trans in %: 1.02041
+ Path USCHS_12->MYTPP_12
+MYTPP_29->CNSHA_29
+ID:425 USCHS->CNYTN Transported 90, trans in %: 100
+ Path USCHS_12->MYTPP_12
+MYTPP_7->CNYTN_7
+ID:430 LKCMB->NGAPP Transported 3.3148, trans in %: 4.47946
+ Path LKCMB_22->GBFXT_22
+GBFXT_14->NGAPP_14
+ID:439 LKCMB->GBFXT Transported 242, trans in %: 100
+ Path LKCMB_22->GBFXT_22
+ID:441 LKCMB->ECGYE Transported 7, trans in %: 100
+ Path LKCMB_22->GBFXT_22
+GBFXT_0->ECGYE_0
+ID:444 LKCMB->INNSA Transported 7, trans in %: 100
+ Path LKCMB_29->MYPKG_29
+MYPKG_7->INNSA_7
+ID:489 ZADUR->INNSA Transported 93, trans in %: 100
+ Path ZADUR_16->MYPKG_16
+MYPKG_6->INNSA_6
+ID:552 GBFXT->CAVAN Transported 5, trans in %: 100
+ Path GBFXT_19->CNSHA_19
+CNSHA_21->CAVAN_21
+ID:556 ITGIT->TRAMB Transported 32, trans in %: 100
+ Path ITGIT_6->TRAMB_6
+ID:563 ITGIT->KRPUS Transported 51, trans in %: 100
+ Path ITGIT_27->TWKHH_27
+TWKHH_34->KRPUS_34
+ID:567 ITGIT->GBFXT Transported 208, trans in %: 100
+ Path ITGIT_22->GBFXT_22
+ID:569 ITGIT->DEHAM Transported 5, trans in %: 100
+ Path ITGIT_25->SAJED_25
+SAJED_30->DEHAM_30
+ID:571 ITGIT->INNSA Transported 117, trans in %: 100
+ Path ITGIT_5->INNSA_5
+ID:572 ITGIT->AEJEA Transported 410, trans in %: 100
+ Path ITGIT_24->AEJEA_24
+ID:573 ITGIT->SAJED Transported 33, trans in %: 19.2982
+ Path ITGIT_25->SAJED_25
+ID:575 ITGIT->USLAX Transported 7, trans in %: 100
+ Path ITGIT_25->SAJED_25
+SAJED_23->USLAX_23
+ID:577 ITGIT->PAMIT Transported 21, trans in %: 100
+ Path ITGIT_4->PAMIT_4
+ID:580 ITGIT->UYMVD Transported 19, trans in %: 100
+ Path ITGIT_6->TRAMB_6
+TRAMB_1->UYMVD_1
+ID:588 ITGIT->OMSLL Transported 74, trans in %: 100
+ Path ITGIT_5->OMSLL_5
+ID:590 ITGIT->BRSSZ Transported 15, trans in %: 100
+ Path ITGIT_13->BRSSZ_13
+ID:597 ITGIT->JPYOK Transported 86, trans in %: 100
+ Path ITGIT_27->TWKHH_27
+TWKHH_32->JPYOK_32
+ID:602 ECGYE->NZAKL Transported 30, trans in %: 100
+ Path ECGYE_0->PABLB_0
+PABLB_18->NZAKL_18
+ID:605 ECGYE->DEBRV Transported 346, trans in %: 45.5863
+ Path ECGYE_0->PABLB_0
+PABLB_17->DEBRV_17
+ID:606 ECGYE->AUBNE Transported 7, trans in %: 100
+ Path ECGYE_0->PABLB_0
+PABLB_18->AUBNE_18
+ID:607 ECGYE->KRPUS Transported 27, trans in %: 100
+ Path ECGYE_0->PABLB_0
+PABLB_18->KRPUS_18
+ID:609 ECGYE->ZADUR Transported 1, trans in %: 100
+ Path ECGYE_0->PABLB_0
+PABLB_13->ZADUR_13
+ID:616 ECGYE->TWKHH Transported 25, trans in %: 100
+ Path ECGYE_0->PABLB_0
+PABLB_18->TWKHH_18
+ID:626 ECGYE->SGSIN Transported 1, trans in %: 100
+ Path ECGYE_0->PABLB_0
+PABLB_18->TWKHH_18
+TWKHH_35->SGSIN_35
+ID:628 ECGYE->CNYTN Transported 3, trans in %: 100
+ Path ECGYE_0->PABLB_0
+PABLB_18->TWKHH_18
+TWKHH_35->CNYTN_35
+ID:632 DEHAM->TRAMB Transported 3, trans in %: 100
+ Path DEHAM_30->SAJED_30
+SAJED_5->TRAMB_5
+ID:641 DEHAM->ECGYE Transported 2, trans in %: 100
+ Path DEHAM_30->GBFXT_30
+GBFXT_0->ECGYE_0
+ID:644 DEHAM->AEJEA Transported 11, trans in %: 100
+ Path DEHAM_30->SAJED_30
+SAJED_24->AEJEA_24
+ID:655 DEHAM->OMSLL Transported 17, trans in %: 100
+ Path DEHAM_30->SAJED_30
+SAJED_22->OMSLL_22
+ID:664 HKHKG->ESALG Transported 203, trans in %: 100
+ Path HKHKG_31->MYTPP_31
+MYTPP_24->ESALG_24
+ID:667 HKHKG->NGAPP Transported 44.7492, trans in %: 9.16992
+ Path HKHKG_26->DEBRV_26
+DEBRV_14->NGAPP_14
+ID:679 HKHKG->ECGYE Transported 58, trans in %: 100
+ Path HKHKG_26->DEBRV_26
+DEBRV_0->ECGYE_0
+ID:680 HKHKG->DEHAM Transported 109, trans in %: 100
+ Path HKHKG_26->SAJED_26
+SAJED_30->DEHAM_30
+ID:683 HKHKG->SAJED Transported 122, trans in %: 100
+ Path HKHKG_26->SAJED_26
+ID:691 HKHKG->USEWR Transported 211, trans in %: 100
+ Path HKHKG_27->ITGIT_27
+ITGIT_13->USEWR_13
+ID:699 HKHKG->BRSSZ Transported 221.805, trans in %: 69.5312
+ Path HKHKG_27->ITGIT_27
+ITGIT_13->BRSSZ_13
+ID:710 INNSA->BEANR Transported 18, trans in %: 100
+ Path INNSA_4->ITGIT_4
+ITGIT_13->BEANR_13
+ID:717 INNSA->KRPUS Transported 8, trans in %: 100
+ Path INNSA_7->TWKHH_7
+TWKHH_34->KRPUS_34
+ID:724 INNSA->DEHAM Transported 1.0082, trans in %: 6.30125
+ Path INNSA_7->SAJED_7
+SAJED_30->DEHAM_30
+ID:734 INNSA->USEWR Transported 218, trans in %: 100
+ Path INNSA_4->ITGIT_4
+ITGIT_13->USEWR_13
+ID:736 INNSA->PKBQM Transported 61, trans in %: 100
+ Path INNSA_5->PKBQM_5
+ID:745 INNSA->SGSIN Transported 4, trans in %: 100
+ Path INNSA_7->TWKHH_7
+TWKHH_35->SGSIN_35
+ID:750 INNSA->JPYOK Transported 8, trans in %: 100
+ Path INNSA_7->TWKHH_7
+TWKHH_32->JPYOK_32
+ID:752 AEJEA->ESALG Transported 75, trans in %: 100
+ Path AEJEA_24->ESALG_24
+ID:754 AEJEA->BEANR Transported 12, trans in %: 100
+ Path AEJEA_12->ITGIT_12
+ITGIT_13->BEANR_13
+ID:755 AEJEA->NGAPP Transported 359, trans in %: 100
+ Path AEJEA_24->ESALG_24
+ESALG_14->NGAPP_14
+ID:766 AEJEA->ITGIT Transported 231, trans in %: 100
+ Path AEJEA_12->ITGIT_12
+ID:770 AEJEA->SAJED Transported 97.9918, trans in %: 51.8475
+ Path AEJEA_7->SAJED_7
+ID:778 AEJEA->USEWR Transported 54, trans in %: 100
+ Path AEJEA_12->ITGIT_12
+ITGIT_13->USEWR_13
+ID:779 AEJEA->MYPKG Transported 1, trans in %: 100
+ Path AEJEA_9->MYPKG_9
+ID:795 AEJEA->BEZEE Transported 65, trans in %: 100
+ Path AEJEA_7->SAJED_7
+SAJED_25->BEZEE_25
+ID:808 SAJED->ZADUR Transported 38, trans in %: 100
+ Path SAJED_22->OMSLL_22
+OMSLL_16->ZADUR_16
+ID:842 TWKHH->BEANR Transported 20, trans in %: 100
+ Path TWKHH_27->ITGIT_27
+ITGIT_13->BEANR_13
+ID:844 TWKHH->NZAKL Transported 8, trans in %: 100
+ Path TWKHH_34->MYPKG_34
+MYPKG_11->NZAKL_11
+ID:846 TWKHH->ESBCN Transported 23, trans in %: 100
+ Path TWKHH_35->LKCMB_35
+LKCMB_22->ESBCN_22
+ID:847 TWKHH->DEBRV Transported 81.8128, trans in %: 49.8859
+ Path TWKHH_34->MYPKG_34
+MYPKG_20->DEBRV_20
+ID:848 TWKHH->AUBNE Transported 74, trans in %: 100
+ Path TWKHH_34->MYPKG_34
+MYPKG_11->AUBNE_11
+ID:849 TWKHH->KRPUS Transported 10, trans in %: 100
+ Path TWKHH_34->KRPUS_34
+ID:853 TWKHH->GBFXT Transported 44, trans in %: 100
+ Path TWKHH_35->LKCMB_35
+LKCMB_22->GBFXT_22
+ID:855 TWKHH->ECGYE Transported 9, trans in %: 100
+ Path TWKHH_34->MYPKG_34
+MYPKG_20->DEBRV_20
+DEBRV_0->ECGYE_0
+ID:861 TWKHH->USLAX Transported 162, trans in %: 100
+ Path TWKHH_32->JPYOK_32
+JPYOK_23->USLAX_23
+ID:867 TWKHH->USEWR Transported 41, trans in %: 100
+ Path TWKHH_27->ITGIT_27
+ITGIT_13->USEWR_13
+ID:868 TWKHH->MYPKG Transported 38, trans in %: 100
+ Path TWKHH_34->MYPKG_34
+ID:871 TWKHH->MAPTM Transported 4, trans in %: 100
+ Path TWKHH_34->MYPKG_34
+MYPKG_26->MAPTM_26
+ID:881 TWKHH->JPYOK Transported 6, trans in %: 100
+ Path TWKHH_32->JPYOK_32
+ID:885 USLAX->NZAKL Transported 18, trans in %: 100
+ Path USLAX_23->MYTPP_23
+MYTPP_11->NZAKL_11
+ID:888 USLAX->AUBNE Transported 83, trans in %: 100
+ Path USLAX_23->MYTPP_23
+MYTPP_12->AUBNE_12
+ID:908 USLAX->OMSLL Transported 3, trans in %: 100
+ Path USLAX_23->MYTPP_23
+MYTPP_24->OMSLL_24
+ID:919 AOLAD->ITGIT Transported 6, trans in %: 100
+ Path AOLAD_3->NGAPP_3
+NGAPP_13->ITGIT_13
+ID:935 PAMIT->NGAPP Transported 2, trans in %: 100
+ Path PAMIT_14->NGAPP_14
+ID:945 PAMIT->GBFXT Transported 142, trans in %: 100
+ Path PAMIT_14->GBFXT_14
+ID:947 PAMIT->ECGYE Transported 45, trans in %: 100
+ Path PAMIT_13->PABLB_13
+PABLB_0->ECGYE_0
+ID:964 PAMIT->GHTKD Transported 1, trans in %: 100
+ Path PAMIT_14->NGAPP_14
+NGAPP_3->GHTKD_3
+ID:984 USMIA->ECGYE Transported 38, trans in %: 100
+ Path USMIA_13->PABLB_13
+PABLB_0->ECGYE_0
+ID:986 USMIA->HKHKG Transported 20.8128, trans in %: 65.04
+ Path USMIA_4->SAJED_4
+SAJED_19->HKHKG_19
+ID:999 USMIA->OMSLL Transported 28, trans in %: 100
+ Path USMIA_4->SAJED_4
+SAJED_22->OMSLL_22
+ID:1002 USMIA->SGSIN Transported 2, trans in %: 100
+ Path USMIA_4->SAJED_4
+SAJED_12->SGSIN_12
+ID:1003 USMIA->GHTKD Transported 15.0164, trans in %: 60.0656
+ Path USMIA_13->PAMIT_13
+PAMIT_14->NGAPP_14
+NGAPP_3->GHTKD_3
+ID:1005 USMIA->JPYOK Transported 38, trans in %: 100
+ Path USMIA_4->SAJED_4
+SAJED_23->JPYOK_23
+ID:1057 UYMVD->TWKHH Transported 11, trans in %: 100
+ Path UYMVD_1->ITGIT_1
+ITGIT_27->TWKHH_27
+ID:1068 UYMVD->OMSLL Transported 9, trans in %: 100
+ Path UYMVD_1->ITGIT_1
+ITGIT_5->OMSLL_5
+ID:1075 UYMVD->BEZEE Transported 4, trans in %: 100
+ Path UYMVD_1->ITGIT_1
+ITGIT_25->BEZEE_25
+ID:1077 CAMTR->TRAMB Transported 7, trans in %: 100
+ Path CAMTR_10->EGPSD_10
+EGPSD_0->TRAMB_0
+ID:1078 CAMTR->BEANR Transported 15, trans in %: 100
+ Path CAMTR_10->NLRTM_10
+NLRTM_28->BEANR_28
+ID:1079 CAMTR->NGAPP Transported 38, trans in %: 100
+ Path CAMTR_10->NLRTM_10
+NLRTM_14->NGAPP_14
+ID:1088 CAMTR->AOLAD Transported 24, trans in %: 100
+ Path CAMTR_10->NLRTM_10
+NLRTM_14->NGAPP_14
+NGAPP_3->AOLAD_3
+ID:1094 CAMTR->GHTKD Transported 19, trans in %: 100
+ Path CAMTR_10->NLRTM_10
+NLRTM_14->NGAPP_14
+NGAPP_3->GHTKD_3
+ID:1096 USEWR->TRAMB Transported 31, trans in %: 100
+ Path USEWR_17->ESALG_17
+ESALG_6->TRAMB_6
+ID:1101 USEWR->KRPUS Transported 17, trans in %: 100
+ Path USEWR_13->PABLB_13
+PABLB_18->KRPUS_18
+ID:1104 USEWR->GBFXT Transported 38, trans in %: 100
+ Path USEWR_17->PAMIT_17
+PAMIT_14->GBFXT_14
+ID:1106 USEWR->ECGYE Transported 10, trans in %: 100
+ Path USEWR_13->PABLB_13
+PABLB_0->ECGYE_0
+ID:1107 USEWR->DEHAM Transported 2, trans in %: 100
+ Path USEWR_17->ESALG_17
+ESALG_30->DEHAM_30
+ID:1108 USEWR->HKHKG Transported 136, trans in %: 100
+ Path USEWR_17->DEBRV_17
+DEBRV_26->HKHKG_26
+ID:1110 USEWR->AEJEA Transported 383, trans in %: 100
+ Path USEWR_17->ESALG_17
+ESALG_24->AEJEA_24
+ID:1112 USEWR->TWKHH Transported 32, trans in %: 100
+ Path USEWR_13->PABLB_13
+PABLB_18->TWKHH_18
+ID:1116 USEWR->PKBQM Transported 19.3312, trans in %: 26.1232
+ Path USEWR_17->PAMIT_17
+PAMIT_4->PKBQM_4
+ID:1119 USEWR->CNTAO Transported 20, trans in %: 100
+ Path USEWR_13->PABLB_13
+PABLB_18->CNTAO_18
+ID:1123 USEWR->CNSHA Transported 143, trans in %: 100
+ Path USEWR_13->PABLB_13
+PABLB_18->CNSHA_18
+ID:1127 USEWR->CNYTN Transported 7, trans in %: 100
+ Path USEWR_13->PABLB_13
+PABLB_18->TWKHH_18
+TWKHH_35->CNYTN_35
+ID:1128 USEWR->JPYOK Transported 16, trans in %: 100
+ Path USEWR_13->PABLB_13
+PABLB_18->JPYOK_18
+ID:1134 MYPKG->PABLB Transported 6, trans in %: 100
+ Path MYPKG_20->DEBRV_20
+DEBRV_17->PABLB_17
+ID:1143 MYPKG->DEHAM Transported 3, trans in %: 100
+ Path MYPKG_26->SAJED_26
+SAJED_30->DEHAM_30
+ID:1146 MYPKG->SAJED Transported 18, trans in %: 100
+ Path MYPKG_26->SAJED_26
+ID:1153 MYPKG->USEWR Transported 3, trans in %: 100
+ Path MYPKG_20->DEBRV_20
+DEBRV_17->USEWR_17
+ID:1155 MYPKG->EGPSD Transported 29, trans in %: 100
+ Path MYPKG_26->EGPSD_26
+ID:1156 MYPKG->MAPTM Transported 3, trans in %: 100
+ Path MYPKG_26->MAPTM_26
+ID:1158 MYPKG->NLRTM Transported 32, trans in %: 100
+ Path MYPKG_20->NLRTM_20
+ID:1160 MYPKG->CLSAI Transported 2, trans in %: 100
+ Path MYPKG_20->DEBRV_20
+DEBRV_17->CLSAI_17
+ID:1168 MYPKG->BEZEE Transported 13, trans in %: 100
+ Path MYPKG_26->SAJED_26
+SAJED_25->BEZEE_25
+ID:1171 PKBQM->BEANR Transported 5, trans in %: 100
+ Path PKBQM_4->ITGIT_4
+ITGIT_13->BEANR_13
+ID:1181 PKBQM->GBFXT Transported 21, trans in %: 67.7419
+ Path PKBQM_7->SAJED_7
+SAJED_30->GBFXT_30
+ID:1193 PKBQM->USEWR Transported 24, trans in %: 17.0213
+ Path PKBQM_4->ITGIT_4
+ITGIT_13->USEWR_13
+ID:1204 EGPSD->ESALG Transported 30, trans in %: 100
+ Path EGPSD_24->ESALG_24
+ID:1210 EGPSD->DEBRV Transported 47, trans in %: 100
+ Path EGPSD_26->DEBRV_26
+ID:1217 EGPSD->ITGIT Transported 51, trans in %: 100
+ Path EGPSD_22->ITGIT_22
+ID:1222 EGPSD->SAJED Transported 87, trans in %: 100
+ Path EGPSD_12->SAJED_12
+ID:1223 EGPSD->USLAX Transported 2, trans in %: 100
+ Path EGPSD_12->SAJED_12
+SAJED_23->USLAX_23
+ID:1231 EGPSD->MAPTM Transported 27, trans in %: 100
+ Path EGPSD_26->MAPTM_26
+ID:1234 EGPSD->OMSLL Transported 48, trans in %: 100
+ Path EGPSD_22->OMSLL_22
+ID:1237 EGPSD->SGSIN Transported 1, trans in %: 100
+ Path EGPSD_12->SGSIN_12
+ID:1239 EGPSD->MYTPP Transported 12, trans in %: 100
+ Path EGPSD_12->MYTPP_12
+ID:1241 EGPSD->BEZEE Transported 16, trans in %: 100
+ Path EGPSD_12->SAJED_12
+SAJED_25->BEZEE_25
+ID:1265 MAPTM->OMSLL Transported 2, trans in %: 100
+ Path MAPTM_30->SAJED_30
+SAJED_22->OMSLL_22
+ID:1268 MAPTM->MYTPP Transported 1, trans in %: 100
+ Path MAPTM_26->MYPKG_26
+MYPKG_29->MYTPP_29
+ID:1272 CNTAO->BEANR Transported 38, trans in %: 100
+ Path CNTAO_27->ITGIT_27
+ITGIT_13->BEANR_13
+ID:1274 CNTAO->NZAKL Transported 30, trans in %: 100
+ Path CNTAO_34->MYPKG_34
+MYPKG_11->NZAKL_11
+ID:1278 CNTAO->AUBNE Transported 164, trans in %: 100
+ Path CNTAO_34->MYPKG_34
+MYPKG_11->AUBNE_11
+ID:1284 CNTAO->ITGIT Transported 400, trans in %: 100
+ Path CNTAO_27->ITGIT_27
+ID:1296 CNTAO->USEWR Transported 124, trans in %: 100
+ Path CNTAO_27->ITGIT_27
+ITGIT_13->USEWR_13
+ID:1300 CNTAO->MAPTM Transported 25, trans in %: 100
+ Path CNTAO_34->MYPKG_34
+MYPKG_26->MAPTM_26
+ID:1301 CNTAO->NLRTM Transported 402, trans in %: 100
+ Path CNTAO_34->MYPKG_34
+MYPKG_20->NLRTM_20
+ID:1315 NLRTM->NZAKL Transported 20.1954, trans in %: 19.0523
+ Path NLRTM_8->NZAKL_8
+ID:1319 NLRTM->KRPUS Transported 357, trans in %: 100
+ Path NLRTM_20->MYPKG_20
+MYPKG_34->KRPUS_34
+ID:1329 NLRTM->SAJED Transported 124.975, trans in %: 36.2248
+ Path NLRTM_22->SAJED_22
+ID:1330 NLRTM->TWKHH Transported 148, trans in %: 100
+ Path NLRTM_20->MYPKG_20
+MYPKG_34->TWKHH_34
+ID:1343 NLRTM->CNTAO Transported 244, trans in %: 100
+ Path NLRTM_20->MYPKG_20
+MYPKG_34->CNTAO_34
+ID:1344 NLRTM->OMSLL Transported 100, trans in %: 100
+ Path NLRTM_22->OMSLL_22
+ID:1347 NLRTM->CNSHA Transported 272, trans in %: 100
+ Path NLRTM_20->MYPKG_20
+MYPKG_29->CNSHA_29
+ID:1348 NLRTM->SGSIN Transported 170, trans in %: 100
+ Path NLRTM_20->MYPKG_20
+MYPKG_34->SGSIN_34
+ID:1350 NLRTM->MYTPP Transported 274, trans in %: 100
+ Path NLRTM_20->MYPKG_20
+MYPKG_34->MYTPP_34
+ID:1352 NLRTM->CNYTN Transported 60, trans in %: 100
+ Path NLRTM_20->MYPKG_20
+MYPKG_34->CNYTN_34
+ID:1353 NLRTM->JPYOK Transported 623.008, trans in %: 93.8265
+ Path NLRTM_20->MYPKG_20
+MYPKG_29->JPYOK_29
+ID:1354 OMSLL->ESALG Transported 21, trans in %: 100
+ Path OMSLL_24->ESALG_24
+ID:1379 OMSLL->PKBQM Transported 32, trans in %: 100
+ Path OMSLL_5->PKBQM_5
+ID:1394 CLSAI->ESALG Transported 54, trans in %: 100
+ Path CLSAI_17->ESALG_17
+ID:1395 CLSAI->TRAMB Transported 1, trans in %: 100
+ Path CLSAI_17->ESALG_17
+ESALG_6->TRAMB_6
+ID:1404 CLSAI->USCHS Transported 57, trans in %: 100
+ Path CLSAI_17->PAMIT_17
+PAMIT_15->USCHS_15
+ID:1406 CLSAI->GBFXT Transported 0.677, trans in %: 0.867949
+ Path CLSAI_17->PAMIT_17
+PAMIT_14->GBFXT_14
+ID:1409 CLSAI->DEHAM Transported 3, trans in %: 100
+ Path CLSAI_17->ESALG_17
+ESALG_30->DEHAM_30
+ID:1417 CLSAI->USMIA Transported 41, trans in %: 100
+ Path CLSAI_17->PAMIT_17
+PAMIT_15->USMIA_15
+ID:1419 CLSAI->EGPSD Transported 11, trans in %: 100
+ Path CLSAI_17->PAMIT_17
+PAMIT_4->EGPSD_4
+ID:1427 BRSSZ->ESALG Transported 113, trans in %: 100
+ Path BRSSZ_14->ESALG_14
+ID:1440 BRSSZ->DEHAM Transported 6, trans in %: 100
+ Path BRSSZ_14->GBFXT_14
+GBFXT_30->DEHAM_30
+ID:1450 BRSSZ->CAMTR Transported 3, trans in %: 100
+ Path BRSSZ_14->NLRTM_14
+NLRTM_10->CAMTR_10
+ID:1468 CNSHA->NGAPP Transported 322.557, trans in %: 42.8363
+ Path CNSHA_26->DEBRV_26
+DEBRV_14->NGAPP_14
+ID:1480 CNSHA->ECGYE Transported 46, trans in %: 100
+ Path CNSHA_26->DEBRV_26
+DEBRV_0->ECGYE_0
+ID:1487 CNSHA->AOLAD Transported 163, trans in %: 100
+ Path CNSHA_26->DEBRV_26
+DEBRV_14->NGAPP_14
+NGAPP_3->AOLAD_3
+ID:1499 CNSHA->CLSAI Transported 80, trans in %: 100
+ Path CNSHA_26->DEBRV_26
+DEBRV_17->CLSAI_17
+ID:1509 SGSIN->TRAMB Transported 2.8046, trans in %: 70.115
+ Path SGSIN_24->SAJED_24
+SAJED_5->TRAMB_5
+ID:1511 SGSIN->NGAPP Transported 87, trans in %: 100
+ Path SGSIN_24->ESALG_24
+ESALG_14->NGAPP_14
+ID:1514 SGSIN->DEBRV Transported 34, trans in %: 100
+ Path SGSIN_11->MYPKG_11
+MYPKG_20->DEBRV_20
+ID:1517 SGSIN->USCHS Transported 5, trans in %: 100
+ Path SGSIN_12->USCHS_12
+ID:1519 SGSIN->ZADUR Transported 63, trans in %: 100
+ Path SGSIN_24->OMSLL_24
+OMSLL_16->ZADUR_16
+ID:1525 SGSIN->INNSA Transported 13, trans in %: 100
+ Path SGSIN_11->MYPKG_11
+MYPKG_6->INNSA_6
+ID:1534 SGSIN->UYMVD Transported 2, trans in %: 100
+ Path SGSIN_24->OMSLL_24
+OMSLL_1->UYMVD_1
+ID:1579 MYTPP->ESALG Transported 231, trans in %: 100
+ Path MYTPP_24->ESALG_24
+ID:1582 MYTPP->NGAPP Transported 258.354, trans in %: 62.4043
+ Path MYTPP_24->ESALG_24
+ESALG_14->NGAPP_14
+ID:1589 MYTPP->USCHS Transported 62.1954, trans in %: 23.5589
+ Path MYTPP_12->USCHS_12
+ID:1598 MYTPP->AEJEA Transported 300, trans in %: 100
+ Path MYTPP_21->AEJEA_21
+ID:1606 MYTPP->UYMVD Transported 25, trans in %: 83.3333
+ Path MYTPP_24->OMSLL_24
+OMSLL_1->UYMVD_1
+ID:1610 MYTPP->EGPSD Transported 228, trans in %: 100
+ Path MYTPP_24->EGPSD_24
+ID:1624 CAVAN->ESALG Transported 2, trans in %: 100
+ Path CAVAN_21->MYTPP_21
+MYTPP_24->ESALG_24
+ID:1628 CAVAN->AUBNE Transported 12, trans in %: 100
+ Path CAVAN_21->MYTPP_21
+MYTPP_12->AUBNE_12
+ID:1640 CAVAN->PKBQM Transported 20, trans in %: 100
+ Path CAVAN_21->AEJEA_21
+AEJEA_7->PKBQM_7
+ID:1650 CNYTN->ESALG Transported 426, trans in %: 100
+ Path CNYTN_34->MYTPP_34
+MYTPP_24->ESALG_24
+ID:1652 CNYTN->BEANR Transported 167, trans in %: 100
+ Path CNYTN_27->ITGIT_27
+ITGIT_13->BEANR_13
+ID:1654 CNYTN->NZAKL Transported 110, trans in %: 100
+ Path CNYTN_34->MYPKG_34
+MYPKG_11->NZAKL_11
+ID:1657 CNYTN->DEBRV Transported 922, trans in %: 100
+ Path CNYTN_34->MYPKG_34
+MYPKG_20->DEBRV_20
+ID:1658 CNYTN->AUBNE Transported 126, trans in %: 100
+ Path CNYTN_34->MYPKG_34
+MYPKG_11->AUBNE_11
+ID:1663 CNYTN->GBFXT Transported 258, trans in %: 36.338
+ Path CNYTN_35->LKCMB_35
+LKCMB_22->GBFXT_22
+ID:1668 CNYTN->AEJEA Transported 316, trans in %: 100
+ Path CNYTN_21->AEJEA_21
+ID:1671 CNYTN->USLAX Transported 1.865, trans in %: 100
+ Path CNYTN_21->JPYOK_21
+JPYOK_23->USLAX_23
+ID:1677 CNYTN->USEWR Transported 421, trans in %: 100
+ Path CNYTN_27->ITGIT_27
+ITGIT_13->USEWR_13
+ID:1678 CNYTN->MYPKG Transported 20, trans in %: 100
+ Path CNYTN_34->MYPKG_34
+ID:1681 CNYTN->MAPTM Transported 45, trans in %: 100
+ Path CNYTN_34->MYPKG_34
+MYPKG_26->MAPTM_26
+ID:1682 CNYTN->NLRTM Transported 1.347, trans in %: 100
+ Path CNYTN_34->MYPKG_34
+MYPKG_20->NLRTM_20
+ID:1685 CNYTN->BRSSZ Transported 20.1954, trans in %: 20.3994
+ Path CNYTN_27->ITGIT_27
+ITGIT_13->BRSSZ_13
+ID:1692 JPYOK->ESALG Transported 51, trans in %: 100
+ Path JPYOK_21->MYTPP_21
+MYTPP_24->ESALG_24
+ID:1694 JPYOK->BEANR Transported 40, trans in %: 100
+ Path JPYOK_35->TWKHH_35
+TWKHH_27->ITGIT_27
+ITGIT_13->BEANR_13
+ID:1706 JPYOK->ITGIT Transported 181, trans in %: 100
+ Path JPYOK_35->TWKHH_35
+TWKHH_27->ITGIT_27
+ID:1720 JPYOK->USEWR Transported 6, trans in %: 100
+ Path JPYOK_35->TWKHH_35
+TWKHH_27->ITGIT_27
+ITGIT_13->USEWR_13
+ID:1725 JPYOK->NLRTM Transported 191.805, trans in %: 21.7466
+ Path JPYOK_29->MYPKG_29
+MYPKG_20->NLRTM_20
+ID:1757 BEZEE->OMSLL Transported 8, trans in %: 100
+ Path BEZEE_25->SAJED_25
+SAJED_22->OMSLL_22
+ID:3 ESALG->NZAKL Transported 10, trans in %: 100
+ Path ESALG_24->AEJEA_24
+AEJEA_9->NZAKL_9
+ID:7 ESALG->KRPUS Transported 18, trans in %: 100
+ Path ESALG_24->MYTPP_24
+MYTPP_34->KRPUS_34
+ID:16 ESALG->INNSA Transported 18, trans in %: 100
+ Path ESALG_30->SAJED_30
+SAJED_7->INNSA_7
+ID:22 ESALG->USMIA Transported 68, trans in %: 100
+ Path ESALG_15->USMIA_15
+ID:26 ESALG->USEWR Transported 86, trans in %: 100
+ Path ESALG_17->USEWR_17
+ID:27 ESALG->MYPKG Transported 7, trans in %: 100
+ Path ESALG_24->MYTPP_24
+MYTPP_16->MYPKG_16
+ID:29 ESALG->EGPSD Transported 28, trans in %: 100
+ Path ESALG_30->SAJED_30
+SAJED_33->EGPSD_33
+ID:31 ESALG->CNTAO Transported 14, trans in %: 100
+ Path ESALG_24->MYTPP_24
+MYTPP_34->CNTAO_34
+ID:41 ESALG->JPYOK Transported 82, trans in %: 100
+ Path ESALG_24->MYTPP_24
+MYTPP_29->JPYOK_29
+ID:45 TRAMB->NZAKL Transported 3, trans in %: 100
+ Path TRAMB_5->AEJEA_5
+AEJEA_9->NZAKL_9
+ID:56 TRAMB->INNSA Transported 2, trans in %: 100
+ Path TRAMB_5->INNSA_5
+ID:57 TRAMB->AEJEA Transported 60, trans in %: 100
+ Path TRAMB_5->AEJEA_5
+ID:65 TRAMB->PKBQM Transported 20, trans in %: 100
+ Path TRAMB_5->PKBQM_5
+ID:71 TRAMB->CNSHA Transported 2, trans in %: 100
+ Path TRAMB_6->MYPKG_6
+MYPKG_29->CNSHA_29
+ID:76 TRAMB->BEZEE Transported 17, trans in %: 100
+ Path TRAMB_5->ITGIT_5
+ITGIT_25->BEZEE_25
+ID:77 BEANR->ESALG Transported 22, trans in %: 100
+ Path BEANR_19->SAJED_19
+SAJED_24->ESALG_24
+ID:80 BEANR->NZAKL Transported 12, trans in %: 100
+ Path BEANR_19->SAJED_19
+SAJED_9->NZAKL_9
+ID:87 BEANR->ITGIT Transported 75, trans in %: 100
+ Path BEANR_19->SAJED_19
+SAJED_6->ITGIT_6
+ID:88 BEANR->ECGYE Transported 1, trans in %: 100
+ Path BEANR_28->GBFXT_28
+GBFXT_0->ECGYE_0
+ID:90 BEANR->INNSA Transported 39.9918, trans in %: 97.541
+ Path BEANR_19->SAJED_19
+SAJED_7->INNSA_7
+ID:95 BEANR->PAMIT Transported 85.0164, trans in %: 61.6061
+ Path BEANR_13->DEBRV_13
+DEBRV_15->PAMIT_15
+ID:107 BEANR->CLSAI Transported 7, trans in %: 100
+ Path BEANR_13->DEBRV_13
+DEBRV_17->CLSAI_17
+ID:131 NGAPP->TWKHH Transported 25, trans in %: 100
+ Path NGAPP_13->ITGIT_13
+ITGIT_27->TWKHH_27
+ID:143 NGAPP->CNTAO Transported 15, trans in %: 100
+ Path NGAPP_13->ITGIT_13
+ITGIT_27->CNTAO_27
+ID:175 NZAKL->USLAX Transported 6.0522, trans in %: 11.004
+ Path NZAKL_8->JPYOK_8
+JPYOK_23->USLAX_23
+ID:181 NZAKL->MYPKG Transported 48.2036, trans in %: 98.3747
+ Path NZAKL_11->MYPKG_11
+ID:193 NZAKL->MYTPP Transported 16.9918, trans in %: 13.2748
+ Path NZAKL_11->MYTPP_11
+ID:204 PABLB->USCHS Transported 12, trans in %: 100
+ Path PABLB_17->PAMIT_17
+PAMIT_15->USCHS_15
+ID:207 PABLB->GBFXT Transported 1, trans in %: 100
+ Path PABLB_17->DEBRV_17
+DEBRV_0->GBFXT_0
+ID:217 PABLB->MAPTM Transported 4, trans in %: 100
+ Path PABLB_17->DEBRV_17
+DEBRV_26->MAPTM_26
+ID:234 ESBCN->KRPUS Transported 16, trans in %: 100
+ Path ESBCN_22->LKCMB_22
+LKCMB_35->KRPUS_35
+ID:254 ESBCN->CNSHA Transported 1, trans in %: 100
+ Path ESBCN_22->SAJED_22
+SAJED_19->CNSHA_19
+ID:265 DEBRV->PABLB Transported 4, trans in %: 100
+ Path DEBRV_17->PABLB_17
+ID:268 DEBRV->USCHS Transported 293, trans in %: 100
+ Path DEBRV_9->USCHS_9
+ID:270 DEBRV->ZADUR Transported 366, trans in %: 74.2394
+ Path DEBRV_17->PABLB_17
+PABLB_13->ZADUR_13
+ID:275 DEBRV->INNSA Transported 538, trans in %: 100
+ Path DEBRV_25->SAJED_25
+SAJED_7->INNSA_7
+ID:277 DEBRV->SAJED Transported 206, trans in %: 100
+ Path DEBRV_25->SAJED_25
+ID:279 DEBRV->USLAX Transported 62, trans in %: 100
+ Path DEBRV_25->SAJED_25
+SAJED_23->USLAX_23
+ID:284 DEBRV->UYMVD Transported 10, trans in %: 47.619
+ Path DEBRV_26->MAPTM_26
+MAPTM_1->UYMVD_1
+ID:286 DEBRV->USEWR Transported 202, trans in %: 100
+ Path DEBRV_17->USEWR_17
+ID:291 DEBRV->CNTAO Transported 398.992, trans in %: 97.0783
+ Path DEBRV_20->MYPKG_20
+MYPKG_34->CNTAO_34
+ID:293 DEBRV->OMSLL Transported 76, trans in %: 100
+ Path DEBRV_25->SAJED_25
+SAJED_22->OMSLL_22
+ID:295 DEBRV->BRSSZ Transported 19, trans in %: 100
+ Path DEBRV_17->PABLB_17
+PABLB_13->BRSSZ_13
+ID:299 DEBRV->MYTPP Transported 207, trans in %: 100
+ Path DEBRV_20->MYPKG_20
+MYPKG_29->MYTPP_29
+ID:301 DEBRV->CNYTN Transported 43, trans in %: 100
+ Path DEBRV_20->MYPKG_20
+MYPKG_34->CNYTN_34
+ID:302 DEBRV->JPYOK Transported 555, trans in %: 100
+ Path DEBRV_20->MYPKG_20
+MYPKG_29->JPYOK_29
+ID:305 AUBNE->NGAPP Transported 11, trans in %: 100
+ Path AUBNE_12->LKCMB_12
+LKCMB_22->GBFXT_22
+GBFXT_28->NGAPP_28
+ID:308 AUBNE->ESBCN Transported 1, trans in %: 100
+ Path AUBNE_12->LKCMB_12
+LKCMB_22->ESBCN_22
+ID:314 AUBNE->GBFXT Transported 52, trans in %: 100
+ Path AUBNE_12->LKCMB_12
+LKCMB_22->GBFXT_22
+ID:316 AUBNE->ECGYE Transported 1, trans in %: 100
+ Path AUBNE_12->LKCMB_12
+LKCMB_22->GBFXT_22
+GBFXT_0->ECGYE_0
+ID:323 AUBNE->USLAX Transported 51, trans in %: 100
+ Path AUBNE_8->JPYOK_8
+JPYOK_23->USLAX_23
+ID:331 AUBNE->EGPSD Transported 14, trans in %: 100
+ Path AUBNE_12->LKCMB_12
+LKCMB_22->EGPSD_22
+ID:338 AUBNE->SGSIN Transported 31, trans in %: 100
+ Path AUBNE_11->SGSIN_11
+ID:358 KRPUS->ITGIT Transported 195, trans in %: 100
+ Path KRPUS_34->CNTAO_34
+CNTAO_27->ITGIT_27
+ID:366 KRPUS->USLAX Transported 157.786, trans in %: 37.4788
+ Path KRPUS_35->JPYOK_35
+JPYOK_23->USLAX_23
+ID:385 KRPUS->CAVAN Transported 37, trans in %: 100
+ Path KRPUS_23->CNSHA_23
+CNSHA_21->CAVAN_21
+ID:405 USCHS->HKHKG Transported 79.0082, trans in %: 69.9188
+ Path USCHS_33->SAJED_33
+SAJED_19->HKHKG_19
+ID:419 USCHS->OMSLL Transported 105, trans in %: 100
+ Path USCHS_33->SAJED_33
+SAJED_22->OMSLL_22
+ID:430 LKCMB->NGAPP Transported 70.6852, trans in %: 95.5205
+ Path LKCMB_22->GBFXT_22
+GBFXT_28->NGAPP_28
+ID:440 LKCMB->ITGIT Transported 135.204, trans in %: 68.6313
+ Path LKCMB_22->ITGIT_22
+ID:472 ZADUR->ESALG Transported 61, trans in %: 100
+ Path ZADUR_19->SAJED_19
+SAJED_25->ESALG_25
+ID:474 ZADUR->BEANR Transported 133, trans in %: 100
+ Path ZADUR_19->BEANR_19
+ID:476 ZADUR->NZAKL Transported 5, trans in %: 100
+ Path ZADUR_19->SAJED_19
+SAJED_9->NZAKL_9
+ID:477 ZADUR->PABLB Transported 1, trans in %: 100
+ Path ZADUR_19->SAJED_19
+SAJED_25->DEBRV_25
+DEBRV_17->PABLB_17
+ID:479 ZADUR->DEBRV Transported 19.9078, trans in %: 7.93139
+ Path ZADUR_19->SAJED_19
+SAJED_25->DEBRV_25
+ID:486 ZADUR->ECGYE Transported 1, trans in %: 100
+ Path ZADUR_19->GBFXT_19
+GBFXT_0->ECGYE_0
+ID:493 ZADUR->USLAX Transported 3, trans in %: 100
+ Path ZADUR_19->SAJED_19
+SAJED_23->USLAX_23
+ID:502 ZADUR->CNTAO Transported 174, trans in %: 100
+ Path ZADUR_16->MYPKG_16
+MYPKG_34->CNTAO_34
+ID:504 ZADUR->OMSLL Transported 47, trans in %: 100
+ Path ZADUR_19->SAJED_19
+SAJED_22->OMSLL_22
+ID:512 ZADUR->CNYTN Transported 17, trans in %: 100
+ Path ZADUR_16->MYPKG_16
+MYPKG_34->CNYTN_34
+ID:518 GBFXT->NZAKL Transported 24.1954, trans in %: 43.2061
+ Path GBFXT_22->SAJED_22
+SAJED_9->NZAKL_9
+ID:519 GBFXT->PABLB Transported 1, trans in %: 100
+ Path GBFXT_9->DEBRV_9
+DEBRV_17->PABLB_17
+ID:537 GBFXT->UYMVD Transported 9, trans in %: 100
+ Path GBFXT_30->MAPTM_30
+MAPTM_1->UYMVD_1
+ID:539 GBFXT->USEWR Transported 48, trans in %: 100
+ Path GBFXT_9->DEBRV_9
+DEBRV_17->USEWR_17
+ID:546 GBFXT->CLSAI Transported 4, trans in %: 100
+ Path GBFXT_9->DEBRV_9
+DEBRV_17->CLSAI_17
+ID:555 ITGIT->ESALG Transported 75, trans in %: 100
+ Path ITGIT_25->ESALG_25
+ID:561 ITGIT->DEBRV Transported 207, trans in %: 100
+ Path ITGIT_25->DEBRV_25
+ID:582 ITGIT->MYPKG Transported 12, trans in %: 100
+ Path ITGIT_27->CNTAO_27
+CNTAO_34->MYPKG_34
+ID:584 ITGIT->EGPSD Transported 79.8046, trans in %: 81.4333
+ Path ITGIT_1->EGPSD_1
+ID:585 ITGIT->MAPTM Transported 42, trans in %: 100
+ Path ITGIT_25->SAJED_25
+SAJED_30->MAPTM_30
+ID:594 ITGIT->MYTPP Transported 99, trans in %: 100
+ Path ITGIT_24->MYTPP_24
+ID:627 ECGYE->MYTPP Transported 10, trans in %: 100
+ Path ECGYE_0->PABLB_0
+PABLB_18->CNTAO_18
+CNTAO_34->MYTPP_34
+ID:638 DEHAM->LKCMB Transported 13, trans in %: 100
+ Path DEHAM_30->SAJED_30
+SAJED_19->LKCMB_19
+ID:647 DEHAM->PAMIT Transported 9, trans in %: 100
+ Path DEHAM_30->ESALG_30
+ESALG_15->PAMIT_15
+ID:656 DEHAM->CLSAI Transported 11, trans in %: 100
+ Path DEHAM_30->ESALG_30
+ESALG_17->CLSAI_17
+ID:667 HKHKG->NGAPP Transported 44.9918, trans in %: 9.21963
+ Path HKHKG_29->LKCMB_29
+LKCMB_22->GBFXT_22
+GBFXT_28->NGAPP_28
+ID:670 HKHKG->ESBCN Transported 130, trans in %: 100
+ Path HKHKG_29->LKCMB_29
+LKCMB_22->ESBCN_22
+ID:673 HKHKG->KRPUS Transported 50, trans in %: 100
+ Path HKHKG_27->TWKHH_27
+TWKHH_34->KRPUS_34
+ID:677 HKHKG->GBFXT Transported 250.016, trans in %: 86.5109
+ Path HKHKG_29->LKCMB_29
+LKCMB_22->GBFXT_22
+ID:684 HKHKG->TWKHH Transported 27, trans in %: 100
+ Path HKHKG_27->TWKHH_27
+ID:694 HKHKG->EGPSD Transported 188, trans in %: 100
+ Path HKHKG_29->LKCMB_29
+LKCMB_22->EGPSD_22
+ID:697 HKHKG->OMSLL Transported 98.084, trans in %: 80.3967
+ Path HKHKG_21->AEJEA_21
+AEJEA_16->OMSLL_16
+ID:703 HKHKG->MYTPP Transported 83.0082, trans in %: 61.0354
+ Path HKHKG_11->MYTPP_11
+ID:707 HKHKG->BEZEE Transported 114, trans in %: 100
+ Path HKHKG_27->ITGIT_27
+ITGIT_25->BEZEE_25
+ID:712 INNSA->NZAKL Transported 4, trans in %: 100
+ Path INNSA_5->AEJEA_5
+AEJEA_9->NZAKL_9
+ID:726 INNSA->AEJEA Transported 99.0082, trans in %: 58.5847
+ Path INNSA_5->AEJEA_5
+ID:765 AEJEA->GBFXT Transported 79, trans in %: 100
+ Path AEJEA_16->OMSLL_16
+OMSLL_9->GBFXT_9
+ID:772 AEJEA->USLAX Transported 11, trans in %: 100
+ Path AEJEA_21->JPYOK_21
+JPYOK_23->USLAX_23
+ID:793 AEJEA->CNYTN Transported 19, trans in %: 100
+ Path AEJEA_21->CNYTN_21
+ID:815 SAJED->AEJEA Transported 48, trans in %: 100
+ Path SAJED_24->AEJEA_24
+ID:847 TWKHH->DEBRV Transported 82.1872, trans in %: 50.1141
+ Path TWKHH_27->ITGIT_27
+ITGIT_25->DEBRV_25
+ID:863 TWKHH->PAMIT Transported 66, trans in %: 100
+ Path TWKHH_27->ITGIT_27
+ITGIT_4->PAMIT_4
+ID:864 TWKHH->USMIA Transported 18, trans in %: 100
+ Path TWKHH_27->ITGIT_27
+ITGIT_4->USMIA_4
+ID:872 TWKHH->NLRTM Transported 141, trans in %: 100
+ Path TWKHH_27->ITGIT_27
+ITGIT_25->NLRTM_25
+ID:878 TWKHH->MYTPP Transported 355, trans in %: 100
+ Path TWKHH_34->MYTPP_34
+ID:879 TWKHH->CAVAN Transported 83, trans in %: 100
+ Path TWKHH_18->CNSHA_18
+CNSHA_21->CAVAN_21
+ID:882 TWKHH->BEZEE Transported 22, trans in %: 100
+ Path TWKHH_27->ITGIT_27
+ITGIT_25->BEZEE_25
+ID:890 USLAX->LKCMB Transported 1, trans in %: 100
+ Path USLAX_23->CNSHA_23
+CNSHA_29->LKCMB_29
+ID:893 USLAX->ITGIT Transported 7, trans in %: 100
+ Path USLAX_23->KRPUS_23
+KRPUS_34->CNTAO_34
+CNTAO_27->ITGIT_27
+ID:895 USLAX->HKHKG Transported 346, trans in %: 100
+ Path USLAX_23->CNSHA_23
+CNSHA_26->HKHKG_26
+ID:906 USLAX->CNTAO Transported 354, trans in %: 100
+ Path USLAX_23->KRPUS_23
+KRPUS_34->CNTAO_34
+ID:914 USLAX->CNYTN Transported 67, trans in %: 100
+ Path USLAX_23->KRPUS_23
+KRPUS_34->CNYTN_34
+ID:915 USLAX->JPYOK Transported 426, trans in %: 100
+ Path USLAX_23->KRPUS_23
+KRPUS_35->JPYOK_35
+ID:916 AOLAD->ESALG Transported 19, trans in %: 100
+ Path AOLAD_3->NGAPP_3
+NGAPP_13->ESALG_13
+ID:922 AOLAD->TWKHH Transported 1, trans in %: 100
+ Path AOLAD_3->NGAPP_3
+NGAPP_13->ITGIT_13
+ITGIT_27->TWKHH_27
+ID:936 PAMIT->NZAKL Transported 1, trans in %: 100
+ Path PAMIT_13->PABLB_13
+PABLB_18->NZAKL_18
+ID:940 PAMIT->AUBNE Transported 12, trans in %: 100
+ Path PAMIT_13->PABLB_13
+PABLB_18->AUBNE_18
+ID:941 PAMIT->KRPUS Transported 28, trans in %: 100
+ Path PAMIT_13->PABLB_13
+PABLB_18->KRPUS_18
+ID:946 PAMIT->ITGIT Transported 9, trans in %: 100
+ Path PAMIT_17->DEBRV_17
+DEBRV_25->ITGIT_25
+ID:949 PAMIT->HKHKG Transported 35, trans in %: 100
+ Path PAMIT_17->DEBRV_17
+DEBRV_26->HKHKG_26
+ID:951 PAMIT->AEJEA Transported 9, trans in %: 100
+ Path PAMIT_17->ESALG_17
+ESALG_24->AEJEA_24
+ID:952 PAMIT->TWKHH Transported 101, trans in %: 100
+ Path PAMIT_13->PABLB_13
+PABLB_18->TWKHH_18
+ID:958 PAMIT->CNTAO Transported 8, trans in %: 100
+ Path PAMIT_13->PABLB_13
+PABLB_18->CNTAO_18
+ID:959 PAMIT->NLRTM Transported 201.498, trans in %: 69.7225
+ Path PAMIT_15->NLRTM_15
+ID:962 PAMIT->CNSHA Transported 40, trans in %: 100
+ Path PAMIT_13->PABLB_13
+PABLB_18->CNSHA_18
+ID:966 PAMIT->CAVAN Transported 3, trans in %: 100
+ Path PAMIT_13->PABLB_13
+PABLB_18->CNSHA_18
+CNSHA_21->CAVAN_21
+ID:967 PAMIT->CNYTN Transported 9, trans in %: 100
+ Path PAMIT_13->PABLB_13
+PABLB_18->TWKHH_18
+TWKHH_35->CNYTN_35
+ID:982 USMIA->GBFXT Transported 51, trans in %: 100
+ Path USMIA_15->DEBRV_15
+DEBRV_0->GBFXT_0
+ID:983 USMIA->ITGIT Transported 120, trans in %: 100
+ Path USMIA_15->DEBRV_15
+DEBRV_25->ITGIT_25
+ID:986 USMIA->HKHKG Transported 11.1872, trans in %: 34.96
+ Path USMIA_15->DEBRV_15
+DEBRV_26->HKHKG_26
+ID:988 USMIA->AEJEA Transported 114, trans in %: 100
+ Path USMIA_15->ESALG_15
+ESALG_24->AEJEA_24
+ID:996 USMIA->MAPTM Transported 22, trans in %: 100
+ Path USMIA_15->DEBRV_15
+DEBRV_26->MAPTM_26
+ID:1010 KEMBA->NZAKL Transported 1, trans in %: 100
+ Path KEMBA_2->ZADUR_2
+ZADUR_19->SAJED_19
+SAJED_9->NZAKL_9
+ID:1025 KEMBA->USLAX Transported 2, trans in %: 100
+ Path KEMBA_2->ZADUR_2
+ZADUR_19->SAJED_19
+SAJED_23->USLAX_23
+ID:1026 KEMBA->CAMTR Transported 5, trans in %: 100
+ Path KEMBA_2->ZADUR_2
+ZADUR_19->SAJED_19
+SAJED_26->EGPSD_26
+EGPSD_10->CAMTR_10
+ID:1030 KEMBA->EGPSD Transported 32, trans in %: 100
+ Path KEMBA_2->ZADUR_2
+ZADUR_19->SAJED_19
+SAJED_26->EGPSD_26
+ID:1031 KEMBA->CNTAO Transported 14, trans in %: 100
+ Path KEMBA_2->ZADUR_2
+ZADUR_16->MYPKG_16
+MYPKG_34->CNTAO_34
+ID:1032 KEMBA->NLRTM Transported 67, trans in %: 100
+ Path KEMBA_2->ZADUR_2
+ZADUR_19->SAJED_19
+SAJED_25->NLRTM_25
+ID:1055 UYMVD->AEJEA Transported 7, trans in %: 100
+ Path UYMVD_1->PKBQM_1
+PKBQM_5->AEJEA_5
+ID:1086 CAMTR->AEJEA Transported 39, trans in %: 100
+ Path CAMTR_10->EGPSD_10
+EGPSD_24->AEJEA_24
+ID:1093 CAMTR->OMSLL Transported 14, trans in %: 100
+ Path CAMTR_10->EGPSD_10
+EGPSD_22->OMSLL_22
+ID:1102 USEWR->LKCMB Transported 201, trans in %: 100
+ Path USEWR_17->ESALG_17
+ESALG_24->LKCMB_24
+ID:1105 USEWR->ITGIT Transported 46, trans in %: 100
+ Path USEWR_17->DEBRV_17
+DEBRV_25->ITGIT_25
+ID:1111 USEWR->SAJED Transported 70, trans in %: 100
+ Path USEWR_17->DEBRV_17
+DEBRV_25->SAJED_25
+ID:1118 USEWR->MAPTM Transported 18, trans in %: 100
+ Path USEWR_17->DEBRV_17
+DEBRV_26->MAPTM_26
+ID:1121 USEWR->OMSLL Transported 56, trans in %: 100
+ Path USEWR_17->DEBRV_17
+DEBRV_25->SAJED_25
+SAJED_22->OMSLL_22
+ID:1124 USEWR->SGSIN Transported 4, trans in %: 100
+ Path USEWR_17->ESALG_17
+ESALG_24->SGSIN_24
+ID:1126 USEWR->MYTPP Transported 13, trans in %: 100
+ Path USEWR_17->ESALG_17
+ESALG_24->MYTPP_24
+ID:1135 MYPKG->ESBCN Transported 5, trans in %: 100
+ Path MYPKG_29->LKCMB_29
+LKCMB_22->ESBCN_22
+ID:1147 MYPKG->USLAX Transported 77, trans in %: 100
+ Path MYPKG_29->JPYOK_29
+JPYOK_23->USLAX_23
+ID:1157 MYPKG->CNTAO Transported 1, trans in %: 100
+ Path MYPKG_34->CNTAO_34
+ID:1162 MYPKG->CNSHA Transported 2, trans in %: 100
+ Path MYPKG_29->CNSHA_29
+ID:1165 MYPKG->MYTPP Transported 28, trans in %: 100
+ Path MYPKG_29->MYTPP_29
+ID:1173 PKBQM->NZAKL Transported 6, trans in %: 100
+ Path PKBQM_5->AEJEA_5
+AEJEA_9->NZAKL_9
+ID:1185 PKBQM->HKHKG Transported 15, trans in %: 100
+ Path PKBQM_5->AEJEA_5
+AEJEA_21->HKHKG_21
+ID:1201 PKBQM->CAVAN Transported 1, trans in %: 100
+ Path PKBQM_5->AEJEA_5
+AEJEA_21->CAVAN_21
+ID:1202 PKBQM->CNYTN Transported 6, trans in %: 100
+ Path PKBQM_5->AEJEA_5
+AEJEA_21->CNYTN_21
+ID:1208 EGPSD->NZAKL Transported 4, trans in %: 100
+ Path EGPSD_24->AEJEA_24
+AEJEA_9->NZAKL_9
+ID:1220 EGPSD->INNSA Transported 20, trans in %: 100
+ Path EGPSD_1->INNSA_1
+ID:1221 EGPSD->AEJEA Transported 210, trans in %: 100
+ Path EGPSD_24->AEJEA_24
+ID:1230 EGPSD->PKBQM Transported 41, trans in %: 100
+ Path EGPSD_1->PKBQM_1
+ID:1248 MAPTM->USCHS Transported 1, trans in %: 100
+ Path MAPTM_30->SAJED_30
+SAJED_33->USCHS_33
+ID:1252 MAPTM->ITGIT Transported 6.8046, trans in %: 97.2086
+ Path MAPTM_14->NGAPP_14
+NGAPP_13->ITGIT_13
+ID:1254 MAPTM->INNSA Transported 5, trans in %: 100
+ Path MAPTM_30->SAJED_30
+SAJED_7->INNSA_7
+ID:1259 MAPTM->CAMTR Transported 1, trans in %: 100
+ Path MAPTM_30->SAJED_30
+SAJED_33->EGPSD_33
+EGPSD_10->CAMTR_10
+ID:1262 MAPTM->EGPSD Transported 19, trans in %: 100
+ Path MAPTM_30->SAJED_30
+SAJED_33->EGPSD_33
+ID:1276 CNTAO->ESBCN Transported 68, trans in %: 100
+ Path CNTAO_27->ITGIT_27
+ITGIT_22->ESBCN_22
+ID:1283 CNTAO->GBFXT Transported 119, trans in %: 100
+ Path CNTAO_27->ITGIT_27
+ITGIT_22->GBFXT_22
+ID:1290 CNTAO->USLAX Transported 668, trans in %: 100
+ Path CNTAO_32->JPYOK_32
+JPYOK_23->USLAX_23
+ID:1293 CNTAO->USMIA Transported 109, trans in %: 100
+ Path CNTAO_27->ITGIT_27
+ITGIT_4->USMIA_4
+ID:1308 CNTAO->CAVAN Transported 192, trans in %: 100
+ Path CNTAO_32->CNSHA_32
+CNSHA_21->CAVAN_21
+ID:1310 CNTAO->BEZEE Transported 16, trans in %: 100
+ Path CNTAO_27->ITGIT_27
+ITGIT_25->BEZEE_25
+ID:1312 NLRTM->TRAMB Transported 61, trans in %: 100
+ Path NLRTM_10->EGPSD_10
+EGPSD_0->TRAMB_0
+ID:1315 NLRTM->NZAKL Transported 85.8046, trans in %: 80.9477
+ Path NLRTM_22->SAJED_22
+SAJED_9->NZAKL_9
+ID:1324 NLRTM->ITGIT Transported 126, trans in %: 100
+ Path NLRTM_25->ITGIT_25
+ID:1325 NLRTM->ECGYE Transported 18, trans in %: 100
+ Path NLRTM_14->GBFXT_14
+GBFXT_0->ECGYE_0
+ID:1333 NLRTM->PAMIT Transported 146, trans in %: 100
+ Path NLRTM_15->PAMIT_15
+ID:1334 NLRTM->USMIA Transported 207, trans in %: 100
+ Path NLRTM_15->USMIA_15
+ID:1356 OMSLL->BEANR Transported 5, trans in %: 100
+ Path OMSLL_9->GBFXT_9
+GBFXT_19->BEANR_19
+ID:1381 OMSLL->MAPTM Transported 5, trans in %: 100
+ Path OMSLL_24->SAJED_24
+SAJED_30->MAPTM_30
+ID:1382 OMSLL->CNTAO Transported 35, trans in %: 100
+ Path OMSLL_6->MYPKG_6
+MYPKG_34->CNTAO_34
+ID:1391 OMSLL->CNYTN Transported 2, trans in %: 100
+ Path OMSLL_6->MYPKG_6
+MYPKG_34->CNYTN_34
+ID:1406 CLSAI->GBFXT Transported 77.323, trans in %: 99.1321
+ Path CLSAI_17->DEBRV_17
+DEBRV_0->GBFXT_0
+ID:1412 CLSAI->SAJED Transported 5, trans in %: 100
+ Path CLSAI_17->DEBRV_17
+DEBRV_25->SAJED_25
+ID:1422 CLSAI->CNSHA Transported 34, trans in %: 100
+ Path CLSAI_8->CNTAO_8
+CNTAO_18->CNSHA_18
+ID:1423 CLSAI->SGSIN Transported 7, trans in %: 100
+ Path CLSAI_8->CNTAO_8
+CNTAO_34->SGSIN_34
+ID:1424 CLSAI->MYTPP Transported 14, trans in %: 100
+ Path CLSAI_8->CNTAO_8
+CNTAO_34->MYTPP_34
+ID:1457 BRSSZ->CLSAI Transported 1, trans in %: 100
+ Path BRSSZ_14->PAMIT_14
+PAMIT_13->CLSAI_13
+ID:1471 CNSHA->ESBCN Transported 222, trans in %: 100
+ Path CNSHA_29->LKCMB_29
+LKCMB_22->ESBCN_22
+ID:1478 CNSHA->GBFXT Transported 485, trans in %: 100
+ Path CNSHA_29->LKCMB_29
+LKCMB_22->GBFXT_22
+ID:1486 CNSHA->USLAX Transported 1.206, trans in %: 100
+ Path CNSHA_35->JPYOK_35
+JPYOK_23->USLAX_23
+ID:1493 CNSHA->MYPKG Transported 115, trans in %: 100
+ Path CNSHA_29->MYPKG_29
+ID:1495 CNSHA->EGPSD Transported 3.8128, trans in %: 2.35358
+ Path CNSHA_29->LKCMB_29
+LKCMB_22->EGPSD_22
+ID:1498 CNSHA->OMSLL Transported 90, trans in %: 84.9057
+ Path CNSHA_21->AEJEA_21
+AEJEA_16->OMSLL_16
+ID:1502 CNSHA->GHTKD Transported 281, trans in %: 100
+ Path CNSHA_29->LKCMB_29
+LKCMB_22->GBFXT_22
+GBFXT_28->NGAPP_28
+NGAPP_3->GHTKD_3
+ID:1513 SGSIN->ESBCN Transported 1, trans in %: 100
+ Path SGSIN_35->LKCMB_35
+LKCMB_22->ESBCN_22
+ID:1518 SGSIN->LKCMB Transported 38, trans in %: 100
+ Path SGSIN_35->LKCMB_35
+ID:1520 SGSIN->GBFXT Transported 16, trans in %: 100
+ Path SGSIN_35->LKCMB_35
+LKCMB_22->GBFXT_22
+ID:1521 SGSIN->ITGIT Transported 30, trans in %: 100
+ Path SGSIN_34->TWKHH_34
+TWKHH_27->ITGIT_27
+ID:1524 SGSIN->HKHKG Transported 47, trans in %: 100
+ Path SGSIN_29->HKHKG_29
+ID:1529 SGSIN->USLAX Transported 34, trans in %: 100
+ Path SGSIN_29->JPYOK_29
+JPYOK_23->USLAX_23
+ID:1546 SGSIN->MYTPP Transported 232, trans in %: 100
+ Path SGSIN_16->MYTPP_16
+ID:1566 GHTKD->TWKHH Transported 17, trans in %: 100
+ Path GHTKD_0->ITGIT_0
+ITGIT_27->TWKHH_27
+ID:1571 GHTKD->CNTAO Transported 30, trans in %: 100
+ Path GHTKD_0->ITGIT_0
+ITGIT_27->CNTAO_27
+ID:1578 GHTKD->BEZEE Transported 1, trans in %: 100
+ Path GHTKD_0->ITGIT_0
+ITGIT_25->BEZEE_25
+ID:1585 MYTPP->ESBCN Transported 120, trans in %: 100
+ Path MYTPP_29->LKCMB_29
+LKCMB_22->ESBCN_22
+ID:1586 MYTPP->DEBRV Transported 1.041, trans in %: 100
+ Path MYTPP_23->SAJED_23
+SAJED_25->DEBRV_25
+ID:1589 MYTPP->USCHS Transported 106.008, trans in %: 40.1546
+ Path MYTPP_23->SAJED_23
+SAJED_33->USCHS_33
+ID:1593 MYTPP->ITGIT Transported 517, trans in %: 100
+ Path MYTPP_34->TWKHH_34
+TWKHH_27->ITGIT_27
+ID:1608 MYTPP->MYPKG Transported 124, trans in %: 100
+ Path MYTPP_16->MYPKG_16
+ID:1611 MYTPP->MAPTM Transported 28, trans in %: 100
+ Path MYTPP_23->SAJED_23
+SAJED_30->MAPTM_30
+ID:1612 MYTPP->CNTAO Transported 17, trans in %: 100
+ Path MYTPP_34->CNTAO_34
+ID:1621 MYTPP->CNYTN Transported 95, trans in %: 100
+ Path MYTPP_34->CNYTN_34
+ID:1626 CAVAN->NZAKL Transported 2, trans in %: 100
+ Path CAVAN_21->AEJEA_21
+AEJEA_9->NZAKL_9
+ID:1632 CAVAN->ITGIT Transported 30, trans in %: 100
+ Path CAVAN_23->KRPUS_23
+KRPUS_34->CNTAO_34
+CNTAO_27->ITGIT_27
+ID:1644 CAVAN->OMSLL Transported 7, trans in %: 100
+ Path CAVAN_21->AEJEA_21
+AEJEA_16->OMSLL_16
+ID:1646 CAVAN->SGSIN Transported 9, trans in %: 100
+ Path CAVAN_21->MYTPP_21
+MYTPP_11->SGSIN_11
+ID:1656 CNYTN->ESBCN Transported 202, trans in %: 100
+ Path CNYTN_27->ITGIT_27
+ITGIT_22->ESBCN_22
+ID:1659 CNYTN->KRPUS Transported 10, trans in %: 100
+ Path CNYTN_34->KRPUS_34
+ID:1660 CNYTN->USCHS Transported 205.796, trans in %: 50.317
+ Path CNYTN_27->ITGIT_27
+ITGIT_12->USCHS_12
+ID:1663 CNYTN->GBFXT Transported 452, trans in %: 63.662
+ Path CNYTN_27->ITGIT_27
+ITGIT_22->GBFXT_22
+ID:1673 CNYTN->PAMIT Transported 244.016, trans in %: 80.2686
+ Path CNYTN_27->ITGIT_27
+ITGIT_4->PAMIT_4
+ID:1674 CNYTN->USMIA Transported 30.9836, trans in %: 28.9566
+ Path CNYTN_27->ITGIT_27
+ITGIT_4->USMIA_4
+ID:1683 CNYTN->OMSLL Transported 93, trans in %: 100
+ Path CNYTN_21->AEJEA_21
+AEJEA_16->OMSLL_16
+ID:1688 CNYTN->MYTPP Transported 148.363, trans in %: 86.2578
+ Path CNYTN_21->MYTPP_21
+ID:1690 CNYTN->JPYOK Transported 12, trans in %: 100
+ Path CNYTN_21->JPYOK_21
+ID:1691 CNYTN->BEZEE Transported 185, trans in %: 100
+ Path CNYTN_27->ITGIT_27
+ITGIT_25->BEZEE_25
+ID:1695 JPYOK->NGAPP Transported 68, trans in %: 100
+ Path JPYOK_29->LKCMB_29
+LKCMB_22->GBFXT_22
+GBFXT_28->NGAPP_28
+ID:1696 JPYOK->NZAKL Transported 63, trans in %: 100
+ Path JPYOK_21->AEJEA_21
+AEJEA_9->NZAKL_9
+ID:1698 JPYOK->ESBCN Transported 80, trans in %: 100
+ Path JPYOK_29->LKCMB_29
+LKCMB_22->ESBCN_22
+ID:1703 JPYOK->LKCMB Transported 38, trans in %: 100
+ Path JPYOK_29->LKCMB_29
+ID:1705 JPYOK->GBFXT Transported 33, trans in %: 100
+ Path JPYOK_29->LKCMB_29
+LKCMB_22->GBFXT_22
+ID:1707 JPYOK->ECGYE Transported 3, trans in %: 100
+ Path JPYOK_29->LKCMB_29
+LKCMB_22->GBFXT_22
+GBFXT_0->ECGYE_0
+ID:1715 JPYOK->AOLAD Transported 12, trans in %: 100
+ Path JPYOK_29->LKCMB_29
+LKCMB_22->GBFXT_22
+GBFXT_28->NGAPP_28
+NGAPP_3->AOLAD_3
+ID:1723 JPYOK->EGPSD Transported 153, trans in %: 100
+ Path JPYOK_29->LKCMB_29
+LKCMB_22->EGPSD_22
+ID:1726 JPYOK->OMSLL Transported 45, trans in %: 100
+ Path JPYOK_21->AEJEA_21
+AEJEA_16->OMSLL_16
+ID:1730 JPYOK->SGSIN Transported 19, trans in %: 100
+ Path JPYOK_29->SGSIN_29
+ID:1733 JPYOK->CAVAN Transported 26.9078, trans in %: 23.1964
+ Path JPYOK_21->CAVAN_21
+ID:1744 BEZEE->LKCMB Transported 35, trans in %: 100
+ Path BEZEE_25->SAJED_25
+SAJED_19->LKCMB_19
+ID:1756 BEZEE->CNTAO Transported 3, trans in %: 100
+ Path BEZEE_25->ITGIT_25
+ITGIT_27->CNTAO_27
+ID:1758 BEZEE->CLSAI Transported 2, trans in %: 100
+ Path BEZEE_25->DEBRV_25
+DEBRV_17->CLSAI_17
+ID:1763 BEZEE->CNYTN Transported 2, trans in %: 100
+ Path BEZEE_25->ITGIT_25
+ITGIT_27->CNYTN_27
+ID:5 ESALG->DEBRV Transported 159, trans in %: 100
+ Path ESALG_25->DEBRV_25
+ID:6 ESALG->AUBNE Transported 17, trans in %: 100
+ Path ESALG_24->AEJEA_24
+AEJEA_9->AUBNE_9
+ID:32 ESALG->NLRTM Transported 69, trans in %: 100
+ Path ESALG_25->NLRTM_25
+ID:36 ESALG->CNSHA Transported 29, trans in %: 100
+ Path ESALG_24->AEJEA_24
+AEJEA_21->CNSHA_21
+ID:46 TRAMB->ESBCN Transported 1, trans in %: 100
+ Path TRAMB_5->ITGIT_5
+ITGIT_22->ESBCN_22
+ID:55 TRAMB->HKHKG Transported 29, trans in %: 100
+ Path TRAMB_6->MYPKG_6
+MYPKG_31->HKHKG_31
+ID:84 BEANR->USCHS Transported 10, trans in %: 100
+ Path BEANR_28->GBFXT_28
+GBFXT_33->USCHS_33
+ID:101 BEANR->MYPKG Transported 3, trans in %: 100
+ Path BEANR_19->LKCMB_19
+LKCMB_29->MYPKG_29
+ID:110 BEANR->SGSIN Transported 9, trans in %: 100
+ Path BEANR_19->SAJED_19
+SAJED_12->SGSIN_12
+ID:114 BEANR->JPYOK Transported 22, trans in %: 100
+ Path BEANR_19->SAJED_19
+SAJED_23->JPYOK_23
+ID:121 NGAPP->USCHS Transported 17, trans in %: 100
+ Path NGAPP_28->GBFXT_28
+GBFXT_33->USCHS_33
+ID:122 NGAPP->LKCMB Transported 153, trans in %: 100
+ Path NGAPP_16->AEJEA_16
+AEJEA_24->LKCMB_24
+ID:126 NGAPP->DEHAM Transported 2, trans in %: 100
+ Path NGAPP_28->GBFXT_28
+GBFXT_30->DEHAM_30
+ID:127 NGAPP->HKHKG Transported 43, trans in %: 100
+ Path NGAPP_16->AEJEA_16
+AEJEA_21->HKHKG_21
+ID:133 NGAPP->PAMIT Transported 4, trans in %: 100
+ Path NGAPP_28->DEBRV_28
+DEBRV_15->PAMIT_15
+ID:134 NGAPP->USMIA Transported 9, trans in %: 100
+ Path NGAPP_28->DEBRV_28
+DEBRV_15->USMIA_15
+ID:147 NGAPP->CNSHA Transported 110, trans in %: 100
+ Path NGAPP_16->AEJEA_16
+AEJEA_21->CNSHA_21
+ID:148 NGAPP->SGSIN Transported 2, trans in %: 100
+ Path NGAPP_16->AEJEA_16
+AEJEA_24->SGSIN_24
+ID:151 NGAPP->CNYTN Transported 16, trans in %: 100
+ Path NGAPP_16->AEJEA_16
+AEJEA_21->CNYTN_21
+ID:214 PABLB->USMIA Transported 3, trans in %: 100
+ Path PABLB_17->PAMIT_17
+PAMIT_15->USMIA_15
+ID:244 ESBCN->PAMIT Transported 4, trans in %: 100
+ Path ESBCN_22->NLRTM_22
+NLRTM_15->PAMIT_15
+ID:245 ESBCN->USMIA Transported 4, trans in %: 100
+ Path ESBCN_22->NLRTM_22
+NLRTM_15->USMIA_15
+ID:261 DEBRV->TRAMB Transported 219.008, trans in %: 76.5763
+ Path DEBRV_15->ESALG_15
+ESALG_6->TRAMB_6
+ID:271 DEBRV->GBFXT Transported 14, trans in %: 100
+ Path DEBRV_28->GBFXT_28
+ID:276 DEBRV->AEJEA Transported 387, trans in %: 100
+ Path DEBRV_25->ITGIT_25
+ITGIT_24->AEJEA_24
+ID:285 DEBRV->CAMTR Transported 153, trans in %: 100
+ Path DEBRV_28->NLRTM_28
+NLRTM_10->CAMTR_10
+ID:288 DEBRV->PKBQM Transported 205, trans in %: 100
+ Path DEBRV_25->SAJED_25
+SAJED_4->PKBQM_4
+ID:341 AUBNE->CAVAN Transported 30, trans in %: 100
+ Path AUBNE_18->CNSHA_18
+CNSHA_21->CAVAN_21
+ID:345 KRPUS->ESALG Transported 18.211, trans in %: 33.7241
+ Path KRPUS_23->SAJED_23
+SAJED_25->ESALG_25
+ID:375 KRPUS->EGPSD Transported 56.9918, trans in %: 20.2818
+ Path KRPUS_23->SAJED_23
+SAJED_26->EGPSD_26
+ID:377 KRPUS->NLRTM Transported 92, trans in %: 100
+ Path KRPUS_23->SAJED_23
+SAJED_25->NLRTM_25
+ID:395 USCHS->ESBCN Transported 30, trans in %: 100
+ Path USCHS_12->EGPSD_12
+EGPSD_22->ESBCN_22
+ID:397 USCHS->AUBNE Transported 211, trans in %: 100
+ Path USCHS_8->AUBNE_8
+ID:405 USCHS->HKHKG Transported 33.9918, trans in %: 30.0812
+ Path USCHS_12->MYTPP_12
+MYTPP_31->HKHKG_31
+ID:415 USCHS->EGPSD Transported 98, trans in %: 100
+ Path USCHS_12->EGPSD_12
+ID:431 LKCMB->NZAKL Transported 1, trans in %: 100
+ Path LKCMB_12->AEJEA_12
+AEJEA_9->NZAKL_9
+ID:435 LKCMB->AUBNE Transported 6, trans in %: 100
+ Path LKCMB_12->AEJEA_12
+AEJEA_9->AUBNE_9
+ID:468 LKCMB->CAVAN Transported 13, trans in %: 100
+ Path LKCMB_35->CNSHA_35
+CNSHA_21->CAVAN_21
+ID:525 GBFXT->ZADUR Transported 88, trans in %: 100
+ Path GBFXT_22->OMSLL_22
+OMSLL_16->ZADUR_16
+ID:531 GBFXT->SAJED Transported 54, trans in %: 100
+ Path GBFXT_22->SAJED_22
+ID:533 GBFXT->USLAX Transported 35, trans in %: 100
+ Path GBFXT_22->SAJED_22
+SAJED_23->USLAX_23
+ID:534 GBFXT->PAMIT Transported 22, trans in %: 100
+ Path GBFXT_9->DEBRV_9
+DEBRV_15->PAMIT_15
+ID:535 GBFXT->USMIA Transported 55, trans in %: 100
+ Path GBFXT_9->DEBRV_9
+DEBRV_15->USMIA_15
+ID:540 GBFXT->MYPKG Transported 4, trans in %: 100
+ Path GBFXT_22->OMSLL_22
+OMSLL_6->MYPKG_6
+ID:541 GBFXT->PKBQM Transported 67, trans in %: 100
+ Path GBFXT_22->SAJED_22
+SAJED_4->PKBQM_4
+ID:549 GBFXT->SGSIN Transported 2, trans in %: 100
+ Path GBFXT_22->SAJED_22
+SAJED_12->SGSIN_12
+ID:554 GBFXT->JPYOK Transported 11, trans in %: 100
+ Path GBFXT_22->SAJED_22
+SAJED_23->JPYOK_23
+ID:566 ITGIT->ZADUR Transported 103, trans in %: 100
+ Path ITGIT_5->OMSLL_5
+OMSLL_16->ZADUR_16
+ID:587 ITGIT->NLRTM Transported 68, trans in %: 100
+ Path ITGIT_25->NLRTM_25
+ID:595 ITGIT->CAVAN Transported 6, trans in %: 100
+ Path ITGIT_24->AEJEA_24
+AEJEA_21->CAVAN_21
+ID:636 DEHAM->KRPUS Transported 17, trans in %: 100
+ Path DEHAM_30->SAJED_30
+SAJED_12->MYTPP_12
+MYTPP_34->KRPUS_34
+ID:637 DEHAM->USCHS Transported 1, trans in %: 100
+ Path DEHAM_30->GBFXT_30
+GBFXT_33->USCHS_33
+ID:639 DEHAM->ZADUR Transported 2, trans in %: 100
+ Path DEHAM_30->SAJED_30
+SAJED_22->OMSLL_22
+OMSLL_16->ZADUR_16
+ID:650 DEHAM->MYPKG Transported 28.9918, trans in %: 38.1471
+ Path DEHAM_30->SAJED_30
+SAJED_12->MYTPP_12
+MYTPP_31->MYPKG_31
+ID:654 DEHAM->CNTAO Transported 6, trans in %: 100
+ Path DEHAM_30->SAJED_30
+SAJED_12->MYTPP_12
+MYTPP_31->CNTAO_31
+ID:661 DEHAM->MYTPP Transported 10, trans in %: 100
+ Path DEHAM_30->SAJED_30
+SAJED_12->MYTPP_12
+ID:720 INNSA->ZADUR Transported 309, trans in %: 100
+ Path INNSA_7->AEJEA_7
+AEJEA_16->ZADUR_16
+ID:725 INNSA->HKHKG Transported 26, trans in %: 100
+ Path INNSA_7->TWKHH_7
+TWKHH_31->HKHKG_31
+ID:798 SAJED->BEANR Transported 14, trans in %: 100
+ Path SAJED_25->DEBRV_25
+DEBRV_28->BEANR_28
+ID:805 SAJED->KRPUS Transported 5, trans in %: 100
+ Path SAJED_12->MYTPP_12
+MYTPP_34->KRPUS_34
+ID:819 SAJED->PAMIT Transported 2, trans in %: 100
+ Path SAJED_25->DEBRV_25
+DEBRV_15->PAMIT_15
+ID:820 SAJED->USMIA Transported 3, trans in %: 100
+ Path SAJED_25->DEBRV_25
+DEBRV_15->USMIA_15
+ID:828 SAJED->CNTAO Transported 17, trans in %: 100
+ Path SAJED_12->MYTPP_12
+MYTPP_31->CNTAO_31
+ID:836 SAJED->MYTPP Transported 46, trans in %: 100
+ Path SAJED_12->MYTPP_12
+ID:837 SAJED->CAVAN Transported 2, trans in %: 100
+ Path SAJED_19->CNSHA_19
+CNSHA_21->CAVAN_21
+ID:856 TWKHH->DEHAM Transported 45, trans in %: 100
+ Path TWKHH_34->KRPUS_34
+KRPUS_23->SAJED_23
+SAJED_30->DEHAM_30
+ID:860 TWKHH->SAJED Transported 7, trans in %: 100
+ Path TWKHH_34->KRPUS_34
+KRPUS_23->SAJED_23
+ID:873 TWKHH->OMSLL Transported 8, trans in %: 100
+ Path TWKHH_34->MYPKG_34
+MYPKG_9->OMSLL_9
+ID:899 USLAX->TWKHH Transported 181.992, trans in %: 78.1081
+ Path USLAX_23->KRPUS_23
+KRPUS_34->TWKHH_34
+ID:905 USLAX->EGPSD Transported 1, trans in %: 100
+ Path USLAX_23->SAJED_23
+SAJED_26->EGPSD_26
+ID:907 USLAX->NLRTM Transported 1, trans in %: 100
+ Path USLAX_23->SAJED_23
+SAJED_25->NLRTM_25
+ID:911 USLAX->SGSIN Transported 29, trans in %: 100
+ Path USLAX_23->KRPUS_23
+KRPUS_34->SGSIN_34
+ID:920 AOLAD->HKHKG Transported 10, trans in %: 100
+ Path AOLAD_3->NGAPP_3
+NGAPP_16->AEJEA_16
+AEJEA_21->HKHKG_21
+ID:927 AOLAD->CNSHA Transported 7, trans in %: 100
+ Path AOLAD_3->NGAPP_3
+NGAPP_16->AEJEA_16
+AEJEA_21->CNSHA_21
+ID:928 AOLAD->SGSIN Transported 2, trans in %: 100
+ Path AOLAD_3->NGAPP_3
+NGAPP_16->AEJEA_16
+AEJEA_24->SGSIN_24
+ID:929 AOLAD->MYTPP Transported 5, trans in %: 100
+ Path AOLAD_3->NGAPP_3
+NGAPP_16->AEJEA_16
+AEJEA_24->MYTPP_24
+ID:930 AOLAD->CAVAN Transported 1, trans in %: 100
+ Path AOLAD_3->NGAPP_3
+NGAPP_16->AEJEA_16
+AEJEA_21->CAVAN_21
+ID:931 AOLAD->CNYTN Transported 4, trans in %: 100
+ Path AOLAD_3->NGAPP_3
+NGAPP_16->AEJEA_16
+AEJEA_21->CNYTN_21
+ID:943 PAMIT->LKCMB Transported 10, trans in %: 100
+ Path PAMIT_14->GBFXT_14
+GBFXT_22->LKCMB_22
+ID:948 PAMIT->DEHAM Transported 9, trans in %: 100
+ Path PAMIT_14->GBFXT_14
+GBFXT_30->DEHAM_30
+ID:954 PAMIT->USMIA Transported 116, trans in %: 100
+ Path PAMIT_15->USMIA_15
+ID:1046 UYMVD->DEBRV Transported 155.805, trans in %: 42.8035
+ Path UYMVD_1->ITGIT_1
+ITGIT_25->DEBRV_25
+ID:1081 CAMTR->LKCMB Transported 21, trans in %: 100
+ Path CAMTR_10->EGPSD_10
+EGPSD_24->LKCMB_24
+ID:1082 CAMTR->ZADUR Transported 6, trans in %: 100
+ Path CAMTR_10->EGPSD_10
+EGPSD_24->AEJEA_24
+AEJEA_16->ZADUR_16
+ID:1114 USEWR->PAMIT Transported 47, trans in %: 100
+ Path USEWR_13->PAMIT_13
+ID:1176 PKBQM->DEBRV Transported 90, trans in %: 100
+ Path PKBQM_7->SAJED_7
+SAJED_25->DEBRV_25
+ID:1212 EGPSD->KRPUS Transported 8, trans in %: 100
+ Path EGPSD_12->MYTPP_12
+MYTPP_34->KRPUS_34
+ID:1214 EGPSD->LKCMB Transported 22, trans in %: 100
+ Path EGPSD_24->LKCMB_24
+ID:1215 EGPSD->ZADUR Transported 63, trans in %: 100
+ Path EGPSD_24->AEJEA_24
+AEJEA_16->ZADUR_16
+ID:1227 EGPSD->KEMBA Transported 78, trans in %: 100
+ Path EGPSD_24->AEJEA_24
+AEJEA_16->ZADUR_16
+ZADUR_2->KEMBA_2
+ID:1228 EGPSD->USEWR Transported 45, trans in %: 100
+ Path EGPSD_24->ESALG_24
+ESALG_17->USEWR_17
+ID:1229 EGPSD->MYPKG Transported 1, trans in %: 100
+ Path EGPSD_12->MYTPP_12
+MYTPP_11->MYPKG_11
+ID:1249 MAPTM->LKCMB Transported 3, trans in %: 100
+ Path MAPTM_30->SAJED_30
+SAJED_19->LKCMB_19
+ID:1261 MAPTM->PKBQM Transported 3, trans in %: 100
+ Path MAPTM_30->SAJED_30
+SAJED_4->PKBQM_4
+ID:1328 NLRTM->AEJEA Transported 228.195, trans in %: 64.2804
+ Path NLRTM_10->EGPSD_10
+EGPSD_24->AEJEA_24
+ID:1329 NLRTM->SAJED Transported 220.025, trans in %: 63.7752
+ Path NLRTM_25->SAJED_25
+ID:1331 NLRTM->USLAX Transported 71, trans in %: 100
+ Path NLRTM_25->SAJED_25
+SAJED_23->USLAX_23
+ID:1340 NLRTM->PKBQM Transported 1, trans in %: 1.16279
+ Path NLRTM_10->EGPSD_10
+EGPSD_1->PKBQM_1
+ID:1353 NLRTM->JPYOK Transported 40.9918, trans in %: 6.17346
+ Path NLRTM_25->SAJED_25
+SAJED_23->JPYOK_23
+ID:1359 OMSLL->PABLB Transported 3, trans in %: 100
+ Path OMSLL_24->ESALG_24
+ESALG_17->PABLB_17
+ID:1366 OMSLL->ITGIT Transported 49, trans in %: 100
+ Path OMSLL_24->ITGIT_24
+ID:1375 OMSLL->PAMIT Transported 4, trans in %: 100
+ Path OMSLL_24->ESALG_24
+ESALG_15->PAMIT_15
+ID:1376 OMSLL->USMIA Transported 2, trans in %: 100
+ Path OMSLL_24->ESALG_24
+ESALG_15->USMIA_15
+ID:1378 OMSLL->USEWR Transported 19, trans in %: 100
+ Path OMSLL_24->ESALG_24
+ESALG_17->USEWR_17
+ID:1384 OMSLL->CLSAI Transported 3, trans in %: 100
+ Path OMSLL_24->ESALG_24
+ESALG_17->CLSAI_17
+ID:1410 CLSAI->HKHKG Transported 36, trans in %: 100
+ Path CLSAI_8->CNTAO_8
+CNTAO_31->HKHKG_31
+ID:1428 BRSSZ->TRAMB Transported 45, trans in %: 100
+ Path BRSSZ_14->ESALG_14
+ESALG_6->TRAMB_6
+ID:1434 BRSSZ->KRPUS Transported 62, trans in %: 100
+ Path BRSSZ_14->GBFXT_14
+GBFXT_19->CNSHA_19
+CNSHA_18->KRPUS_18
+ID:1439 BRSSZ->ECGYE Transported 2, trans in %: 100
+ Path BRSSZ_14->GBFXT_14
+GBFXT_0->ECGYE_0
+ID:1441 BRSSZ->HKHKG Transported 106, trans in %: 100
+ Path BRSSZ_14->GBFXT_14
+GBFXT_19->HKHKG_19
+ID:1452 BRSSZ->EGPSD Transported 89.8046, trans in %: 73.0119
+ Path BRSSZ_14->NLRTM_14
+NLRTM_10->EGPSD_10
+ID:1458 BRSSZ->CNSHA Transported 31, trans in %: 100
+ Path BRSSZ_14->GBFXT_14
+GBFXT_19->CNSHA_19
+ID:1460 BRSSZ->GHTKD Transported 40, trans in %: 100
+ Path BRSSZ_13->NGAPP_13
+NGAPP_0->GHTKD_0
+ID:1461 BRSSZ->MYTPP Transported 36, trans in %: 92.3077
+ Path BRSSZ_14->ESALG_14
+ESALG_24->MYTPP_24
+ID:1464 BRSSZ->BEZEE Transported 14, trans in %: 100
+ Path BRSSZ_14->ESALG_14
+ESALG_25->BEZEE_25
+ID:1465 CNSHA->ESALG Transported 434.338, trans in %: 80.2844
+ Path CNSHA_23->SAJED_23
+SAJED_25->ESALG_25
+ID:1485 CNSHA->TWKHH Transported 2, trans in %: 100
+ Path CNSHA_35->TWKHH_35
+ID:1505 CNSHA->CNYTN Transported 2, trans in %: 100
+ Path CNSHA_35->CNYTN_35
+ID:1547 SGSIN->CAVAN Transported 11, trans in %: 100
+ Path SGSIN_35->CNSHA_35
+CNSHA_21->CAVAN_21
+ID:1552 GHTKD->BEANR Transported 15, trans in %: 100
+ Path GHTKD_3->NGAPP_3
+NGAPP_28->BEANR_28
+ID:1556 GHTKD->USCHS Transported 1, trans in %: 100
+ Path GHTKD_3->NGAPP_3
+NGAPP_28->GBFXT_28
+GBFXT_33->USCHS_33
+ID:1557 GHTKD->LKCMB Transported 78, trans in %: 100
+ Path GHTKD_3->NGAPP_3
+NGAPP_16->AEJEA_16
+AEJEA_24->LKCMB_24
+ID:1559 GHTKD->GBFXT Transported 9, trans in %: 100
+ Path GHTKD_3->NGAPP_3
+NGAPP_28->GBFXT_28
+ID:1561 GHTKD->ECGYE Transported 3, trans in %: 100
+ Path GHTKD_3->NGAPP_3
+NGAPP_28->GBFXT_28
+GBFXT_0->ECGYE_0
+ID:1562 GHTKD->DEHAM Transported 8, trans in %: 100
+ Path GHTKD_3->NGAPP_3
+NGAPP_28->GBFXT_28
+GBFXT_30->DEHAM_30
+ID:1563 GHTKD->HKHKG Transported 40, trans in %: 100
+ Path GHTKD_3->NGAPP_3
+NGAPP_16->AEJEA_16
+AEJEA_21->HKHKG_21
+ID:1564 GHTKD->INNSA Transported 11, trans in %: 11.3402
+ Path GHTKD_0->EGPSD_0
+EGPSD_1->INNSA_1
+ID:1568 GHTKD->PKBQM Transported 3, trans in %: 100
+ Path GHTKD_0->EGPSD_0
+EGPSD_1->PKBQM_1
+ID:1572 GHTKD->NLRTM Transported 25, trans in %: 100
+ Path GHTKD_3->NGAPP_3
+NGAPP_28->NLRTM_28
+ID:1573 GHTKD->CNSHA Transported 62, trans in %: 100
+ Path GHTKD_3->NGAPP_3
+NGAPP_16->AEJEA_16
+AEJEA_21->CNSHA_21
+ID:1576 GHTKD->CNYTN Transported 3, trans in %: 100
+ Path GHTKD_3->NGAPP_3
+NGAPP_16->AEJEA_16
+AEJEA_21->CNYTN_21
+ID:1596 MYTPP->HKHKG Transported 170.008, trans in %: 63.6735
+ Path MYTPP_31->HKHKG_31
+ID:1613 MYTPP->NLRTM Transported 355, trans in %: 46.5879
+ Path MYTPP_23->SAJED_23
+SAJED_25->NLRTM_25
+ID:1643 CAVAN->NLRTM Transported 1, trans in %: 100
+ Path CAVAN_23->SAJED_23
+SAJED_25->NLRTM_25
+ID:1648 CAVAN->CNYTN Transported 71, trans in %: 100
+ Path CAVAN_23->KRPUS_23
+KRPUS_34->CNYTN_34
+ID:1701 JPYOK->KRPUS Transported 59, trans in %: 100
+ Path JPYOK_35->TWKHH_35
+TWKHH_34->KRPUS_34
+ID:1708 JPYOK->DEHAM Transported 43, trans in %: 100
+ Path JPYOK_21->MYTPP_21
+MYTPP_23->SAJED_23
+SAJED_30->DEHAM_30
+ID:1712 JPYOK->SAJED Transported 41, trans in %: 100
+ Path JPYOK_21->MYTPP_21
+MYTPP_23->SAJED_23
+ID:1733 JPYOK->CAVAN Transported 89.0922, trans in %: 76.8036
+ Path JPYOK_29->CNSHA_29
+CNSHA_21->CAVAN_21
+ID:1738 BEZEE->BEANR Transported 11, trans in %: 100
+ Path BEZEE_25->DEBRV_25
+DEBRV_28->BEANR_28
+ID:1749 BEZEE->AEJEA Transported 86, trans in %: 100
+ Path BEZEE_25->ITGIT_25
+ITGIT_24->AEJEA_24
+ID:13 ESALG->ECGYE Transported 8, trans in %: 100
+ Path ESALG_25->DEBRV_25
+DEBRV_0->ECGYE_0
+ID:28 ESALG->PKBQM Transported 26, trans in %: 100
+ Path ESALG_24->AEJEA_24
+AEJEA_7->PKBQM_7
+ID:50 TRAMB->USCHS Transported 18, trans in %: 100
+ Path TRAMB_0->GBFXT_0
+GBFXT_33->USCHS_33
+ID:58 TRAMB->SAJED Transported 53, trans in %: 100
+ Path TRAMB_5->ITGIT_5
+ITGIT_9->SAJED_9
+ID:83 BEANR->KRPUS Transported 12, trans in %: 100
+ Path BEANR_19->CNSHA_19
+CNSHA_35->KRPUS_35
+ID:86 BEANR->ZADUR Transported 159, trans in %: 100
+ Path BEANR_19->ZADUR_19
+ID:99 BEANR->CAMTR Transported 11, trans in %: 100
+ Path BEANR_13->NLRTM_13
+NLRTM_10->CAMTR_10
+ID:103 BEANR->EGPSD Transported 1, trans in %: 100
+ Path BEANR_19->SAJED_19
+SAJED_33->EGPSD_33
+ID:104 BEANR->MAPTM Transported 2, trans in %: 100
+ Path BEANR_28->GBFXT_28
+GBFXT_30->MAPTM_30
+ID:130 NGAPP->SAJED Transported 16, trans in %: 100
+ Path NGAPP_13->ITGIT_13
+ITGIT_9->SAJED_9
+ID:137 NGAPP->CAMTR Transported 4, trans in %: 100
+ Path NGAPP_28->NLRTM_28
+NLRTM_10->CAMTR_10
+ID:139 NGAPP->MYPKG Transported 32, trans in %: 96.9697
+ Path NGAPP_16->OMSLL_16
+OMSLL_6->MYPKG_6
+ID:140 NGAPP->PKBQM Transported 1, trans in %: 100
+ Path NGAPP_16->AEJEA_16
+AEJEA_7->PKBQM_7
+ID:150 NGAPP->MYTPP Transported 210, trans in %: 100
+ Path NGAPP_16->AEJEA_16
+AEJEA_24->MYTPP_24
+ID:153 NGAPP->BEZEE Transported 1, trans in %: 100
+ Path NGAPP_13->ESALG_13
+ESALG_25->BEZEE_25
+ID:165 NZAKL->ZADUR Transported 5, trans in %: 100
+ Path NZAKL_18->CNSHA_18
+CNSHA_19->ZADUR_19
+ID:194 NZAKL->CAVAN Transported 6, trans in %: 100
+ Path NZAKL_18->CNSHA_18
+CNSHA_21->CAVAN_21
+ID:199 PABLB->BEANR Transported 3, trans in %: 100
+ Path PABLB_17->DEBRV_17
+DEBRV_28->BEANR_28
+ID:235 ESBCN->USCHS Transported 4, trans in %: 100
+ Path ESBCN_22->GBFXT_22
+GBFXT_33->USCHS_33
+ID:238 ESBCN->ITGIT Transported 14, trans in %: 100
+ Path ESBCN_22->SAJED_22
+SAJED_6->ITGIT_6
+ID:249 ESBCN->EGPSD Transported 3, trans in %: 100
+ Path ESBCN_22->SAJED_22
+SAJED_33->EGPSD_33
+ID:260 DEBRV->ESALG Transported 150, trans in %: 100
+ Path DEBRV_17->ESALG_17
+ID:261 DEBRV->TRAMB Transported 46.7964, trans in %: 16.3624
+ Path DEBRV_25->SAJED_25
+SAJED_6->TRAMB_6
+ID:269 DEBRV->LKCMB Transported 231, trans in %: 100
+ Path DEBRV_25->SAJED_25
+SAJED_22->LKCMB_22
+ID:289 DEBRV->EGPSD Transported 146.008, trans in %: 45.2038
+ Path DEBRV_25->SAJED_25
+SAJED_26->EGPSD_26
+ID:330 AUBNE->PKBQM Transported 20, trans in %: 100
+ Path AUBNE_12->AEJEA_12
+AEJEA_7->PKBQM_7
+ID:334 AUBNE->OMSLL Transported 7.916, trans in %: 28.2714
+ Path AUBNE_12->AEJEA_12
+AEJEA_16->OMSLL_16
+ID:353 KRPUS->AUBNE Transported 174, trans in %: 100
+ Path KRPUS_23->MYTPP_23
+MYTPP_12->AUBNE_12
+ID:356 KRPUS->ZADUR Transported 215, trans in %: 100
+ Path KRPUS_23->CNSHA_23
+CNSHA_19->ZADUR_19
+ID:363 KRPUS->AEJEA Transported 246, trans in %: 100
+ Path KRPUS_23->MYTPP_23
+MYTPP_21->AEJEA_21
+ID:391 USCHS->BEANR Transported 13, trans in %: 100
+ Path USCHS_15->DEBRV_15
+DEBRV_28->BEANR_28
+ID:392 USCHS->NGAPP Transported 101, trans in %: 100
+ Path USCHS_15->DEBRV_15
+DEBRV_28->NGAPP_28
+ID:421 USCHS->CNSHA Transported 194, trans in %: 98.9796
+ Path USCHS_8->CNTAO_8
+CNTAO_32->CNSHA_32
+ID:448 LKCMB->USLAX Transported 64, trans in %: 100
+ Path LKCMB_29->JPYOK_29
+JPYOK_23->USLAX_23
+ID:478 ZADUR->ESBCN Transported 15, trans in %: 100
+ Path ZADUR_19->SAJED_19
+SAJED_26->EGPSD_26
+EGPSD_22->ESBCN_22
+ID:479 ZADUR->DEBRV Transported 24, trans in %: 9.56175
+ Path ZADUR_19->GBFXT_19
+GBFXT_9->DEBRV_9
+ID:480 ZADUR->AUBNE Transported 6, trans in %: 100
+ Path ZADUR_16->MYTPP_16
+MYTPP_12->AUBNE_12
+ID:482 ZADUR->USCHS Transported 150, trans in %: 100
+ Path ZADUR_19->GBFXT_19
+GBFXT_33->USCHS_33
+ID:485 ZADUR->ITGIT Transported 100, trans in %: 100
+ Path ZADUR_19->SAJED_19
+SAJED_6->ITGIT_6
+ID:487 ZADUR->DEHAM Transported 7, trans in %: 100
+ Path ZADUR_19->GBFXT_19
+GBFXT_30->DEHAM_30
+ID:500 ZADUR->EGPSD Transported 9, trans in %: 100
+ Path ZADUR_19->SAJED_19
+SAJED_26->EGPSD_26
+ID:511 ZADUR->CAVAN Transported 2, trans in %: 100
+ Path ZADUR_19->CNSHA_19
+CNSHA_21->CAVAN_21
+ID:515 GBFXT->TRAMB Transported 20, trans in %: 100
+ Path GBFXT_22->SAJED_22
+SAJED_6->TRAMB_6
+ID:524 GBFXT->LKCMB Transported 80, trans in %: 100
+ Path GBFXT_22->LKCMB_22
+ID:538 GBFXT->CAMTR Transported 3, trans in %: 100
+ Path GBFXT_33->EGPSD_33
+EGPSD_10->CAMTR_10
+ID:542 GBFXT->EGPSD Transported 54, trans in %: 100
+ Path GBFXT_33->EGPSD_33
+ID:551 GBFXT->MYTPP Transported 53, trans in %: 100
+ Path GBFXT_22->SAJED_22
+SAJED_12->MYTPP_12
+ID:692 HKHKG->MYPKG Transported 12, trans in %: 100
+ Path HKHKG_11->MYPKG_11
+ID:753 AEJEA->TRAMB Transported 38, trans in %: 100
+ Path AEJEA_6->TRAMB_6
+ID:770 AEJEA->SAJED Transported 30, trans in %: 15.873
+ Path AEJEA_6->SAJED_6
+ID:802 SAJED->ESBCN Transported 2, trans in %: 100
+ Path SAJED_33->EGPSD_33
+EGPSD_22->ESBCN_22
+ID:823 SAJED->CAMTR Transported 5, trans in %: 100
+ Path SAJED_33->EGPSD_33
+EGPSD_10->CAMTR_10
+ID:826 SAJED->EGPSD Transported 47, trans in %: 100
+ Path SAJED_33->EGPSD_33
+ID:852 TWKHH->ZADUR Transported 49, trans in %: 100
+ Path TWKHH_18->CNSHA_18
+CNSHA_19->ZADUR_19
+ID:891 USLAX->ZADUR Transported 15, trans in %: 100
+ Path USLAX_23->CNSHA_23
+CNSHA_19->ZADUR_19
+ID:897 USLAX->AEJEA Transported 13, trans in %: 100
+ Path USLAX_23->MYTPP_23
+MYTPP_21->AEJEA_21
+ID:902 USLAX->KEMBA Transported 6, trans in %: 100
+ Path USLAX_23->CNSHA_23
+CNSHA_19->ZADUR_19
+ZADUR_2->KEMBA_2
+ID:918 AOLAD->KRPUS Transported 1, trans in %: 100
+ Path AOLAD_3->NGAPP_3
+NGAPP_16->OMSLL_16
+OMSLL_6->MYPKG_6
+MYPKG_34->KRPUS_34
+ID:924 AOLAD->MYPKG Transported 2, trans in %: 100
+ Path AOLAD_3->NGAPP_3
+NGAPP_16->OMSLL_16
+OMSLL_6->MYPKG_6
+ID:934 PAMIT->BEANR Transported 13, trans in %: 100
+ Path PAMIT_17->DEBRV_17
+DEBRV_28->BEANR_28
+ID:938 PAMIT->ESBCN Transported 5, trans in %: 100
+ Path PAMIT_4->EGPSD_4
+EGPSD_22->ESBCN_22
+ID:955 PAMIT->UYMVD Transported 3, trans in %: 100
+ Path PAMIT_14->MAPTM_14
+MAPTM_1->UYMVD_1
+ID:969 PAMIT->BEZEE Transported 4, trans in %: 100
+ Path PAMIT_17->ESALG_17
+ESALG_25->BEZEE_25
+ID:972 USMIA->BEANR Transported 18, trans in %: 100
+ Path USMIA_15->DEBRV_15
+DEBRV_28->BEANR_28
+ID:973 USMIA->NGAPP Transported 98, trans in %: 100
+ Path USMIA_15->DEBRV_15
+DEBRV_28->NGAPP_28
+ID:976 USMIA->ESBCN Transported 2, trans in %: 100
+ Path USMIA_4->EGPSD_4
+EGPSD_22->ESBCN_22
+ID:980 USMIA->LKCMB Transported 17, trans in %: 100
+ Path USMIA_4->SAJED_4
+SAJED_22->LKCMB_22
+ID:991 USMIA->AOLAD Transported 21, trans in %: 100
+ Path USMIA_15->DEBRV_15
+DEBRV_28->NGAPP_28
+NGAPP_3->AOLAD_3
+ID:1003 USMIA->GHTKD Transported 9.9836, trans in %: 39.9344
+ Path USMIA_15->DEBRV_15
+DEBRV_28->NGAPP_28
+NGAPP_3->GHTKD_3
+ID:1004 USMIA->MYTPP Transported 1, trans in %: 100
+ Path USMIA_4->SAJED_4
+SAJED_12->MYTPP_12
+ID:1014 KEMBA->USCHS Transported 14, trans in %: 100
+ Path KEMBA_2->ZADUR_2
+ZADUR_19->GBFXT_19
+GBFXT_33->USCHS_33
+ID:1018 KEMBA->ITGIT Transported 21, trans in %: 100
+ Path KEMBA_2->ZADUR_2
+ZADUR_19->SAJED_19
+SAJED_6->ITGIT_6
+ID:1019 KEMBA->DEHAM Transported 1, trans in %: 100
+ Path KEMBA_2->ZADUR_2
+ZADUR_19->GBFXT_19
+GBFXT_30->DEHAM_30
+ID:1037 KEMBA->CAVAN Transported 2, trans in %: 100
+ Path KEMBA_2->ZADUR_2
+ZADUR_19->CNSHA_19
+CNSHA_21->CAVAN_21
+ID:1044 UYMVD->NGAPP Transported 59, trans in %: 100
+ Path UYMVD_1->EGPSD_1
+EGPSD_10->NLRTM_10
+NLRTM_28->NGAPP_28
+ID:1047 UYMVD->AUBNE Transported 22, trans in %: 100
+ Path UYMVD_1->EGPSD_1
+EGPSD_12->AUBNE_12
+ID:1056 UYMVD->SAJED Transported 19, trans in %: 100
+ Path UYMVD_1->EGPSD_1
+EGPSD_4->SAJED_4
+ID:1070 UYMVD->SGSIN Transported 12, trans in %: 100
+ Path UYMVD_1->EGPSD_1
+EGPSD_12->SGSIN_12
+ID:1072 UYMVD->MYTPP Transported 10, trans in %: 100
+ Path UYMVD_1->EGPSD_1
+EGPSD_12->MYTPP_12
+ID:1097 USEWR->BEANR Transported 14, trans in %: 100
+ Path USEWR_17->DEBRV_17
+DEBRV_28->BEANR_28
+ID:1117 USEWR->EGPSD Transported 17, trans in %: 100
+ Path USEWR_13->PAMIT_13
+PAMIT_4->EGPSD_4
+ID:1120 USEWR->NLRTM Transported 62.3312, trans in %: 80.9496
+ Path USEWR_13->PAMIT_13
+PAMIT_15->NLRTM_15
+ID:1140 MYPKG->ZADUR Transported 35, trans in %: 100
+ Path MYPKG_29->CNSHA_29
+CNSHA_19->ZADUR_19
+ID:1166 MYPKG->CAVAN Transported 26, trans in %: 100
+ Path MYPKG_29->CNSHA_29
+CNSHA_21->CAVAN_21
+ID:1197 PKBQM->OMSLL Transported 3, trans in %: 60
+ Path PKBQM_5->AEJEA_5
+AEJEA_16->OMSLL_16
+ID:1206 EGPSD->BEANR Transported 20, trans in %: 100
+ Path EGPSD_10->NLRTM_10
+NLRTM_28->BEANR_28
+ID:1207 EGPSD->NGAPP Transported 147, trans in %: 100
+ Path EGPSD_10->NLRTM_10
+NLRTM_28->NGAPP_28
+ID:1245 MAPTM->ESBCN Transported 1, trans in %: 100
+ Path MAPTM_30->SAJED_30
+SAJED_33->EGPSD_33
+EGPSD_22->ESBCN_22
+ID:1282 CNTAO->ZADUR Transported 264, trans in %: 100
+ Path CNTAO_18->CNSHA_18
+CNSHA_19->ZADUR_19
+ID:1328 NLRTM->AEJEA Transported 126.805, trans in %: 35.7196
+ Path NLRTM_25->ITGIT_25
+ITGIT_24->AEJEA_24
+ID:1363 OMSLL->LKCMB Transported 32, trans in %: 100
+ Path OMSLL_22->LKCMB_22
+ID:1373 OMSLL->USLAX Transported 1, trans in %: 100
+ Path OMSLL_6->MYPKG_6
+MYPKG_29->JPYOK_29
+JPYOK_23->USLAX_23
+ID:1387 OMSLL->SGSIN Transported 42, trans in %: 100
+ Path OMSLL_6->MYPKG_6
+MYPKG_34->SGSIN_34
+ID:1389 OMSLL->MYTPP Transported 27, trans in %: 100
+ Path OMSLL_6->MYPKG_6
+MYPKG_34->MYTPP_34
+ID:1396 CLSAI->BEANR Transported 12, trans in %: 100
+ Path CLSAI_17->DEBRV_17
+DEBRV_28->BEANR_28
+ID:1397 CLSAI->NGAPP Transported 5, trans in %: 100
+ Path CLSAI_17->DEBRV_17
+DEBRV_28->NGAPP_28
+ID:1400 CLSAI->ESBCN Transported 10, trans in %: 100
+ Path CLSAI_17->DEBRV_17
+DEBRV_25->ITGIT_25
+ITGIT_22->ESBCN_22
+ID:1407 CLSAI->ITGIT Transported 37, trans in %: 100
+ Path CLSAI_17->DEBRV_17
+DEBRV_25->ITGIT_25
+ID:1415 CLSAI->AOLAD Transported 2, trans in %: 100
+ Path CLSAI_17->DEBRV_17
+DEBRV_28->NGAPP_28
+NGAPP_3->AOLAD_3
+ID:1451 BRSSZ->PKBQM Transported 31, trans in %: 100
+ Path BRSSZ_13->NGAPP_13
+NGAPP_16->AEJEA_16
+AEJEA_7->PKBQM_7
+ID:1452 BRSSZ->EGPSD Transported 33.1954, trans in %: 26.9881
+ Path BRSSZ_14->PAMIT_14
+PAMIT_4->EGPSD_4
+ID:1473 CNSHA->AUBNE Transported 145, trans in %: 62.7706
+ Path CNSHA_23->MYTPP_23
+MYTPP_12->AUBNE_12
+ID:1474 CNSHA->KRPUS Transported 3, trans in %: 100
+ Path CNSHA_35->KRPUS_35
+ID:1515 SGSIN->AUBNE Transported 84, trans in %: 100
+ Path SGSIN_12->AUBNE_12
+ID:1555 GHTKD->KRPUS Transported 8, trans in %: 100
+ Path GHTKD_0->ITGIT_0
+ITGIT_27->TWKHH_27
+TWKHH_34->KRPUS_34
+ID:1574 GHTKD->SGSIN Transported 48, trans in %: 100
+ Path GHTKD_0->EGPSD_0
+EGPSD_12->SGSIN_12
+ID:1575 GHTKD->MYTPP Transported 37, trans in %: 33.945
+ Path GHTKD_0->EGPSD_0
+EGPSD_12->MYTPP_12
+ID:1587 MYTPP->AUBNE Transported 301, trans in %: 100
+ Path MYTPP_12->AUBNE_12
+ID:1601 MYTPP->USLAX Transported 991, trans in %: 100
+ Path MYTPP_29->JPYOK_29
+JPYOK_23->USLAX_23
+ID:1662 CNYTN->ZADUR Transported 164, trans in %: 65.3386
+ Path CNYTN_21->CNSHA_21
+CNSHA_19->ZADUR_19
+ID:1722 JPYOK->PKBQM Transported 67, trans in %: 100
+ Path JPYOK_21->AEJEA_21
+AEJEA_7->PKBQM_7
+ID:1728 JPYOK->BRSSZ Transported 92, trans in %: 100
+ Path JPYOK_18->PABLB_18
+PABLB_13->BRSSZ_13
+ID:1739 BEZEE->NGAPP Transported 4, trans in %: 100
+ Path BEZEE_25->DEBRV_25
+DEBRV_28->NGAPP_28
+ID:1754 BEZEE->EGPSD Transported 5, trans in %: 100
+ Path BEZEE_25->SAJED_25
+SAJED_33->EGPSD_33
+ID:1755 BEZEE->MAPTM Transported 3, trans in %: 100
+ Path BEZEE_25->DEBRV_25
+DEBRV_26->MAPTM_26
+ID:10 ESALG->ZADUR Transported 79, trans in %: 100
+ Path ESALG_24->AEJEA_24
+AEJEA_16->ZADUR_16
+ID:15 ESALG->HKHKG Transported 41, trans in %: 100
+ Path ESALG_24->AEJEA_24
+AEJEA_21->HKHKG_21
+ID:25 ESALG->CAMTR Transported 3, trans in %: 100
+ Path ESALG_25->NLRTM_25
+NLRTM_10->CAMTR_10
+ID:33 ESALG->OMSLL Transported 8, trans in %: 100
+ Path ESALG_30->SAJED_30
+SAJED_22->OMSLL_22
+ID:40 ESALG->CNYTN Transported 18, trans in %: 100
+ Path ESALG_24->MYTPP_24
+MYTPP_34->CNYTN_34
+ID:42 TRAMB->ESALG Transported 2, trans in %: 100
+ Path TRAMB_0->GBFXT_0
+GBFXT_14->ESALG_14
+ID:43 TRAMB->BEANR Transported 3, trans in %: 100
+ Path TRAMB_0->GBFXT_0
+GBFXT_19->BEANR_19
+ID:44 TRAMB->NGAPP Transported 20, trans in %: 100
+ Path TRAMB_0->GBFXT_0
+GBFXT_28->NGAPP_28
+ID:61 TRAMB->USMIA Transported 9, trans in %: 100
+ Path TRAMB_0->DEBRV_0
+DEBRV_15->USMIA_15
+ID:64 TRAMB->USEWR Transported 21, trans in %: 100
+ Path TRAMB_0->DEBRV_0
+DEBRV_17->USEWR_17
+ID:91 BEANR->AEJEA Transported 66, trans in %: 100
+ Path BEANR_19->LKCMB_19
+LKCMB_12->AEJEA_12
+ID:112 BEANR->MYTPP Transported 16, trans in %: 100
+ Path BEANR_19->SAJED_19
+SAJED_12->MYTPP_12
+ID:116 NGAPP->TRAMB Transported 2, trans in %: 100
+ Path NGAPP_13->ESALG_13
+ESALG_6->TRAMB_6
+ID:128 NGAPP->INNSA Transported 88, trans in %: 100
+ Path NGAPP_16->OMSLL_16
+OMSLL_5->INNSA_5
+ID:142 NGAPP->MAPTM Transported 12, trans in %: 100
+ Path NGAPP_28->GBFXT_28
+GBFXT_30->MAPTM_30
+ID:152 NGAPP->JPYOK Transported 16, trans in %: 100
+ Path NGAPP_16->AEJEA_16
+AEJEA_21->JPYOK_21
+ID:210 PABLB->INNSA Transported 50, trans in %: 100
+ Path PABLB_18->TWKHH_18
+TWKHH_7->INNSA_7
+ID:219 PABLB->NLRTM Transported 1, trans in %: 100
+ Path PABLB_17->DEBRV_17
+DEBRV_28->NLRTM_28
+ID:226 PABLB->CNYTN Transported 5, trans in %: 100
+ Path PABLB_18->TWKHH_18
+TWKHH_35->CNYTN_35
+ID:240 ESBCN->INNSA Transported 10, trans in %: 100
+ Path ESBCN_22->OMSLL_22
+OMSLL_5->INNSA_5
+ID:241 ESBCN->AEJEA Transported 34, trans in %: 100
+ Path ESBCN_22->LKCMB_22
+LKCMB_12->AEJEA_12
+ID:253 ESBCN->CLSAI Transported 2, trans in %: 100
+ Path ESBCN_22->NLRTM_22
+NLRTM_8->CLSAI_8
+ID:258 ESBCN->CNYTN Transported 5, trans in %: 100
+ Path ESBCN_22->LKCMB_22
+LKCMB_35->CNYTN_35
+ID:261 DEBRV->TRAMB Transported 2, trans in %: 0.699301
+ Path DEBRV_17->ESALG_17
+ESALG_6->TRAMB_6
+ID:270 DEBRV->ZADUR Transported 127, trans in %: 25.7606
+ Path DEBRV_25->SAJED_25
+SAJED_22->OMSLL_22
+OMSLL_16->ZADUR_16
+ID:313 AUBNE->ZADUR Transported 20, trans in %: 100
+ Path AUBNE_12->AEJEA_12
+AEJEA_16->ZADUR_16
+ID:362 KRPUS->INNSA Transported 109, trans in %: 33.8509
+ Path KRPUS_34->MYPKG_34
+MYPKG_7->INNSA_7
+ID:374 KRPUS->PKBQM Transported 29, trans in %: 100
+ Path KRPUS_34->MYPKG_34
+MYPKG_6->PKBQM_6
+ID:406 USCHS->INNSA Transported 111, trans in %: 100
+ Path USCHS_12->EGPSD_12
+EGPSD_1->INNSA_1
+ID:414 USCHS->PKBQM Transported 85, trans in %: 100
+ Path USCHS_12->EGPSD_12
+EGPSD_1->PKBQM_1
+ID:416 USCHS->MAPTM Transported 15, trans in %: 100
+ Path USCHS_12->EGPSD_12
+EGPSD_26->MAPTM_26
+ID:420 USCHS->CLSAI Transported 36, trans in %: 100
+ Path USCHS_13->CLSAI_13
+ID:434 LKCMB->DEBRV Transported 205, trans in %: 100
+ Path LKCMB_22->EGPSD_22
+EGPSD_26->DEBRV_26
+ID:459 LKCMB->MAPTM Transported 3, trans in %: 100
+ Path LKCMB_22->EGPSD_22
+EGPSD_26->MAPTM_26
+ID:490 ZADUR->AEJEA Transported 6.0922, trans in %: 2.37977
+ Path ZADUR_19->LKCMB_19
+LKCMB_12->AEJEA_12
+ID:497 ZADUR->USEWR Transported 193, trans in %: 100
+ Path ZADUR_19->BEANR_19
+BEANR_13->USEWR_13
+ID:501 ZADUR->MAPTM Transported 1, trans in %: 100
+ Path ZADUR_19->GBFXT_19
+GBFXT_30->MAPTM_30
+ID:529 GBFXT->INNSA Transported 184, trans in %: 100
+ Path GBFXT_22->OMSLL_22
+OMSLL_5->INNSA_5
+ID:530 GBFXT->AEJEA Transported 156, trans in %: 100
+ Path GBFXT_22->LKCMB_22
+LKCMB_12->AEJEA_12
+ID:633 DEHAM->NGAPP Transported 18, trans in %: 100
+ Path DEHAM_30->GBFXT_30
+GBFXT_28->NGAPP_28
+ID:657 DEHAM->BRSSZ Transported 7, trans in %: 100
+ Path DEHAM_30->GBFXT_30
+GBFXT_28->NGAPP_28
+NGAPP_14->BRSSZ_14
+ID:665 HKHKG->TRAMB Transported 96.8046, trans in %: 80.0038
+ Path HKHKG_27->ITGIT_27
+ITGIT_0->TRAMB_0
+ID:693 HKHKG->PKBQM Transported 109, trans in %: 100
+ Path HKHKG_11->MYPKG_11
+MYPKG_6->PKBQM_6
+ID:716 INNSA->AUBNE Transported 23, trans in %: 100
+ Path INNSA_5->AEJEA_5
+AEJEA_9->AUBNE_9
+ID:718 INNSA->USCHS Transported 181.992, trans in %: 64.0816
+ Path INNSA_5->EGPSD_5
+EGPSD_33->USCHS_33
+ID:728 INNSA->USLAX Transported 51, trans in %: 100
+ Path INNSA_7->TWKHH_7
+TWKHH_32->JPYOK_32
+JPYOK_23->USLAX_23
+ID:738 INNSA->MAPTM Transported 18, trans in %: 100
+ Path INNSA_5->EGPSD_5
+EGPSD_26->MAPTM_26
+ID:740 INNSA->NLRTM Transported 129, trans in %: 100
+ Path INNSA_5->EGPSD_5
+EGPSD_10->NLRTM_10
+ID:748 INNSA->CAVAN Transported 17, trans in %: 100
+ Path INNSA_7->CNYTN_7
+CNYTN_21->CAVAN_21
+ID:751 INNSA->BEZEE Transported 12, trans in %: 31.5789
+ Path INNSA_4->ITGIT_4
+ITGIT_25->BEZEE_25
+ID:782 AEJEA->MAPTM Transported 15, trans in %: 14.1509
+ Path AEJEA_5->EGPSD_5
+EGPSD_26->MAPTM_26
+ID:784 AEJEA->NLRTM Transported 84, trans in %: 100
+ Path AEJEA_5->EGPSD_5
+EGPSD_10->NLRTM_10
+ID:811 SAJED->ECGYE Transported 11, trans in %: 100
+ Path SAJED_25->DEBRV_25
+DEBRV_0->ECGYE_0
+ID:841 TWKHH->TRAMB Transported 106, trans in %: 100
+ Path TWKHH_27->ITGIT_27
+ITGIT_0->TRAMB_0
+ID:870 TWKHH->EGPSD Transported 86, trans in %: 100
+ Path TWKHH_35->LKCMB_35
+LKCMB_22->EGPSD_22
+ID:880 TWKHH->CNYTN Transported 78, trans in %: 100
+ Path TWKHH_35->CNYTN_35
+ID:887 USLAX->DEBRV Transported 2, trans in %: 100
+ Path USLAX_23->SAJED_23
+SAJED_25->DEBRV_25
+ID:892 USLAX->GBFXT Transported 1, trans in %: 100
+ Path USLAX_23->SAJED_23
+SAJED_33->GBFXT_33
+ID:904 USLAX->PKBQM Transported 9, trans in %: 100
+ Path USLAX_23->KRPUS_23
+KRPUS_34->MYPKG_34
+MYPKG_6->PKBQM_6
+ID:926 AOLAD->CLSAI Transported 1, trans in %: 100
+ Path AOLAD_3->NGAPP_3
+NGAPP_28->DEBRV_28
+DEBRV_17->CLSAI_17
+ID:932 AOLAD->JPYOK Transported 5, trans in %: 100
+ Path AOLAD_3->NGAPP_3
+NGAPP_16->AEJEA_16
+AEJEA_21->JPYOK_21
+ID:974 USMIA->NZAKL Transported 3, trans in %: 100
+ Path USMIA_13->PABLB_13
+PABLB_18->NZAKL_18
+ID:978 USMIA->AUBNE Transported 35, trans in %: 100
+ Path USMIA_13->PABLB_13
+PABLB_18->AUBNE_18
+ID:990 USMIA->TWKHH Transported 3, trans in %: 100
+ Path USMIA_13->PABLB_13
+PABLB_18->TWKHH_18
+ID:997 USMIA->CNTAO Transported 7, trans in %: 100
+ Path USMIA_13->PABLB_13
+PABLB_18->CNTAO_18
+ID:1001 USMIA->CNSHA Transported 10, trans in %: 100
+ Path USMIA_13->PABLB_13
+PABLB_18->CNSHA_18
+ID:1027 KEMBA->USEWR Transported 22, trans in %: 100
+ Path KEMBA_2->ZADUR_2
+ZADUR_19->BEANR_19
+BEANR_13->USEWR_13
+ID:1046 UYMVD->DEBRV Transported 68.1954, trans in %: 18.735
+ Path UYMVD_1->EGPSD_1
+EGPSD_26->DEBRV_26
+ID:1098 USEWR->NGAPP Transported 103, trans in %: 100
+ Path USEWR_17->DEBRV_17
+DEBRV_28->NGAPP_28
+ID:1109 USEWR->INNSA Transported 168.008, trans in %: 66.145
+ Path USEWR_13->PABLB_13
+PABLB_18->TWKHH_18
+TWKHH_7->INNSA_7
+ID:1120 USEWR->NLRTM Transported 14.6688, trans in %: 19.0504
+ Path USEWR_17->DEBRV_17
+DEBRV_28->NLRTM_28
+ID:1152 MYPKG->UYMVD Transported 1, trans in %: 100
+ Path MYPKG_26->MAPTM_26
+MAPTM_1->UYMVD_1
+ID:1196 PKBQM->NLRTM Transported 42, trans in %: 100
+ Path PKBQM_5->EGPSD_5
+EGPSD_10->NLRTM_10
+ID:1298 CNTAO->PKBQM Transported 29, trans in %: 100
+ Path CNTAO_34->MYPKG_34
+MYPKG_6->PKBQM_6
+ID:1299 CNTAO->EGPSD Transported 88, trans in %: 100
+ Path CNTAO_35->LKCMB_35
+LKCMB_22->EGPSD_22
+ID:1305 CNTAO->SGSIN Transported 13, trans in %: 26.5306
+ Path CNTAO_35->SGSIN_35
+ID:1316 NLRTM->PABLB Transported 5, trans in %: 100
+ Path NLRTM_9->DEBRV_9
+DEBRV_17->PABLB_17
+ID:1318 NLRTM->AUBNE Transported 259, trans in %: 100
+ Path NLRTM_8->AUBNE_8
+ID:1322 NLRTM->ZADUR Transported 250, trans in %: 100
+ Path NLRTM_22->OMSLL_22
+OMSLL_16->ZADUR_16
+ID:1327 NLRTM->INNSA Transported 127, trans in %: 100
+ Path NLRTM_22->OMSLL_22
+OMSLL_5->INNSA_5
+ID:1351 NLRTM->CAVAN Transported 31, trans in %: 100
+ Path NLRTM_22->SAJED_22
+SAJED_19->CNSHA_19
+CNSHA_21->CAVAN_21
+ID:1357 OMSLL->NGAPP Transported 14, trans in %: 100
+ Path OMSLL_24->ESALG_24
+ESALG_14->NGAPP_14
+ID:1358 OMSLL->NZAKL Transported 7, trans in %: 100
+ Path OMSLL_5->AEJEA_5
+AEJEA_9->NZAKL_9
+ID:1370 OMSLL->AEJEA Transported 29, trans in %: 100
+ Path OMSLL_5->AEJEA_5
+ID:1390 OMSLL->CAVAN Transported 1, trans in %: 100
+ Path OMSLL_5->AEJEA_5
+AEJEA_21->CAVAN_21
+ID:1408 CLSAI->ECGYE Transported 2, trans in %: 100
+ Path CLSAI_17->DEBRV_17
+DEBRV_0->ECGYE_0
+ID:1414 CLSAI->USLAX Transported 2.929, trans in %: 5.858
+ Path CLSAI_8->JPYOK_8
+JPYOK_23->USLAX_23
+ID:1431 BRSSZ->ESBCN Transported 4, trans in %: 100
+ Path BRSSZ_13->ITGIT_13
+ITGIT_22->ESBCN_22
+ID:1442 BRSSZ->INNSA Transported 6, trans in %: 100
+ Path BRSSZ_13->NGAPP_13
+NGAPP_16->OMSLL_16
+OMSLL_5->INNSA_5
+ID:1459 BRSSZ->SGSIN Transported 55, trans in %: 100
+ Path BRSSZ_13->NGAPP_13
+NGAPP_16->AEJEA_16
+AEJEA_24->SGSIN_24
+ID:1461 BRSSZ->MYTPP Transported 3, trans in %: 7.69231
+ Path BRSSZ_13->NGAPP_13
+NGAPP_16->AEJEA_16
+AEJEA_24->MYTPP_24
+ID:1462 BRSSZ->CNYTN Transported 3, trans in %: 100
+ Path BRSSZ_13->NGAPP_13
+NGAPP_16->AEJEA_16
+AEJEA_21->CNYTN_21
+ID:1463 BRSSZ->JPYOK Transported 52, trans in %: 100
+ Path BRSSZ_13->NGAPP_13
+NGAPP_16->AEJEA_16
+AEJEA_21->JPYOK_21
+ID:1531 SGSIN->PAMIT Transported 6, trans in %: 100
+ Path SGSIN_24->ESALG_24
+ESALG_15->PAMIT_15
+ID:1532 SGSIN->USMIA Transported 2, trans in %: 100
+ Path SGSIN_24->ESALG_24
+ESALG_15->USMIA_15
+ID:1535 SGSIN->USEWR Transported 11, trans in %: 100
+ Path SGSIN_24->ESALG_24
+ESALG_17->USEWR_17
+ID:1570 GHTKD->MAPTM Transported 10, trans in %: 100
+ Path GHTKD_3->NGAPP_3
+NGAPP_28->GBFXT_28
+GBFXT_30->MAPTM_30
+ID:1575 GHTKD->MYTPP Transported 72, trans in %: 66.055
+ Path GHTKD_3->NGAPP_3
+NGAPP_16->AEJEA_16
+AEJEA_24->MYTPP_24
+ID:1577 GHTKD->JPYOK Transported 21, trans in %: 100
+ Path GHTKD_3->NGAPP_3
+NGAPP_16->AEJEA_16
+AEJEA_21->JPYOK_21
+ID:1584 MYTPP->PABLB Transported 137, trans in %: 100
+ Path MYTPP_24->ESALG_24
+ESALG_17->PABLB_17
+ID:1591 MYTPP->ZADUR Transported 422, trans in %: 100
+ Path MYTPP_21->AEJEA_21
+AEJEA_16->ZADUR_16
+ID:1603 MYTPP->PAMIT Transported 62, trans in %: 100
+ Path MYTPP_24->ESALG_24
+ESALG_15->PAMIT_15
+ID:1604 MYTPP->USMIA Transported 100, trans in %: 100
+ Path MYTPP_24->ESALG_24
+ESALG_15->USMIA_15
+ID:1607 MYTPP->USEWR Transported 165, trans in %: 100
+ Path MYTPP_24->ESALG_24
+ESALG_17->USEWR_17
+ID:1613 MYTPP->NLRTM Transported 407, trans in %: 53.4121
+ Path MYTPP_24->EGPSD_24
+EGPSD_10->NLRTM_10
+ID:1615 MYTPP->CLSAI Transported 109, trans in %: 100
+ Path MYTPP_24->ESALG_24
+ESALG_17->CLSAI_17
+ID:1631 CAVAN->ZADUR Transported 2, trans in %: 100
+ Path CAVAN_21->AEJEA_21
+AEJEA_16->ZADUR_16
+ID:1638 CAVAN->KEMBA Transported 6, trans in %: 100
+ Path CAVAN_21->AEJEA_21
+AEJEA_16->ZADUR_16
+ZADUR_2->KEMBA_2
+ID:1651 CNYTN->TRAMB Transported 127, trans in %: 100
+ Path CNYTN_27->ITGIT_27
+ITGIT_0->TRAMB_0
+ID:1662 CNYTN->ZADUR Transported 87, trans in %: 34.6614
+ Path CNYTN_21->AEJEA_21
+AEJEA_16->ZADUR_16
+ID:1680 CNYTN->EGPSD Transported 173, trans in %: 100
+ Path CNYTN_35->LKCMB_35
+LKCMB_22->EGPSD_22
+ID:1688 CNYTN->MYTPP Transported 23.6366, trans in %: 13.7422
+ Path CNYTN_34->MYTPP_34
+ID:1704 JPYOK->ZADUR Transported 227, trans in %: 100
+ Path JPYOK_21->AEJEA_21
+AEJEA_16->ZADUR_16
+ID:1718 JPYOK->KEMBA Transported 89, trans in %: 100
+ Path JPYOK_21->AEJEA_21
+AEJEA_16->ZADUR_16
+ZADUR_2->KEMBA_2
+ID:1743 BEZEE->KRPUS Transported 2, trans in %: 100
+ Path BEZEE_25->SAJED_25
+SAJED_12->MYTPP_12
+MYTPP_34->KRPUS_34
+ID:1745 BEZEE->ZADUR Transported 21, trans in %: 100
+ Path BEZEE_25->SAJED_25
+SAJED_22->OMSLL_22
+OMSLL_16->ZADUR_16
+ID:1759 BEZEE->BRSSZ Transported 10, trans in %: 100
+ Path BEZEE_25->DEBRV_25
+DEBRV_17->PABLB_17
+PABLB_13->BRSSZ_13
+ID:69 TRAMB->NLRTM Transported 36, trans in %: 100
+ Path TRAMB_0->GBFXT_0
+GBFXT_9->NLRTM_9
+ID:120 NGAPP->KRPUS Transported 13, trans in %: 100
+ Path NGAPP_16->AEJEA_16
+AEJEA_9->MYPKG_9
+MYPKG_34->KRPUS_34
+ID:139 NGAPP->MYPKG Transported 1, trans in %: 3.0303
+ Path NGAPP_16->AEJEA_16
+AEJEA_9->MYPKG_9
+ID:189 NZAKL->BRSSZ Transported 1, trans in %: 100
+ Path NZAKL_18->PABLB_18
+PABLB_13->BRSSZ_13
+ID:289 DEBRV->EGPSD Transported 176.992, trans in %: 54.7962
+ Path DEBRV_25->SAJED_25
+SAJED_33->EGPSD_33
+ID:309 AUBNE->DEBRV Transported 41, trans in %: 100
+ Path AUBNE_9->MYPKG_9
+MYPKG_20->DEBRV_20
+ID:317 AUBNE->DEHAM Transported 7, trans in %: 100
+ Path AUBNE_9->MYTPP_9
+MYTPP_23->SAJED_23
+SAJED_30->DEHAM_30
+ID:321 AUBNE->SAJED Transported 24, trans in %: 100
+ Path AUBNE_9->MYTPP_9
+MYTPP_23->SAJED_23
+ID:327 AUBNE->UYMVD Transported 2, trans in %: 100
+ Path AUBNE_12->LKCMB_12
+LKCMB_1->UYMVD_1
+ID:336 AUBNE->BRSSZ Transported 3, trans in %: 100
+ Path AUBNE_18->PABLB_18
+PABLB_13->BRSSZ_13
+ID:344 AUBNE->BEZEE Transported 9, trans in %: 100
+ Path AUBNE_12->ITGIT_12
+ITGIT_25->BEZEE_25
+ID:347 KRPUS->BEANR Transported 29, trans in %: 100
+ Path KRPUS_34->CNTAO_34
+CNTAO_27->ITGIT_27
+ITGIT_13->BEANR_13
+ID:354 KRPUS->USCHS Transported 24, trans in %: 100
+ Path KRPUS_23->SAJED_23
+SAJED_33->USCHS_33
+ID:376 KRPUS->MAPTM Transported 21, trans in %: 100
+ Path KRPUS_23->SAJED_23
+SAJED_30->MAPTM_30
+ID:380 KRPUS->BRSSZ Transported 139, trans in %: 100
+ Path KRPUS_18->PABLB_18
+PABLB_13->BRSSZ_13
+ID:432 LKCMB->PABLB Transported 3, trans in %: 100
+ Path LKCMB_24->ESALG_24
+ESALG_17->PABLB_17
+ID:455 LKCMB->USEWR Transported 194, trans in %: 100
+ Path LKCMB_24->ESALG_24
+ESALG_17->USEWR_17
+ID:495 ZADUR->PAMIT Transported 2, trans in %: 100
+ Path ZADUR_13->NGAPP_13
+NGAPP_28->DEBRV_28
+DEBRV_15->PAMIT_15
+ID:499 ZADUR->PKBQM Transported 12, trans in %: 100
+ Path ZADUR_19->SAJED_19
+SAJED_4->PKBQM_4
+ID:532 GBFXT->TWKHH Transported 11, trans in %: 100
+ Path GBFXT_19->CNSHA_19
+CNSHA_35->TWKHH_35
+ID:544 GBFXT->CNTAO Transported 52, trans in %: 100
+ Path GBFXT_19->CNSHA_19
+CNSHA_35->CNTAO_35
+ID:553 GBFXT->CNYTN Transported 37, trans in %: 100
+ Path GBFXT_19->CNSHA_19
+CNSHA_35->CNYTN_35
+ID:558 ITGIT->NGAPP Transported 286, trans in %: 100
+ Path ITGIT_25->DEBRV_25
+DEBRV_28->NGAPP_28
+ID:568 ITGIT->ECGYE Transported 4, trans in %: 100
+ Path ITGIT_25->DEBRV_25
+DEBRV_0->ECGYE_0
+ID:589 ITGIT->CLSAI Transported 27, trans in %: 100
+ Path ITGIT_25->DEBRV_25
+DEBRV_17->CLSAI_17
+ID:650 DEHAM->MYPKG Transported 47.0082, trans in %: 61.8529
+ Path DEHAM_30->SAJED_30
+SAJED_7->MYPKG_7
+ID:667 HKHKG->NGAPP Transported 17.7448, trans in %: 3.63623
+ Path HKHKG_26->MAPTM_26
+MAPTM_14->NGAPP_14
+ID:687 HKHKG->PAMIT Transported 188, trans in %: 100
+ Path HKHKG_26->DEBRV_26
+DEBRV_15->PAMIT_15
+ID:696 HKHKG->NLRTM Transported 447.796, trans in %: 57.263
+ Path HKHKG_11->MYPKG_11
+MYPKG_20->NLRTM_20
+ID:698 HKHKG->CLSAI Transported 90.1954, trans in %: 71.5837
+ Path HKHKG_26->DEBRV_26
+DEBRV_17->CLSAI_17
+ID:702 HKHKG->GHTKD Transported 75.4506, trans in %: 34.2957
+ Path HKHKG_26->MAPTM_26
+MAPTM_14->NGAPP_14
+NGAPP_3->GHTKD_3
+ID:709 INNSA->TRAMB Transported 30, trans in %: 100
+ Path INNSA_1->TRAMB_1
+ID:715 INNSA->DEBRV Transported 145, trans in %: 100
+ Path INNSA_7->SAJED_7
+SAJED_25->DEBRV_25
+ID:718 INNSA->USCHS Transported 102.008, trans in %: 35.9184
+ Path INNSA_7->AEJEA_7
+AEJEA_12->USCHS_12
+ID:742 INNSA->CLSAI Transported 2, trans in %: 100
+ Path INNSA_6->ESALG_6
+ESALG_17->CLSAI_17
+ID:758 AEJEA->ESBCN Transported 6, trans in %: 100
+ Path AEJEA_12->ITGIT_12
+ITGIT_22->ESBCN_22
+ID:761 AEJEA->KRPUS Transported 8, trans in %: 100
+ Path AEJEA_9->MYPKG_9
+MYPKG_34->KRPUS_34
+ID:782 AEJEA->MAPTM Transported 91, trans in %: 85.8491
+ Path AEJEA_6->SAJED_6
+SAJED_30->MAPTM_30
+ID:801 SAJED->PABLB Transported 2, trans in %: 100
+ Path SAJED_25->DEBRV_25
+DEBRV_17->PABLB_17
+ID:824 SAJED->USEWR Transported 54, trans in %: 100
+ Path SAJED_25->DEBRV_25
+DEBRV_17->USEWR_17
+ID:827 SAJED->MAPTM Transported 126, trans in %: 100
+ Path SAJED_30->MAPTM_30
+ID:831 SAJED->CLSAI Transported 3, trans in %: 100
+ Path SAJED_25->DEBRV_25
+DEBRV_17->CLSAI_17
+ID:840 TWKHH->ESALG Transported 51, trans in %: 100
+ Path TWKHH_34->MYTPP_34
+MYTPP_24->ESALG_24
+ID:875 TWKHH->BRSSZ Transported 42, trans in %: 100
+ Path TWKHH_18->PABLB_18
+PABLB_13->BRSSZ_13
+ID:883 USLAX->TRAMB Transported 4, trans in %: 100
+ Path USLAX_23->SAJED_23
+SAJED_5->TRAMB_5
+ID:963 PAMIT->SGSIN Transported 4, trans in %: 100
+ Path PAMIT_4->SAJED_4
+SAJED_12->SGSIN_12
+ID:965 PAMIT->MYTPP Transported 33, trans in %: 100
+ Path PAMIT_4->SAJED_4
+SAJED_12->MYTPP_12
+ID:968 PAMIT->JPYOK Transported 29, trans in %: 100
+ Path PAMIT_13->PABLB_13
+PABLB_18->JPYOK_18
+ID:971 USMIA->TRAMB Transported 22, trans in %: 100
+ Path USMIA_15->ESALG_15
+ESALG_6->TRAMB_6
+ID:979 USMIA->KRPUS Transported 9, trans in %: 100
+ Path USMIA_13->PABLB_13
+PABLB_18->KRPUS_18
+ID:1007 KEMBA->TRAMB Transported 2, trans in %: 100
+ Path KEMBA_2->ZADUR_2
+ZADUR_19->SAJED_19
+SAJED_5->TRAMB_5
+ID:1011 KEMBA->ESBCN Transported 1, trans in %: 100
+ Path KEMBA_2->ZADUR_2
+ZADUR_19->SAJED_19
+SAJED_33->EGPSD_33
+EGPSD_22->ESBCN_22
+ID:1109 USEWR->INNSA Transported 85.9918, trans in %: 33.855
+ Path USEWR_13->PAMIT_13
+PAMIT_4->INNSA_4
+ID:1116 USEWR->PKBQM Transported 54.6688, trans in %: 73.8768
+ Path USEWR_13->PAMIT_13
+PAMIT_4->PKBQM_4
+ID:1129 MYPKG->ESALG Transported 7, trans in %: 100
+ Path MYPKG_9->ESALG_9
+ID:1149 MYPKG->PAMIT Transported 3, trans in %: 100
+ Path MYPKG_20->DEBRV_20
+DEBRV_15->PAMIT_15
+ID:1150 MYPKG->USMIA Transported 3, trans in %: 100
+ Path MYPKG_20->DEBRV_20
+DEBRV_15->USMIA_15
+ID:1174 PKBQM->PABLB Transported 5, trans in %: 100
+ Path PKBQM_7->SAJED_7
+SAJED_25->DEBRV_25
+DEBRV_17->PABLB_17
+ID:1177 PKBQM->AUBNE Transported 19, trans in %: 100
+ Path PKBQM_6->AEJEA_6
+AEJEA_9->AUBNE_9
+ID:1180 PKBQM->ZADUR Transported 64, trans in %: 100
+ Path PKBQM_6->AEJEA_6
+AEJEA_16->ZADUR_16
+ID:1193 PKBQM->USEWR Transported 37, trans in %: 26.2411
+ Path PKBQM_7->SAJED_7
+SAJED_25->DEBRV_25
+DEBRV_17->USEWR_17
+ID:1195 PKBQM->MAPTM Transported 1, trans in %: 100
+ Path PKBQM_7->SAJED_7
+SAJED_30->MAPTM_30
+ID:1225 EGPSD->PAMIT Transported 4, trans in %: 100
+ Path EGPSD_10->NLRTM_10
+NLRTM_15->PAMIT_15
+ID:1226 EGPSD->USMIA Transported 34, trans in %: 100
+ Path EGPSD_10->NLRTM_10
+NLRTM_15->USMIA_15
+ID:1235 EGPSD->BRSSZ Transported 4, trans in %: 100
+ Path EGPSD_10->NLRTM_10
+NLRTM_14->BRSSZ_14
+ID:1270 CNTAO->ESALG Transported 281, trans in %: 100
+ Path CNTAO_34->MYTPP_34
+MYTPP_24->ESALG_24
+ID:1277 CNTAO->DEBRV Transported 840, trans in %: 100
+ Path CNTAO_34->MYPKG_34
+MYPKG_20->DEBRV_20
+ID:1285 CNTAO->ECGYE Transported 31, trans in %: 100
+ Path CNTAO_34->MYPKG_34
+MYPKG_20->DEBRV_20
+DEBRV_0->ECGYE_0
+ID:1288 CNTAO->AEJEA Transported 277.008, trans in %: 85.7611
+ Path CNTAO_34->MYTPP_34
+MYTPP_21->AEJEA_21
+ID:1292 CNTAO->PAMIT Transported 274, trans in %: 100
+ Path CNTAO_34->MYPKG_34
+MYPKG_20->DEBRV_20
+DEBRV_15->PAMIT_15
+ID:1304 CNTAO->BRSSZ Transported 114, trans in %: 100
+ Path CNTAO_18->PABLB_18
+PABLB_13->BRSSZ_13
+ID:1326 NLRTM->HKHKG Transported 769, trans in %: 100
+ Path NLRTM_20->MYPKG_20
+MYPKG_31->HKHKG_31
+ID:1411 CLSAI->AEJEA Transported 4, trans in %: 100
+ Path CLSAI_8->TWKHH_8
+TWKHH_7->AEJEA_7
+ID:1433 BRSSZ->AUBNE Transported 1, trans in %: 100
+ Path BRSSZ_13->NGAPP_13
+NGAPP_16->AEJEA_16
+AEJEA_9->AUBNE_9
+ID:1475 CNSHA->USCHS Transported 255, trans in %: 100
+ Path CNSHA_23->SAJED_23
+SAJED_33->USCHS_33
+ID:1479 CNSHA->ITGIT Transported 172, trans in %: 24.4318
+ Path CNSHA_35->TWKHH_35
+TWKHH_27->ITGIT_27
+ID:1488 CNSHA->PAMIT Transported 311, trans in %: 100
+ Path CNSHA_26->DEBRV_26
+DEBRV_15->PAMIT_15
+ID:1489 CNSHA->USMIA Transported 61, trans in %: 100
+ Path CNSHA_26->DEBRV_26
+DEBRV_15->USMIA_15
+ID:1491 CNSHA->UYMVD Transported 46, trans in %: 38.3333
+ Path CNSHA_29->LKCMB_29
+LKCMB_1->UYMVD_1
+ID:1492 CNSHA->USEWR Transported 265, trans in %: 100
+ Path CNSHA_26->DEBRV_26
+DEBRV_17->USEWR_17
+ID:1500 CNSHA->BRSSZ Transported 477, trans in %: 100
+ Path CNSHA_18->PABLB_18
+PABLB_13->BRSSZ_13
+ID:1510 SGSIN->BEANR Transported 2, trans in %: 100
+ Path SGSIN_34->TWKHH_34
+TWKHH_27->ITGIT_27
+ITGIT_13->BEANR_13
+ID:1526 SGSIN->AEJEA Transported 19, trans in %: 100
+ Path SGSIN_12->AEJEA_12
+ID:1581 MYTPP->BEANR Transported 92, trans in %: 100
+ Path MYTPP_7->TWKHH_7
+TWKHH_27->ITGIT_27
+ITGIT_13->BEANR_13
+ID:1625 CAVAN->BEANR Transported 4, trans in %: 100
+ Path CAVAN_23->CNSHA_23
+CNSHA_19->BEANR_19
+ID:1627 CAVAN->DEBRV Transported 36, trans in %: 100
+ Path CAVAN_23->SAJED_23
+SAJED_25->DEBRV_25
+ID:1630 CAVAN->LKCMB Transported 8, trans in %: 100
+ Path CAVAN_23->CNSHA_23
+CNSHA_29->LKCMB_29
+ID:1641 CAVAN->MAPTM Transported 3, trans in %: 100
+ Path CAVAN_23->SAJED_23
+SAJED_30->MAPTM_30
+ID:1673 CNYTN->PAMIT Transported 59.9836, trans in %: 19.7314
+ Path CNYTN_34->MYPKG_34
+MYPKG_20->DEBRV_20
+DEBRV_15->PAMIT_15
+ID:1674 CNYTN->USMIA Transported 76.0164, trans in %: 71.0434
+ Path CNYTN_27->ITGIT_27
+ITGIT_13->USMIA_13
+ID:1685 CNYTN->BRSSZ Transported 78.8046, trans in %: 79.6006
+ Path CNYTN_27->CNTAO_27
+CNTAO_18->PABLB_18
+PABLB_13->BRSSZ_13
+ID:1693 JPYOK->TRAMB Transported 241, trans in %: 100
+ Path JPYOK_29->LKCMB_29
+LKCMB_1->TRAMB_1
+ID:1700 JPYOK->AUBNE Transported 74, trans in %: 100
+ Path JPYOK_21->MYTPP_21
+MYTPP_12->AUBNE_12
+ID:1719 JPYOK->UYMVD Transported 45, trans in %: 100
+ Path JPYOK_29->LKCMB_29
+LKCMB_1->UYMVD_1
+ID:66 TRAMB->EGPSD Transported 8, trans in %: 100
+ Path TRAMB_5->ITGIT_5
+ITGIT_1->EGPSD_1
+ID:141 NGAPP->EGPSD Transported 23, trans in %: 100
+ Path NGAPP_13->ITGIT_13
+ITGIT_1->EGPSD_1
+ID:155 NZAKL->TRAMB Transported 8, trans in %: 100
+ Path NZAKL_18->TWKHH_18
+TWKHH_27->ITGIT_27
+ITGIT_6->TRAMB_6
+ID:168 NZAKL->ECGYE Transported 2, trans in %: 100
+ Path NZAKL_9->GBFXT_9
+GBFXT_0->ECGYE_0
+ID:169 NZAKL->DEHAM Transported 26, trans in %: 100
+ Path NZAKL_18->KRPUS_18
+KRPUS_23->SAJED_23
+SAJED_30->DEHAM_30
+ID:173 NZAKL->SAJED Transported 22, trans in %: 100
+ Path NZAKL_18->KRPUS_18
+KRPUS_23->SAJED_23
+ID:177 NZAKL->PAMIT Transported 3, trans in %: 5.35714
+ Path NZAKL_9->ESALG_9
+ESALG_15->PAMIT_15
+ID:182 NZAKL->PKBQM Transported 8, trans in %: 100
+ Path NZAKL_9->MYPKG_9
+MYPKG_6->PKBQM_6
+ID:197 NZAKL->BEZEE Transported 43, trans in %: 100
+ Path NZAKL_18->TWKHH_18
+TWKHH_27->ITGIT_27
+ITGIT_25->BEZEE_25
+ID:228 ESBCN->ESALG Transported 9, trans in %: 100
+ Path ESBCN_22->SAJED_22
+SAJED_24->ESALG_24
+ID:304 AUBNE->TRAMB Transported 2, trans in %: 100
+ Path AUBNE_12->ITGIT_12
+ITGIT_6->TRAMB_6
+ID:324 AUBNE->PAMIT Transported 22, trans in %: 100
+ Path AUBNE_9->ESALG_9
+ESALG_15->PAMIT_15
+ID:346 KRPUS->TRAMB Transported 89, trans in %: 100
+ Path KRPUS_23->SAJED_23
+SAJED_5->TRAMB_5
+ID:352 KRPUS->DEBRV Transported 1.605, trans in %: 100
+ Path KRPUS_23->SAJED_23
+SAJED_25->DEBRV_25
+ID:359 KRPUS->ECGYE Transported 19, trans in %: 100
+ Path KRPUS_23->SAJED_23
+SAJED_25->DEBRV_25
+DEBRV_0->ECGYE_0
+ID:368 KRPUS->PAMIT Transported 107, trans in %: 100
+ Path KRPUS_23->SAJED_23
+SAJED_25->DEBRV_25
+DEBRV_15->PAMIT_15
+ID:369 KRPUS->USMIA Transported 13, trans in %: 100
+ Path KRPUS_23->SAJED_23
+SAJED_25->DEBRV_25
+DEBRV_15->USMIA_15
+ID:372 KRPUS->USEWR Transported 7, trans in %: 100
+ Path KRPUS_34->CNTAO_34
+CNTAO_27->ITGIT_27
+ITGIT_13->USEWR_13
+ID:390 USCHS->TRAMB Transported 50, trans in %: 100
+ Path USCHS_12->EGPSD_12
+EGPSD_0->TRAMB_0
+ID:393 USCHS->NZAKL Transported 46, trans in %: 100
+ Path USCHS_9->NZAKL_9
+ID:450 LKCMB->PAMIT Transported 1, trans in %: 100
+ Path LKCMB_24->ESALG_24
+ESALG_15->PAMIT_15
+ID:451 LKCMB->USMIA Transported 47, trans in %: 100
+ Path LKCMB_24->ESALG_24
+ESALG_15->USMIA_15
+ID:457 LKCMB->PKBQM Transported 5, trans in %: 100
+ Path LKCMB_12->AEJEA_12
+AEJEA_7->PKBQM_7
+ID:463 LKCMB->BRSSZ Transported 20, trans in %: 100
+ Path LKCMB_22->GBFXT_22
+GBFXT_28->NGAPP_28
+NGAPP_14->BRSSZ_14
+ID:505 ZADUR->CLSAI Transported 2, trans in %: 100
+ Path ZADUR_13->NGAPP_13
+NGAPP_28->DEBRV_28
+DEBRV_17->CLSAI_17
+ID:522 GBFXT->KRPUS Transported 63, trans in %: 100
+ Path GBFXT_19->CNSHA_19
+CNSHA_35->KRPUS_35
+ID:665 HKHKG->TRAMB Transported 24.1954, trans in %: 19.9962
+ Path HKHKG_27->ITGIT_27
+ITGIT_6->TRAMB_6
+ID:667 HKHKG->NGAPP Transported 380.514, trans in %: 77.9742
+ Path HKHKG_31->MYPKG_31
+MYPKG_16->NGAPP_16
+ID:686 HKHKG->AOLAD Transported 44, trans in %: 61.9718
+ Path HKHKG_31->MYPKG_31
+MYPKG_16->NGAPP_16
+NGAPP_3->AOLAD_3
+ID:696 HKHKG->NLRTM Transported 334.204, trans in %: 42.737
+ Path HKHKG_31->MYPKG_31
+MYPKG_20->NLRTM_20
+ID:699 HKHKG->BRSSZ Transported 97.1954, trans in %: 30.4688
+ Path HKHKG_31->MYPKG_31
+MYPKG_16->NGAPP_16
+NGAPP_14->BRSSZ_14
+ID:702 HKHKG->GHTKD Transported 88.095, trans in %: 40.0432
+ Path HKHKG_31->MYPKG_31
+MYPKG_16->NGAPP_16
+NGAPP_0->GHTKD_0
+ID:711 INNSA->NGAPP Transported 84.9918, trans in %: 37.607
+ Path INNSA_1->LKCMB_1
+LKCMB_22->GBFXT_22
+GBFXT_28->NGAPP_28
+ID:714 INNSA->ESBCN Transported 9, trans in %: 100
+ Path INNSA_1->LKCMB_1
+LKCMB_22->ESBCN_22
+ID:721 INNSA->GBFXT Transported 115, trans in %: 100
+ Path INNSA_1->LKCMB_1
+LKCMB_22->GBFXT_22
+ID:723 INNSA->ECGYE Transported 5, trans in %: 100
+ Path INNSA_1->LKCMB_1
+LKCMB_22->GBFXT_22
+GBFXT_0->ECGYE_0
+ID:759 AEJEA->DEBRV Transported 70, trans in %: 100
+ Path AEJEA_7->SAJED_7
+SAJED_25->DEBRV_25
+ID:799 SAJED->NGAPP Transported 76, trans in %: 100
+ Path SAJED_25->DEBRV_25
+DEBRV_28->NGAPP_28
+ID:818 SAJED->AOLAD Transported 5, trans in %: 100
+ Path SAJED_25->DEBRV_25
+DEBRV_28->NGAPP_28
+NGAPP_3->AOLAD_3
+ID:832 SAJED->BRSSZ Transported 5, trans in %: 100
+ Path SAJED_25->DEBRV_25
+DEBRV_17->PABLB_17
+PABLB_13->BRSSZ_13
+ID:835 SAJED->GHTKD Transported 2.905, trans in %: 12.6304
+ Path SAJED_25->DEBRV_25
+DEBRV_28->NGAPP_28
+NGAPP_0->GHTKD_0
+ID:843 TWKHH->NGAPP Transported 39, trans in %: 100
+ Path TWKHH_34->MYPKG_34
+MYPKG_16->NGAPP_16
+ID:884 USLAX->NGAPP Transported 15, trans in %: 100
+ Path USLAX_23->SAJED_23
+SAJED_25->DEBRV_25
+DEBRV_28->NGAPP_28
+ID:1062 UYMVD->MYPKG Transported 3, trans in %: 100
+ Path UYMVD_1->LKCMB_1
+LKCMB_29->MYPKG_29
+ID:1074 UYMVD->JPYOK Transported 16, trans in %: 100
+ Path UYMVD_1->LKCMB_1
+LKCMB_29->JPYOK_29
+ID:1170 PKBQM->TRAMB Transported 19, trans in %: 100
+ Path PKBQM_6->TRAMB_6
+ID:1172 PKBQM->NGAPP Transported 27, trans in %: 100
+ Path PKBQM_6->ESALG_6
+ESALG_14->NGAPP_14
+ID:1175 PKBQM->ESBCN Transported 5, trans in %: 100
+ Path PKBQM_1->LKCMB_1
+LKCMB_22->ESBCN_22
+ID:1178 PKBQM->USCHS Transported 187, trans in %: 100
+ Path PKBQM_7->SAJED_7
+SAJED_33->USCHS_33
+ID:1183 PKBQM->ECGYE Transported 1, trans in %: 100
+ Path PKBQM_7->SAJED_7
+SAJED_25->DEBRV_25
+DEBRV_0->ECGYE_0
+ID:1193 PKBQM->USEWR Transported 80, trans in %: 56.7376
+ Path PKBQM_6->ESALG_6
+ESALG_17->USEWR_17
+ID:1198 PKBQM->CLSAI Transported 8, trans in %: 100
+ Path PKBQM_6->ESALG_6
+ESALG_17->CLSAI_17
+ID:1199 PKBQM->BRSSZ Transported 2, trans in %: 100
+ Path PKBQM_6->ESALG_6
+ESALG_17->PABLB_17
+PABLB_13->BRSSZ_13
+ID:1240 EGPSD->JPYOK Transported 3, trans in %: 100
+ Path EGPSD_12->MYTPP_12
+MYTPP_29->JPYOK_29
+ID:1271 CNTAO->TRAMB Transported 62, trans in %: 100
+ Path CNTAO_27->ITGIT_27
+ITGIT_6->TRAMB_6
+ID:1286 CNTAO->DEHAM Transported 60, trans in %: 100
+ Path CNTAO_8->KRPUS_8
+KRPUS_23->SAJED_23
+SAJED_30->DEHAM_30
+ID:1289 CNTAO->SAJED Transported 113, trans in %: 100
+ Path CNTAO_8->KRPUS_8
+KRPUS_23->SAJED_23
+ID:1340 NLRTM->PKBQM Transported 85, trans in %: 98.8372
+ Path NLRTM_25->SAJED_25
+SAJED_4->PKBQM_4
+ID:1367 OMSLL->ECGYE Transported 6, trans in %: 100
+ Path OMSLL_9->GBFXT_9
+GBFXT_0->ECGYE_0
+ID:1421 CLSAI->NLRTM Transported 114, trans in %: 100
+ Path CLSAI_17->DEBRV_17
+DEBRV_13->NLRTM_13
+ID:1435 BRSSZ->LKCMB Transported 2, trans in %: 100
+ Path BRSSZ_14->GBFXT_14
+GBFXT_22->LKCMB_22
+ID:1444 BRSSZ->SAJED Transported 242, trans in %: 100
+ Path BRSSZ_14->GBFXT_14
+GBFXT_22->SAJED_22
+ID:1446 BRSSZ->USLAX Transported 3, trans in %: 100
+ Path BRSSZ_14->GBFXT_14
+GBFXT_22->SAJED_22
+SAJED_23->USLAX_23
+ID:1465 CNSHA->ESALG Transported 79.8046, trans in %: 14.7513
+ Path CNSHA_23->SAJED_23
+SAJED_24->ESALG_24
+ID:1469 CNSHA->NZAKL Transported 69, trans in %: 100
+ Path CNSHA_29->MYPKG_29
+MYPKG_11->NZAKL_11
+ID:1482 CNSHA->INNSA Transported 124, trans in %: 100
+ Path CNSHA_29->MYPKG_29
+MYPKG_6->INNSA_6
+ID:1491 CNSHA->UYMVD Transported 74, trans in %: 61.6667
+ Path CNSHA_26->MAPTM_26
+MAPTM_1->UYMVD_1
+ID:1506 CNSHA->JPYOK Transported 8.9478, trans in %: 99.42
+ Path CNSHA_21->JPYOK_21
+ID:1522 SGSIN->ECGYE Transported 1, trans in %: 100
+ Path SGSIN_16->MYPKG_16
+MYPKG_20->DEBRV_20
+DEBRV_0->ECGYE_0
+ID:1536 SGSIN->MYPKG Transported 13, trans in %: 100
+ Path SGSIN_16->MYPKG_16
+ID:1537 SGSIN->PKBQM Transported 7, trans in %: 100
+ Path SGSIN_16->MYPKG_16
+MYPKG_6->PKBQM_6
+ID:1539 SGSIN->MAPTM Transported 1, trans in %: 100
+ Path SGSIN_16->MYPKG_16
+MYPKG_26->MAPTM_26
+ID:1541 SGSIN->NLRTM Transported 57, trans in %: 100
+ Path SGSIN_24->EGPSD_24
+EGPSD_10->NLRTM_10
+ID:1564 GHTKD->INNSA Transported 86, trans in %: 88.6598
+ Path GHTKD_0->ITGIT_0
+ITGIT_5->INNSA_5
+ID:1580 MYTPP->TRAMB Transported 149, trans in %: 100
+ Path MYTPP_23->SAJED_23
+SAJED_5->TRAMB_5
+ID:1594 MYTPP->ECGYE Transported 17, trans in %: 100
+ Path MYTPP_9->GBFXT_9
+GBFXT_0->ECGYE_0
+ID:1716 JPYOK->PAMIT Transported 29, trans in %: 100
+ Path JPYOK_21->MYTPP_21
+MYTPP_24->ESALG_24
+ESALG_15->PAMIT_15
+ID:1717 JPYOK->USMIA Transported 4, trans in %: 100
+ Path JPYOK_21->MYTPP_21
+MYTPP_24->ESALG_24
+ESALG_15->USMIA_15
+ID:1735 JPYOK->BEZEE Transported 12, trans in %: 100
+ Path JPYOK_35->TWKHH_35
+TWKHH_27->ITGIT_27
+ITGIT_25->BEZEE_25
+ID:19 ESALG->TWKHH Transported 25, trans in %: 100
+ Path ESALG_24->MYTPP_24
+MYTPP_7->TWKHH_7
+ID:157 NZAKL->NGAPP Transported 28, trans in %: 100
+ Path NZAKL_9->GBFXT_9
+GBFXT_14->NGAPP_14
+ID:171 NZAKL->INNSA Transported 1.9812, trans in %: 19.812
+ Path NZAKL_18->TWKHH_18
+TWKHH_7->INNSA_7
+ID:192 NZAKL->GHTKD Transported 2, trans in %: 100
+ Path NZAKL_9->GBFXT_9
+GBFXT_14->NGAPP_14
+NGAPP_0->GHTKD_0
+ID:261 DEBRV->TRAMB Transported 18.1954, trans in %: 6.36203
+ Path DEBRV_25->SAJED_25
+SAJED_5->TRAMB_5
+ID:278 DEBRV->TWKHH Transported 134, trans in %: 100
+ Path DEBRV_26->MYPKG_26
+MYPKG_34->TWKHH_34
+ID:357 KRPUS->GBFXT Transported 49, trans in %: 100
+ Path KRPUS_23->SAJED_23
+SAJED_33->GBFXT_33
+ID:371 KRPUS->UYMVD Transported 21, trans in %: 100
+ Path KRPUS_23->SAJED_23
+SAJED_5->TRAMB_5
+TRAMB_1->UYMVD_1
+ID:413 USCHS->MYPKG Transported 4, trans in %: 100
+ Path USCHS_12->MYTPP_12
+MYTPP_16->MYPKG_16
+ID:429 LKCMB->BEANR Transported 47.9836, trans in %: 95.9672
+ Path LKCMB_22->ITGIT_22
+ITGIT_13->BEANR_13
+ID:473 ZADUR->TRAMB Transported 19, trans in %: 100
+ Path ZADUR_19->SAJED_19
+SAJED_5->TRAMB_5
+ID:492 ZADUR->TWKHH Transported 43, trans in %: 100
+ Path ZADUR_16->MYPKG_16
+MYPKG_34->TWKHH_34
+ID:521 GBFXT->AUBNE Transported 64.8046, trans in %: 57.3492
+ Path GBFXT_22->SAJED_22
+SAJED_12->AUBNE_12
+ID:669 HKHKG->PABLB Transported 92.8046, trans in %: 34.2452
+ Path HKHKG_26->DEBRV_26
+DEBRV_17->PABLB_17
+ID:674 HKHKG->USCHS Transported 146, trans in %: 100
+ Path HKHKG_29->LKCMB_29
+LKCMB_12->USCHS_12
+ID:681 HKHKG->INNSA Transported 52, trans in %: 100
+ Path HKHKG_27->TWKHH_27
+TWKHH_7->INNSA_7
+ID:688 HKHKG->USMIA Transported 100, trans in %: 100
+ Path HKHKG_26->DEBRV_26
+DEBRV_15->USMIA_15
+ID:690 HKHKG->UYMVD Transported 68, trans in %: 100
+ Path HKHKG_27->ITGIT_27
+ITGIT_6->TRAMB_6
+TRAMB_1->UYMVD_1
+ID:711 INNSA->NGAPP Transported 141.008, trans in %: 62.393
+ Path INNSA_6->ESALG_6
+ESALG_14->NGAPP_14
+ID:713 INNSA->PABLB Transported 7, trans in %: 100
+ Path INNSA_6->ESALG_6
+ESALG_17->PABLB_17
+ID:743 INNSA->BRSSZ Transported 37, trans in %: 100
+ Path INNSA_4->PAMIT_4
+PAMIT_13->BRSSZ_13
+ID:769 AEJEA->INNSA Transported 158, trans in %: 100
+ Path AEJEA_7->PKBQM_7
+PKBQM_4->INNSA_4
+ID:771 AEJEA->TWKHH Transported 3, trans in %: 100
+ Path AEJEA_9->MYPKG_9
+MYPKG_34->TWKHH_34
+ID:783 AEJEA->CNTAO Transported 30, trans in %: 100
+ Path AEJEA_9->MYPKG_9
+MYPKG_34->CNTAO_34
+ID:809 SAJED->GBFXT Transported 43, trans in %: 100
+ Path SAJED_33->GBFXT_33
+ID:866 TWKHH->UYMVD Transported 13, trans in %: 100
+ Path TWKHH_27->ITGIT_27
+ITGIT_6->TRAMB_6
+TRAMB_1->UYMVD_1
+ID:1131 MYPKG->BEANR Transported 2, trans in %: 100
+ Path MYPKG_34->TWKHH_34
+TWKHH_27->ITGIT_27
+ITGIT_13->BEANR_13
+ID:1142 MYPKG->ITGIT Transported 36, trans in %: 100
+ Path MYPKG_34->TWKHH_34
+TWKHH_27->ITGIT_27
+ID:1181 PKBQM->GBFXT Transported 10, trans in %: 32.2581
+ Path PKBQM_7->SAJED_7
+SAJED_33->GBFXT_33
+ID:1232 EGPSD->CNTAO Transported 43, trans in %: 100
+ Path EGPSD_12->MYTPP_12
+MYTPP_34->CNTAO_34
+ID:1295 CNTAO->UYMVD Transported 11, trans in %: 100
+ Path CNTAO_27->ITGIT_27
+ITGIT_6->TRAMB_6
+TRAMB_1->UYMVD_1
+ID:1372 OMSLL->TWKHH Transported 2, trans in %: 100
+ Path OMSLL_6->MYPKG_6
+MYPKG_34->TWKHH_34
+ID:1385 OMSLL->BRSSZ Transported 3, trans in %: 100
+ Path OMSLL_24->ESALG_24
+ESALG_14->BRSSZ_14
+ID:1466 CNSHA->TRAMB Transported 277, trans in %: 100
+ Path CNSHA_23->SAJED_23
+SAJED_5->TRAMB_5
+ID:1468 CNSHA->NGAPP Transported 430.443, trans in %: 57.1637
+ Path CNSHA_26->DEBRV_26
+DEBRV_28->NGAPP_28
+ID:1494 CNSHA->PKBQM Transported 56, trans in %: 100
+ Path CNSHA_29->MYPKG_29
+MYPKG_6->PKBQM_6
+ID:1543 SGSIN->BRSSZ Transported 1, trans in %: 100
+ Path SGSIN_24->ESALG_24
+ESALG_14->BRSSZ_14
+ID:1606 MYTPP->UYMVD Transported 5, trans in %: 16.6667
+ Path MYTPP_23->SAJED_23
+SAJED_5->TRAMB_5
+TRAMB_1->UYMVD_1
+ID:1609 MYTPP->PKBQM Transported 73, trans in %: 100
+ Path MYTPP_11->MYPKG_11
+MYPKG_6->PKBQM_6
+ID:1637 CAVAN->TWKHH Transported 34, trans in %: 100
+ Path CAVAN_21->MYTPP_21
+MYTPP_34->TWKHH_34
+ID:1639 CAVAN->MYPKG Transported 6, trans in %: 100
+ Path CAVAN_21->MYTPP_21
+MYTPP_16->MYPKG_16
+ID:1653 CNYTN->NGAPP Transported 164.008, trans in %: 60.2971
+ Path CNYTN_34->MYPKG_34
+MYPKG_16->NGAPP_16
+ID:1660 CNYTN->USCHS Transported 203.204, trans in %: 49.683
+ Path CNYTN_34->MYPKG_34
+MYPKG_9->USCHS_9
+ID:1665 CNYTN->DEHAM Transported 53.7398, trans in %: 46.7303
+ Path CNYTN_21->MYTPP_21
+MYTPP_23->SAJED_23
+SAJED_30->DEHAM_30
+ID:1669 CNYTN->SAJED Transported 188, trans in %: 100
+ Path CNYTN_21->MYTPP_21
+MYTPP_23->SAJED_23
+ID:1676 CNYTN->UYMVD Transported 62, trans in %: 100
+ Path CNYTN_27->ITGIT_27
+ITGIT_6->TRAMB_6
+TRAMB_1->UYMVD_1
+ID:1687 CNYTN->GHTKD Transported 156, trans in %: 100
+ Path CNYTN_34->MYPKG_34
+MYPKG_16->NGAPP_16
+NGAPP_0->GHTKD_0
+ID:136 NGAPP->UYMVD Transported 1, trans in %: 100
+ Path NGAPP_13->ESALG_13
+ESALG_6->TRAMB_6
+TRAMB_1->UYMVD_1
+ID:1188 PKBQM->USLAX Transported 10, trans in %: 100
+ Path PKBQM_1->LKCMB_1
+LKCMB_29->JPYOK_29
+JPYOK_23->USLAX_23
+ID:1445 BRSSZ->TWKHH Transported 6, trans in %: 100
+ Path BRSSZ_13->ITGIT_13
+ITGIT_27->TWKHH_27
+ID:1454 BRSSZ->CNTAO Transported 6, trans in %: 100
+ Path BRSSZ_13->ITGIT_13
+ITGIT_27->CNTAO_27
+ID:1465 CNSHA->ESALG Transported 26.857, trans in %: 4.96433
+ Path CNSHA_29->MYTPP_29
+MYTPP_24->ESALG_24
+ID:1473 CNSHA->AUBNE Transported 86, trans in %: 37.2294
+ Path CNSHA_29->MYPKG_29
+MYPKG_11->AUBNE_11
+ID:1497 CNSHA->NLRTM Transported 1.052, trans in %: 100
+ Path CNSHA_29->MYPKG_29
+MYPKG_20->NLRTM_20
+ID:1498 CNSHA->OMSLL Transported 16, trans in %: 15.0943
+ Path CNSHA_29->MYTPP_29
+MYTPP_24->OMSLL_24
+ID:1509 SGSIN->TRAMB Transported 1.1954, trans in %: 29.885
+ Path SGSIN_24->EGPSD_24
+EGPSD_0->TRAMB_0
+ID:1665 CNYTN->DEHAM Transported 61.2602, trans in %: 53.2697
+ Path CNYTN_21->CNSHA_21
+CNSHA_23->SAJED_23
+SAJED_30->DEHAM_30
+ID:172 NZAKL->AEJEA Transported 42, trans in %: 100
+ Path NZAKL_9->MYTPP_9
+MYTPP_21->AEJEA_21
+ID:177 NZAKL->PAMIT Transported 53, trans in %: 94.6429
+ Path NZAKL_9->MYPKG_9
+MYPKG_20->DEBRV_20
+DEBRV_15->PAMIT_15
+ID:178 NZAKL->USMIA Transported 5, trans in %: 100
+ Path NZAKL_9->MYPKG_9
+MYPKG_20->DEBRV_20
+DEBRV_15->USMIA_15
+ID:325 AUBNE->USMIA Transported 9, trans in %: 100
+ Path AUBNE_9->MYPKG_9
+MYPKG_20->DEBRV_20
+DEBRV_15->USMIA_15
+ID:757 AEJEA->PABLB Transported 1, trans in %: 100
+ Path AEJEA_24->ESALG_24
+ESALG_17->PABLB_17
+ID:774 AEJEA->PAMIT Transported 3, trans in %: 100
+ Path AEJEA_24->ESALG_24
+ESALG_15->PAMIT_15
+ID:775 AEJEA->USMIA Transported 33, trans in %: 100
+ Path AEJEA_24->ESALG_24
+ESALG_15->USMIA_15
+ID:786 AEJEA->CLSAI Transported 1, trans in %: 100
+ Path AEJEA_24->ESALG_24
+ESALG_17->CLSAI_17
+ID:787 AEJEA->BRSSZ Transported 3, trans in %: 100
+ Path AEJEA_24->ESALG_24
+ESALG_17->PABLB_17
+PABLB_13->BRSSZ_13
+ *************** Rejected *****************
+ID:20 ESALG->AOLAD Rejected 22, in %: 100
+ID:23 ESALG->KEMBA Rejected 12, in %: 100
+ID:38 ESALG->GHTKD Rejected 63, in %: 100
+ID:60 TRAMB->AOLAD Rejected 9, in %: 100
+ID:62 TRAMB->KEMBA Rejected 13, in %: 100
+ID:73 TRAMB->GHTKD Rejected 13, in %: 100
+ID:94 BEANR->AOLAD Rejected 28, in %: 100
+ID:97 BEANR->KEMBA Rejected 18, in %: 100
+ID:98 BEANR->UYMVD Rejected 27, in %: 100
+ID:111 BEANR->GHTKD Rejected 69, in %: 100
+ID:132 NGAPP->AOLAD Rejected 8, in %: 100
+ID:135 NGAPP->KEMBA Rejected 6, in %: 100
+ID:149 NGAPP->GHTKD Rejected 17, in %: 100
+ID:176 NZAKL->AOLAD Rejected 5, in %: 100
+ID:179 NZAKL->KEMBA Rejected 1, in %: 100
+ID:212 PABLB->USLAX Rejected 63, in %: 100
+ID:243 ESBCN->AOLAD Rejected 3, in %: 100
+ID:246 ESBCN->KEMBA Rejected 6, in %: 100
+ID:247 ESBCN->UYMVD Rejected 1, in %: 100
+ID:256 ESBCN->GHTKD Rejected 10, in %: 100
+ID:280 DEBRV->AOLAD Rejected 13, in %: 100
+ID:283 DEBRV->KEMBA Rejected 64, in %: 100
+ID:284 DEBRV->UYMVD Rejected 11, in %: 52.381
+ID:298 DEBRV->GHTKD Rejected 96, in %: 100
+ID:326 AUBNE->KEMBA Rejected 2, in %: 100
+ID:367 KRPUS->AOLAD Rejected 7, in %: 100
+ID:370 KRPUS->KEMBA Rejected 35, in %: 100
+ID:410 USCHS->AOLAD Rejected 31, in %: 100
+ID:423 USCHS->GHTKD Rejected 52, in %: 100
+ID:449 LKCMB->AOLAD Rejected 8, in %: 100
+ID:452 LKCMB->KEMBA Rejected 60, in %: 100
+ID:453 LKCMB->UYMVD Rejected 7, in %: 100
+ID:466 LKCMB->GHTKD Rejected 19, in %: 100
+ID:494 ZADUR->AOLAD Rejected 53, in %: 100
+ID:496 ZADUR->KEMBA Rejected 5, in %: 100
+ID:509 ZADUR->GHTKD Rejected 25, in %: 100
+ID:536 GBFXT->KEMBA Rejected 81, in %: 100
+ID:550 GBFXT->GHTKD Rejected 17, in %: 100
+ID:576 ITGIT->AOLAD Rejected 169, in %: 100
+ID:579 ITGIT->KEMBA Rejected 55, in %: 100
+ID:593 ITGIT->GHTKD Rejected 131, in %: 100
+ID:599 ECGYE->ESALG Rejected 118, in %: 100
+ID:600 ECGYE->BEANR Rejected 23, in %: 100
+ID:603 ECGYE->PABLB Rejected 25, in %: 100
+ID:604 ECGYE->ESBCN Rejected 6, in %: 100
+ID:608 ECGYE->USCHS Rejected 17, in %: 100
+ID:610 ECGYE->GBFXT Rejected 60, in %: 100
+ID:611 ECGYE->ITGIT Rejected 63, in %: 100
+ID:612 ECGYE->DEHAM Rejected 3, in %: 100
+ID:613 ECGYE->HKHKG Rejected 37, in %: 100
+ID:614 ECGYE->INNSA Rejected 9, in %: 100
+ID:615 ECGYE->AEJEA Rejected 32, in %: 100
+ID:617 ECGYE->USLAX Rejected 78, in %: 100
+ID:618 ECGYE->PAMIT Rejected 38, in %: 100
+ID:619 ECGYE->USMIA Rejected 15, in %: 100
+ID:620 ECGYE->USEWR Rejected 90, in %: 100
+ID:621 ECGYE->CNTAO Rejected 46, in %: 100
+ID:622 ECGYE->NLRTM Rejected 245, in %: 88.4477
+ID:623 ECGYE->CLSAI Rejected 9, in %: 100
+ID:624 ECGYE->BRSSZ Rejected 10, in %: 100
+ID:625 ECGYE->CNSHA Rejected 10, in %: 100
+ID:629 ECGYE->JPYOK Rejected 64, in %: 100
+ID:630 ECGYE->BEZEE Rejected 6, in %: 100
+ID:648 DEHAM->KEMBA Rejected 15, in %: 100
+ID:649 DEHAM->UYMVD Rejected 13, in %: 100
+ID:660 DEHAM->GHTKD Rejected 2, in %: 100
+ID:686 HKHKG->AOLAD Rejected 27, in %: 38.0282
+ID:689 HKHKG->KEMBA Rejected 102, in %: 100
+ID:702 HKHKG->GHTKD Rejected 7.905, in %: 3.59318
+ID:729 INNSA->AOLAD Rejected 100, in %: 100
+ID:732 INNSA->KEMBA Rejected 102, in %: 100
+ID:733 INNSA->UYMVD Rejected 17, in %: 100
+ID:746 INNSA->GHTKD Rejected 97, in %: 100
+ID:773 AEJEA->AOLAD Rejected 212, in %: 100
+ID:776 AEJEA->KEMBA Rejected 229, in %: 100
+ID:777 AEJEA->UYMVD Rejected 14, in %: 100
+ID:790 AEJEA->GHTKD Rejected 192, in %: 100
+ID:821 SAJED->KEMBA Rejected 50, in %: 100
+ID:835 SAJED->GHTKD Rejected 20.095, in %: 87.3696
+ID:862 TWKHH->AOLAD Rejected 3, in %: 100
+ID:865 TWKHH->KEMBA Rejected 10, in %: 100
+ID:877 TWKHH->GHTKD Rejected 3, in %: 100
+ID:886 USLAX->PABLB Rejected 67, in %: 100
+ID:894 USLAX->ECGYE Rejected 16, in %: 100
+ID:900 USLAX->AOLAD Rejected 2, in %: 100
+ID:901 USLAX->PAMIT Rejected 114, in %: 100
+ID:909 USLAX->CLSAI Rejected 18, in %: 100
+ID:912 USLAX->GHTKD Rejected 6, in %: 100
+ID:953 PAMIT->USLAX Rejected 46, in %: 100
+ID:1009 KEMBA->NGAPP Rejected 14, in %: 100
+ID:1013 KEMBA->KRPUS Rejected 9, in %: 100
+ID:1015 KEMBA->LKCMB Rejected 60, in %: 100
+ID:1016 KEMBA->ZADUR Rejected 29, in %: 100
+ID:1020 KEMBA->HKHKG Rejected 43, in %: 100
+ID:1021 KEMBA->INNSA Rejected 28, in %: 100
+ID:1023 KEMBA->SAJED Rejected 43, in %: 97.7273
+ID:1024 KEMBA->TWKHH Rejected 1, in %: 100
+ID:1028 KEMBA->MYPKG Rejected 4, in %: 100
+ID:1029 KEMBA->PKBQM Rejected 6, in %: 100
+ID:1033 KEMBA->OMSLL Rejected 7, in %: 100
+ID:1034 KEMBA->CNSHA Rejected 15, in %: 100
+ID:1035 KEMBA->SGSIN Rejected 1, in %: 100
+ID:1036 KEMBA->MYTPP Rejected 35, in %: 100
+ID:1038 KEMBA->CNYTN Rejected 1, in %: 100
+ID:1041 UYMVD->ESALG Rejected 93, in %: 100
+ID:1042 UYMVD->TRAMB Rejected 1, in %: 100
+ID:1043 UYMVD->BEANR Rejected 20, in %: 100
+ID:1045 UYMVD->ESBCN Rejected 1, in %: 100
+ID:1046 UYMVD->DEBRV Rejected 140, in %: 38.4615
+ID:1048 UYMVD->KRPUS Rejected 27, in %: 100
+ID:1049 UYMVD->ZADUR Rejected 37, in %: 100
+ID:1050 UYMVD->GBFXT Rejected 24, in %: 100
+ID:1051 UYMVD->ITGIT Rejected 71, in %: 100
+ID:1052 UYMVD->DEHAM Rejected 5, in %: 100
+ID:1053 UYMVD->HKHKG Rejected 43, in %: 100
+ID:1058 UYMVD->AOLAD Rejected 93, in %: 100
+ID:1059 UYMVD->PAMIT Rejected 76, in %: 100
+ID:1060 UYMVD->KEMBA Rejected 6, in %: 100
+ID:1061 UYMVD->CAMTR Rejected 27, in %: 100
+ID:1065 UYMVD->MAPTM Rejected 1, in %: 100
+ID:1066 UYMVD->CNTAO Rejected 27, in %: 100
+ID:1067 UYMVD->NLRTM Rejected 125, in %: 100
+ID:1069 UYMVD->CNSHA Rejected 38, in %: 100
+ID:1071 UYMVD->GHTKD Rejected 8, in %: 100
+ID:1073 UYMVD->CNYTN Rejected 1, in %: 100
+ID:1113 USEWR->AOLAD Rejected 18, in %: 100
+ID:1125 USEWR->GHTKD Rejected 88, in %: 100
+ID:1148 MYPKG->AOLAD Rejected 9, in %: 100
+ID:1151 MYPKG->KEMBA Rejected 4, in %: 100
+ID:1164 MYPKG->GHTKD Rejected 44, in %: 100
+ID:1191 PKBQM->KEMBA Rejected 62, in %: 100
+ID:1192 PKBQM->UYMVD Rejected 2, in %: 100
+ID:1200 PKBQM->GHTKD Rejected 17, in %: 100
+ID:1224 EGPSD->AOLAD Rejected 31, in %: 100
+ID:1238 EGPSD->GHTKD Rejected 86, in %: 100
+ID:1257 MAPTM->AOLAD Rejected 1, in %: 100
+ID:1267 MAPTM->GHTKD Rejected 10, in %: 100
+ID:1294 CNTAO->KEMBA Rejected 78, in %: 100
+ID:1332 NLRTM->AOLAD Rejected 36, in %: 100
+ID:1335 NLRTM->KEMBA Rejected 92, in %: 100
+ID:1336 NLRTM->UYMVD Rejected 21, in %: 100
+ID:1349 NLRTM->GHTKD Rejected 178, in %: 100
+ID:1374 OMSLL->AOLAD Rejected 3, in %: 100
+ID:1377 OMSLL->KEMBA Rejected 46, in %: 100
+ID:1388 OMSLL->GHTKD Rejected 1, in %: 100
+ID:1414 CLSAI->USLAX Rejected 47.071, in %: 94.142
+ID:1449 BRSSZ->KEMBA Rejected 10, in %: 100
+ID:1490 CNSHA->KEMBA Rejected 23, in %: 13.9394
+ID:1530 SGSIN->AOLAD Rejected 23, in %: 100
+ID:1533 SGSIN->KEMBA Rejected 16, in %: 100
+ID:1545 SGSIN->GHTKD Rejected 20, in %: 100
+ID:1602 MYTPP->AOLAD Rejected 41, in %: 100
+ID:1605 MYTPP->KEMBA Rejected 71, in %: 100
+ID:1619 MYTPP->GHTKD Rejected 129, in %: 100
+ID:1672 CNYTN->AOLAD Rejected 55, in %: 100
+ID:1675 CNYTN->KEMBA Rejected 101, in %: 100
+ID:1751 BEZEE->KEMBA Rejected 89, in %: 100
+ID:1752 BEZEE->UYMVD Rejected 5, in %: 100
+*********************************************
+Objective value: 6.40303e+07  Objective value without penalty: 7.04714e+07
+ Half year Objective (FERNANDO) 1.60076e+09
+Vessel Class cost: 3.1199e+07
+Bunker idle burn cost: 766080
+fuel_burn: 4.30318e+07
+Port Call Cost: 5.84823e+06
+Canal costs 1.46576e+07
+Revenue: 2.26726e+08
+Penalty: 6.44107e+06
+Handling cost: 6.07521e+07
+transported % 94.9789
+deployment % 90.2208
+0.596972 service id 30
+0.60726 service id 27
+0.618698 service id 34
+0.672222 service id 29
+0.688075 service id 35
+0.692708 service id 32
+0.699601 service id 23
+0.717048 service id 21
+0.723842 service id 16
+0.730945 service id 22
+0.734 service id 24
+0.736408 service id 5
+0.790947 service id 26
+0.792222 service id 3
+0.794136 service id 12
+0.820561 service id 18
+0.821111 service id 6
+0.826019 service id 13
+0.83195 service id 19
+0.833183 service id 0
+0.852292 service id 15
+0.852299 service id 14
+0.853833 service id 11
+0.866313 service id 28
+0.867539 service id 25
+0.873543 service id 33
+0.880571 service id 20
+0.888924 service id 4
+0.900559 service id 7
+0.912591 service id 1
+0.919722 service id 10
+0.929459 service id 9
+0.953491 service id 8
+0.965419 service id 31
+0.977027 service id 17
+1 service id 2
+ total 2740 accepted 1055 acceptance percentage 0.385036 k 11
+1.60076e+09 & 6.40303e+07 & -235.495 & 90.2208 & 94.9789 & 10824.4
+Time 10824.4
+Time 10824.4931

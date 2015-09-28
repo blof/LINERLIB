@@ -8,6 +8,8 @@ OBJS = \
 	./bm_data.o\
 	./cl_parameters.o\
 	./bm_reader.o\
+	./bm_rotation.o\
+	./bm_validator.o\
 
 
 # C++ Compiler command

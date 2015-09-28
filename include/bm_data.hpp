@@ -22,6 +22,7 @@
 #define BM_DATA_HPP
 
 #include "../include/BM_Graph.hpp"
+#include "bm_rotation.h"
 
 #include <string>
 #ifdef WIN32
@@ -179,6 +180,7 @@ namespace BM
       pair<double, double > get_suez_cost_factors(){
 	return m_suez_cost_factors;
       }
+
       pair<double, double > get_panama_cost_factors(){
 	return m_panama_cost_factors;
       }
@@ -192,7 +194,7 @@ namespace BM
       void print_distances_by_id();
 
     private:
-//Graph can either be a sparse graph, including waypoints, with distances in between these and ports. Or a complete graph with all port-port Distances, but no waypoints.
+      //Graph can either be a sparse graph, including waypoints, with distances in between these and ports. Or a complete graph with all port-port Distances, but no waypoints.
       bool m_all_to_all_graph;
 
       Graph m_graph;

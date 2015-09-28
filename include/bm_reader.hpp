@@ -21,6 +21,7 @@
 #include "../include/BM_Graph.hpp"
 #include "../include/bm_data.hpp"
 #include "../include/cl_parameters.hpp"
+#include "bm_rotation.h"
 #include <boost/config.hpp>
 #include <boost/graph/adjacency_list.hpp>
 #include <boost/graph/graph_traits.hpp>
@@ -104,6 +105,8 @@ public:
 		return m_instance_ports;
 	}
 
+//	void read_OPTIMIZEDinstance(const char* networkfile);
+
 private:
 	cl_parameters m_file_names;
 	Graph m_graph; //a graph representation of the vertices
@@ -116,11 +119,14 @@ private:
 	Graph m_instance_graph;
 
 	vertex_descriptor UNLOCODE_to_vertex ( string UNLOCODE );
+	//vesselclass get_vessel_class(int capacity);
 	void test_bundled_properties();
 
 	pair<double, double> m_suez;
 
 	pair<double, double> m_panama;
+
+	//vector<rotation> m_rotations; //rotation variables for validator
 };
 }
 #endif

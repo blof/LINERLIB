@@ -1,0 +1,35 @@
+[
+    {
+        "rot_id": 0,
+        "rot_speed": 10,
+        "rot_num_v": 3,
+        "rot_class": "Feeder_450",
+        "rot_calls": ["DEBRV", "SEGOT", "DKAAR"],
+	"cargo": [
+		{
+		"orig" : "SEGOT" ,
+		"dest" : "PLGDY" ,
+		"entry" : "SEGOT",
+		"exit" : "DEBRV",
+		"quantity" : 200
+		}
+	]
+    },
+    {
+        "rot_id": 1,
+        "rot_speed": 14,
+        "rot_num_v": 3,
+        "rot_class": "Panamax_1200",
+        "rot_calls": ["DEBRV", "PLGDY", "FIKTK"],
+	"cargo": [
+		{
+		"orig" : "SEGOT" ,
+		"dest" : "PLGDY" ,
+		"entry" : "DEBRV",
+		"exit" : "PLGDY",
+		"quantity" : 200
+		}
+	]
+
+    }
+]

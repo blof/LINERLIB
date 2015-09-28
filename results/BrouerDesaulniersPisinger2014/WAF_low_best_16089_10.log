@@ -1,0 +1,266 @@
+Command line parameters: 
+ports /home/berit/git/LINERLIB/data/ports.csv demands /home/berit/git/LINERLIB/data/Demand_WAF.csv distances /home/berit/git/LINERLIB/data/dist_dense.csv vessels /home/berit/git/lsndp/data/fleet_WAF_low.csv quantities /home/berit/git/lsndp/data/fleet_data_low_rounded.csv
+Seed = 1398207636
+*********************Best found solution********************************
+service 0 service id 0
+capacity 800
+ # vessels 5
+ Butterfly rotation 
+6	BJCOO	Cotonou
+0	CIABJ	Abidjan
+1	ESALG	Algeciras
+7	SNDKR	Dakar
+1	ESALG	Algeciras
+
+ speed 12.325
+ voyage distance nautical miles 8874
+ voyage duration in weeks 5
+ Port call cost 50167
+ Bunker idle burn in Ton 12.5
+ Bunker fuel burn in Ton 485.117
+ Total bunker cost at 600 USD for one round trip 298570
+ Total TC cost 385000
+service 1 service id 1
+capacity 800
+ # vessels 5
+12	AOLOB	Lobito
+4	CDBOA	Boma
+1	ESALG	Algeciras
+6	BJCOO	Cotonou
+13	TGLFW	Lome
+17	CGPNR	Pointe Noire
+15	CDMAT	Matadi
+
+ speed 13.0283
+ voyage distance nautical miles 8755
+ voyage duration in weeks 5
+ Port call cost 267647
+ Bunker idle burn in Ton 17.5
+ Bunker fuel burn in Ton 534.79
+ Total bunker cost at 600 USD for one round trip 331374
+ Total TC cost 385000
+service 2 service id 2
+capacity 800
+ # vessels 3
+13	TGLFW	Lome
+2	NGAPP	Apapa
+1	ESALG	Algeciras
+
+ speed 13.9375
+ voyage distance nautical miles 6021
+ voyage duration in weeks 3
+ Port call cost 61773
+ Bunker idle burn in Ton 7.5
+ Bunker fuel burn in Ton 420.912
+ Total bunker cost at 600 USD for one round trip 257047
+ Total TC cost 231000
+service 3 service id 3
+capacity 800
+ # vessels 3
+1	ESALG	Algeciras
+2	NGAPP	Apapa
+
+ speed 13.1579
+ voyage distance nautical miles 6000
+ voyage duration in weeks 3
+ Port call cost 53361
+ Bunker idle burn in Ton 5
+ Bunker fuel burn in Ton 373.833
+ Total bunker cost at 600 USD for one round trip 227300
+ Total TC cost 231000
+service 4 service id 4
+capacity 450
+ # vessels 5
+1	ESALG	Algeciras
+14	AOLAD	Luanda
+2	NGAPP	Apapa
+20	GHTKD	Takoradi
+
+ speed 10.7567
+ voyage distance nautical miles 8003
+ voyage duration in weeks 5
+ Port call cost 100033
+ Bunker idle burn in Ton 9.6
+ Bunker fuel burn in Ton 419.774
+ Total bunker cost at 600 USD for one round trip 257624
+ Total TC cost 245000
+service 5 service id 5
+capacity 800
+ # vessels 3
+2	NGAPP	Apapa
+1	ESALG	Algeciras
+
+ speed 13.1579
+ voyage distance nautical miles 6000
+ voyage duration in weeks 3
+ Port call cost 53361
+ Bunker idle burn in Ton 5
+ Bunker fuel burn in Ton 373.833
+ Total bunker cost at 600 USD for one round trip 227300
+ Total TC cost 231000
+service 6 service id 6
+capacity 800
+ # vessels 3
+1	ESALG	Algeciras
+2	NGAPP	Apapa
+
+ speed 13.1579
+ voyage distance nautical miles 6000
+ voyage duration in weeks 3
+ Port call cost 53361
+ Bunker idle burn in Ton 5
+ Bunker fuel burn in Ton 373.833
+ Total bunker cost at 600 USD for one round trip 227300
+ Total TC cost 231000
+service 7 service id 7
+capacity 450
+ # vessels 3
+5	GNCKY	Conakry
+16	LRMLW	Monrovia
+1	ESALG	Algeciras
+
+ speed 10.2523
+ voyage distance nautical miles 4429
+ voyage duration in weeks 3
+ Port call cost 109278
+ Bunker idle burn in Ton 7.2
+ Bunker fuel burn in Ton 211.034
+ Total bunker cost at 600 USD for one round trip 130940
+ Total TC cost 147000
+service 8 service id 8
+capacity 450
+ # vessels 2
+ Butterfly rotation 
+2	NGAPP	Apapa
+11	GALBV	Libreville
+9	CMDLA	Douala
+2	NGAPP	Apapa
+20	GHTKD	Takoradi
+
+ speed 10
+ voyage distance nautical miles 1834
+ voyage duration in weeks 1.80595
+ Port call cost 169579
+ Bunker idle burn in Ton 12
+ Bunker fuel burn in Ton 83.1385
+ Total bunker cost at 600 USD for one round trip 57083.1
+ Total TC cost 98000
+ ------------------Flow Solution ---------------------- 
+ID:0 CIABJ->ESALG Transported 326, trans in %: 100
+ Path CIABJ_0->ESALG_0
+ID:1 ESALG->CIABJ Transported 317, trans in %: 100
+ Path ESALG_0->CIABJ_0
+ID:2 ESALG->NGAPP Transported 350, trans in %: 22.2505
+ Path ESALG_6->NGAPP_6
+ID:5 ESALG->GNCKY Transported 267, trans in %: 100
+ Path ESALG_7->GNCKY_7
+ID:6 ESALG->BJCOO Transported 200, trans in %: 29.2826
+ Path ESALG_1->BJCOO_1
+ID:7 ESALG->SNDKR Transported 565, trans in %: 100
+ Path ESALG_0->SNDKR_0
+ID:12 ESALG->AOLOB Transported 247, trans in %: 79.4212
+ Path ESALG_1->AOLOB_1
+ID:13 ESALG->TGLFW Transported 412, trans in %: 100
+ Path ESALG_2->TGLFW_2
+ID:14 ESALG->AOLAD Transported 450, trans in %: 64.6552
+ Path ESALG_4->AOLAD_4
+ID:15 ESALG->CDMAT Transported 220, trans in %: 100
+ Path ESALG_1->CDMAT_1
+ID:16 ESALG->LRMLW Transported 142, trans in %: 100
+ Path ESALG_7->LRMLW_7
+ID:17 ESALG->CGPNR Transported 133, trans in %: 100
+ Path ESALG_1->CGPNR_1
+ID:19 ESALG->GHTKD Transported 450, trans in %: 57.3248
+ Path ESALG_6->NGAPP_6
+NGAPP_8->GHTKD_8
+ID:20 NGAPP->ESALG Transported 88, trans in %: 100
+ Path NGAPP_2->ESALG_2
+ID:22 GNCKY->ESALG Transported 59, trans in %: 100
+ Path GNCKY_7->ESALG_7
+ID:23 BJCOO->ESALG Transported 94, trans in %: 100
+ Path BJCOO_0->ESALG_0
+ID:24 SNDKR->ESALG Transported 189, trans in %: 100
+ Path SNDKR_0->ESALG_0
+ID:26 CMDLA->ESALG Transported 286, trans in %: 100
+ Path CMDLA_8->NGAPP_8
+NGAPP_5->ESALG_5
+ID:28 GALBV->ESALG Transported 54, trans in %: 100
+ Path GALBV_8->NGAPP_8
+NGAPP_6->ESALG_6
+ID:29 AOLOB->ESALG Transported 51, trans in %: 100
+ Path AOLOB_1->ESALG_1
+ID:30 TGLFW->ESALG Transported 140, trans in %: 100
+ Path TGLFW_2->NGAPP_2
+NGAPP_3->ESALG_3
+ID:31 AOLAD->ESALG Transported 2, trans in %: 100
+ Path AOLAD_4->NGAPP_4
+NGAPP_5->ESALG_5
+ID:32 CDMAT->ESALG Transported 17, trans in %: 100
+ Path CDMAT_1->ESALG_1
+ID:33 LRMLW->ESALG Transported 52, trans in %: 100
+ Path LRMLW_7->ESALG_7
+ID:34 CGPNR->ESALG Transported 19, trans in %: 100
+ Path CGPNR_1->ESALG_1
+ID:36 GHTKD->ESALG Transported 227, trans in %: 100
+ Path GHTKD_4->ESALG_4
+ID:2 ESALG->NGAPP Transported 561, trans in %: 35.6643
+ Path ESALG_3->NGAPP_3
+ID:6 ESALG->BJCOO Transported 483, trans in %: 70.7174
+ Path ESALG_0->BJCOO_0
+ID:19 ESALG->GHTKD Transported 239, trans in %: 30.4459
+ Path ESALG_3->NGAPP_3
+NGAPP_4->GHTKD_4
+ID:4 ESALG->CDBOA Transported 60, trans in %: 100
+ Path ESALG_2->TGLFW_2
+TGLFW_1->CDBOA_1
+ID:9 ESALG->CMDLA Transported 264, trans in %: 96.3504
+ Path ESALG_2->NGAPP_2
+NGAPP_8->CMDLA_8
+ID:12 ESALG->AOLOB Transported 64, trans in %: 20.5788
+ Path ESALG_2->TGLFW_2
+TGLFW_1->AOLOB_1
+ID:2 ESALG->NGAPP Transported 662, trans in %: 42.0852
+ Path ESALG_5->NGAPP_5
+ID:9 ESALG->CMDLA Transported 10, trans in %: 3.64964
+ Path ESALG_5->NGAPP_5
+NGAPP_8->CMDLA_8
+ID:11 ESALG->GALBV Transported 128, trans in %: 100
+ Path ESALG_5->NGAPP_5
+NGAPP_8->GALBV_8
+ *************** Rejected *****************
+ID:3 ESALG->GWOXB Rejected 5, in %: 100
+ID:8 ESALG->DJJIB Rejected 162, in %: 100
+ID:10 ESALG->SLFNA Rejected 101, in %: 100
+ID:14 ESALG->AOLAD Rejected 246, in %: 35.3448
+ID:18 ESALG->GAPOG Rejected 2, in %: 100
+ID:19 ESALG->GHTKD Rejected 96, in %: 12.2293
+ID:21 GWOXB->ESALG Rejected 40, in %: 100
+ID:25 DJJIB->ESALG Rejected 37, in %: 100
+ID:27 SLFNA->ESALG Rejected 16, in %: 100
+ID:35 GAPOG->ESALG Rejected 8, in %: 100
+*********************************************
+Objective value: 4.57818e+06  Objective value without penalty: 5.29118e+06
+ Half year Objective (FERNANDO) 1.14454e+08
+Vessel Class cost: 2.184e+06
+Bunker idle burn cost: 48780
+fuel_burn: 1.96576e+06
+Port Call Cost: 918560
+Canal costs 0
+Revenue: 1.3823e+07
+Penalty: 713000
+Handling cost: 3.41471e+06
+transported % 91.652
+deployment % 96.9697
+0.51 service id 4
+0.53375 service id 6
+0.534074 service id 7
+0.538333 service id 2
+0.5875 service id 3
+0.59625 service id 0
+0.602679 service id 1
+0.675556 service id 8
+0.68 service id 5
+ total 4899 accepted 593 acceptance percentage 0.121045 k 7
+1.14454e+08 & 4.57818e+06 & -4238.37 & 96.9697 & 91.652 & 94.9279
+Time 94.928
+Time 94.929633

@@ -1,5 +1,5 @@
 /*
-    <one line to give the program's name and a brief idea of what it does.>
+ *     <one line to give the program's name and a brief idea of what it does.>
     Copyright (C) <year>  <name of author>
 
     This program is free software; you can redistribute it and/or modify
@@ -565,3 +565,162 @@ void BM::reader::make_vessel_class_bunker_consumption(){
 		}
 	}
 }
+
+/*
+//TODO: this function should be replaced by a JSON reader/writer, but for now using this to validate results
+
+void reader::read_OPTIMIZEDinstance(const char* networkfile) {
+
+	int num_v;
+	int capacity;
+	BM::vesselclass v;
+	int index;
+	const char* ch;
+	string name;
+	map<string, int> service_name_to_index;
+
+	string service_name;
+	vector<string> calls;
+	vector<int> port_ids;
+
+	BM::vertex_descriptor p;
+	BM::Node N;
+	string UNLOCODE;
+	bool found;
+
+	ifstream in ( networkfile);
+	if ( !in.is_open() )
+	{
+		cerr << "cannot open optimized network file " << networkfile << endl;
+		exit ( 0 );
+	}
+
+	escaped_list_separator<char>  sep_service ( "","\t","" );
+	escaped_list_separator<char>  sep_info ( ""," ","" );
+
+	vector< string > fields_info, fields_service, fields;
+	string line;
+
+	//Skipping 5 Header lines
+	getline ( in,line );
+	getline ( in,line );
+	getline ( in,line );
+	getline ( in,line );
+	getline ( in,line );
+
+
+	while ( getline ( in,line ) )
+	{
+		Tokenizer tok_service ( line, sep_service );
+		Tokenizer tok_info ( line, sep_info );
+
+		fields_info.assign ( tok_info.begin(),tok_info.end() );
+		if(fields_service.size()!=3){
+			//cout << "service id: " << fields_info.at(1)<<endl;
+			name=fields_info.at(1);
+			ch=fields_info.at(1).c_str();
+			index=atoi(ch);
+
+			getline ( in,line );
+			fields_info.assign ( tok_info.begin(),tok_info.end() );
+			//cout << "capacity: " << fields_info.at(1)<<endl;
+			ch=fields_info.at(1).c_str();
+			capacity=atoi(ch);
+
+			getline ( in,line );
+			fields_info.assign ( tok_info.begin(),tok_info.end() );
+			//cout << "no vessels: " << fields_info.at(3)<<endl;
+			ch=fields_info.at(3).c_str();
+			num_v=atoi(ch);
+			v=get_vessel_class(capacity);
+
+			getline ( in,line );
+			Tokenizer tok_service ( line, sep_service );
+			fields_service.assign ( tok_service.begin(),tok_service.end() );
+			if(fields_service.size()!=3){
+				//cout<<"Butterfly = 1 "<<endl;
+				getline ( in,line );
+				Tokenizer tok_info ( line, sep_info );
+				fields_service.assign ( tok_service.begin(),tok_service.end() );
+			}
+			else{
+				//cout << "Butterfly = 0"<<endl;
+			}
+		}
+
+		while(fields_service.size()==3){
+			//cout << "Port id " << fields_service.at(0)<<endl;
+			ch=fields_service.at(0).c_str();
+			port_ids.push_back (atoi(ch));
+
+			//cout << "Unlocode  " << fields_service.at(1)<<endl;
+			UNLOCODE=fields_service.at(1);
+
+			tie(found, p)= UNLOCODE_to_vertex(UNLOCODE);
+			if(!found){
+				cerr << "In data::read_OPTIMIZEDinstance: ";
+				cerr << "UNLOCODE "  << UNLOCODE << endl;
+				cerr << " could not find " << UNLOCODE	<< " as a vertex " << endl;
+			}
+			N=m_instance_graph[p];
+
+			calls.push_back(N.UNLOCODE);
+			//cout << "sammenligning af ider "<< N.idx << "vs" << atoi(ch) << endl;
+
+			//cout << "Port " << fields_service.at(2)<<endl;
+			getline ( in,line );
+			Tokenizer tok_service ( line, sep_service );
+			Tokenizer tok_info ( line, sep_info );
+			fields_service.assign ( tok_service.begin(),tok_service.end() );
+			fields_info.assign ( tok_info.begin(),tok_info.end() );
+
+			//cout <<"size " << fields_info.size() << " empty " << fields_info.empty() <<" cap " << fields_info.capacity() << endl;
+			//if(fields_info.size()==0){
+			if(line.length()<=1){
+				getline ( in,line );
+				Tokenizer tok_service ( line, sep_service );
+				Tokenizer tok_info ( line, sep_info );
+				fields_service.assign ( tok_service.begin(),tok_service.end() );
+				fields_info.assign ( tok_info.begin(),tok_info.end() );
+				break;
+			}
+		}
+
+		ch=fields_info.at(1).c_str();
+		double speed=atof(ch);
+		cout << "Speed: " << speed <<endl;
+		getline ( in,line );
+		Tokenizer tok1 ( line, sep_info );
+		fields.assign ( tok1.begin(),tok1.end() );
+//		cout << "Distance: " << fields.at(5) << endl;
+		getline ( in,line );
+		fields.assign ( tok1.begin(),tok1.end() );
+//		cout << "Duration: " << fields.at(5)<<endl;
+
+		rotation rv= rotation ( v, speed, num_v , calls );
+		m_rotations.push_back(rv);
+
+		calls.clear();
+		port_ids.clear();
+
+		//break;
+	}
+	in.close();
+}
+
+vesselclass reader::get_vessel_class(int capacity) {
+
+
+	vesselclass v;
+	  vector<vesselclass>::iterator it, it_end;
+	  it_end=m_fleet.end();
+	  for ( it=m_fleet.begin(); it != it_end; it++ )
+	    {
+		  v=*it;
+		  if(it->m_capacity == capacity)	break;
+	    }
+
+	return v;
+}
+*/
+

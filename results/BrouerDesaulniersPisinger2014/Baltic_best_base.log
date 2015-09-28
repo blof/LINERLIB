@@ -1,0 +1,114 @@
+*********************Best found solution********************************
+service 0 service id 0
+capacity 450
+ # vessels 3
+ Butterfly rotation 
+8	RULED	St Petersburg
+5	FIKTK	Kotka
+1	DEBRV	Bremerhaven
+4	RUKGD	Kaliningrad
+2	PLGDY	Gdynia
+1	DEBRV	Bremerhaven
+
+ speed 11.1944
+ voyage distance nautical miles 4030
+ voyage duration in weeks 3
+ Port call cost 177273
+ Bunker idle burn in Ton 14.4
+ Bunker fuel burn in Ton 228.935
+ Total bunker cost at 600 USD for one round trip 146001
+ Total TC cost 105000
+service 1 service id 1
+capacity 800
+ # vessels 2
+ Butterfly rotation 
+8	RULED	St Petersburg
+1	DEBRV	Bremerhaven
+9	NOSVG	Stavanger
+3	SEGOT	Gothenburg
+1	DEBRV	Bremerhaven
+
+ speed 15.4954
+ voyage distance nautical miles 3347
+ voyage duration in weeks 2
+ Port call cost 125177
+ Bunker idle burn in Ton 12.5
+ Bunker fuel burn in Ton 289.21
+ Total bunker cost at 600 USD for one round trip 181026
+ Total TC cost 112000
+service 2 service id 2
+capacity 450
+ # vessels 1
+1	DEBRV	Bremerhaven
+12	DKAAR	Aarhus
+
+ speed 10
+ voyage distance nautical miles 894
+ voyage duration in weeks 0.817857
+ Port call cost 33106
+ Bunker idle burn in Ton 4.8
+ Bunker fuel burn in Ton 40.5266
+ Total bunker cost at 600 USD for one round trip 27196
+ Total TC cost 35000
+ ------------------Flow Solution ---------------------- 
+ID:2 DEBRV->PLGDY Transported 98, trans in %: 100
+ Path DEBRV_0->PLGDY_0
+ID:3 DEBRV->SEGOT Transported 597, trans in %: 100
+ Path DEBRV_1->SEGOT_1
+ID:4 DEBRV->RUKGD Transported 268, trans in %: 100
+ Path DEBRV_0->RUKGD_0
+ID:5 DEBRV->FIKTK Transported 187, trans in %: 100
+ Path DEBRV_0->FIKTK_0
+ID:8 DEBRV->RULED Transported 800, trans in %: 65.8436
+ Path DEBRV_1->RULED_1
+ID:9 DEBRV->NOSVG Transported 65, trans in %: 100
+ Path DEBRV_1->NOSVG_1
+ID:11 DEBRV->DKAAR Transported 450, trans in %: 98.6842
+ Path DEBRV_2->DKAAR_2
+ID:12 PLGDY->DEBRV Transported 231, trans in %: 100
+ Path PLGDY_0->DEBRV_0
+ID:13 SEGOT->DEBRV Transported 660, trans in %: 100
+ Path SEGOT_1->DEBRV_1
+ID:14 RUKGD->DEBRV Transported 7, trans in %: 100
+ Path RUKGD_0->DEBRV_0
+ID:15 FIKTK->DEBRV Transported 162, trans in %: 100
+ Path FIKTK_0->DEBRV_0
+ID:18 RULED->DEBRV Transported 298, trans in %: 100
+ Path RULED_1->DEBRV_1
+ID:19 NOSVG->DEBRV Transported 32, trans in %: 100
+ Path NOSVG_1->DEBRV_1
+ID:21 DKAAR->DEBRV Transported 397, trans in %: 100
+ Path DKAAR_2->DEBRV_2
+ID:8 DEBRV->RULED Transported 263, trans in %: 21.6461
+ Path DEBRV_0->RULED_0
+ *************** Rejected *****************
+ID:0 NOBGO->DEBRV Rejected 37, in %: 100
+ID:1 DEBRV->NOBGO Rejected 17, in %: 100
+ID:6 DEBRV->NOKRS Rejected 6, in %: 100
+ID:7 DEBRV->FIRAU Rejected 18, in %: 100
+ID:8 DEBRV->RULED Rejected 152, in %: 12.5103
+ID:10 DEBRV->NOAES Rejected 10, in %: 100
+ID:11 DEBRV->DKAAR Rejected 6, in %: 1.31579
+ID:16 NOKRS->DEBRV Rejected 16, in %: 100
+ID:17 FIRAU->DEBRV Rejected 77, in %: 100
+ID:20 NOAES->DEBRV Rejected 50, in %: 100
+*********************************************
+Objective value: 246605  Objective value without penalty: 635605
+ Half year Objective (FERNANDO) 6.16513e+06
+Vessel Class cost: 252000
+Bunker idle burn cost: 19020
+fuel_burn: 335203
+Port Call Cost: 335556
+Canal costs 0
+Revenue: 3.68726e+06
+Penalty: 389000
+Handling cost: 2.10988e+06
+transported % 92.0677
+deployment % 100
+0.558519 service id 0
+0.77025 service id 1
+0.941111 service id 2
+ total 1353 accepted 390 acceptance percentage 0.288248 k 9
+6.16513e+06 & 246605 & 118.146 & 100 & 92.0677 & 107.449
+Time 107.449
+Time 107.449062
