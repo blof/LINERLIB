@@ -76,3 +76,8 @@ Version 1.1 released April  2014
 **Duplicate entries of RULED removed**
 **lifting and port call cost in ports.csv rounded of to nearest integer**
 **readme files clarifies rounding of TC rates to nearest thousand as explained in the original article**
+
+Version 1.2. released February 2024
+**Added an additional Demand_WorldSmall file as demands above 1000 FFe where wrongfully truncated to a decimal number of 1.xx. Original file is kept for benchmarks and new correct demand file added as Demand_WorldSmall_Fixed_Sep.csv**
+**Added port cost for single port which was null**
+
