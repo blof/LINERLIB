@@ -1,3 +1,20 @@
+**Frontier AI Techniques for LSNDP**
+------------------------------------
+The Liner Shipping Network Design Problem (LSNDP) — deciding which cyclic vessel routes to operate, which vessels to deploy, and how to route 
+containerized cargo through the resulting network — is among the most challenging problems in transportation optimization. Despite three decades of
+operations research effort, no exact method can solve real-world instances to optimality, and even state-of-the-art metaheuristics leave significant
+optimality gaps on benchmark instances. We argue that the LSNDP’s unique structure — the coupling of combinatorial service design with continuous
+cargo flow, the exponential service generation space, and the deceptive fitness landscape — demands a fundamentally new class of hybrid solvers. 
+We survey six frontier techniques: AlphaEvolve-style LLM-guided program evolution, multi-agent LLM orchestration, GNN-accelerated column generation,
+hierarchical deep reinforcement learning, OPRO-style LLM-as-optimizer, and simulation-based robust optimization. For each, we analyze which 
+specific computational bottleneck of LSNDP it addresses and where it falls short. We then propose a three-layer architecture — evolved 
+heuristics (AlphaEvolve), structural reasoning (multi-agent LLM with critic), and mathematical guarantees (column generation backbone) — that 
+synergistically combines these paradigms. We ground our analysis in the LINERLIB benchmark suite, the standard testbed for LSNDP research.
+
+Below are details from the original Linerlib paper where the problem is forumated along with some data. This repo is suggesting use of modern AI techniques to solve this problem. The details are available in the paper called **'LSNDP_Frontier_AI_Paper.docx'**
+
+------------------------------------
+
 LINERLIB
 ========
 
